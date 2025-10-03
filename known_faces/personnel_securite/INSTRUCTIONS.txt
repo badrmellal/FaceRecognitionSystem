@@ -1,0 +1,26 @@
+INSTRUCTIONS FOR PERSONNEL_SECURITE
+==================================================
+
+QUALITY REQUIREMENTS:
+• 5-10 high-quality photos
+• Face occupies 50-70% of image
+• Clear, well-lit photos
+• Multiple angles and expressions
+• Resolution: 640x640+ pixels
+• Sharp, non-blurry images
+
+PHOTO TYPES:
+1. personnel_securite_front.jpg (front-facing)
+2. personnel_securite_smile.jpg (smiling)
+3. personnel_securite_left.jpg (slight left turn)
+4. personnel_securite_right.jpg (slight right turn)
+5. personnel_securite_up.jpg (slight upward look)
+
+AVOID:
+• Blurry images
+• Sunglasses or masks
+• Multiple faces in frame
+• Very dark or bright lighting
+
+After adding photos, run:
+python setup.py --add-faces

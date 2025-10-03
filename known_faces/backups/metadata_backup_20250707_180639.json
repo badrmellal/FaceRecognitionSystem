@@ -1,0 +1,41 @@
+{
+  "badr_mellal": {
+    "source_folder": "known_faces/badr_mellal",
+    "department": "Unknown",
+    "access_level": "Standard",
+    "encoding_method": "fixed_deepface",
+    "person_id": "badr_mellal",
+    "num_encodings": 10,
+    "num_source_images": 10,
+    "successful_images": 10,
+    "added_date": "2025-07-07T17:43:01.335392",
+    "model": "ArcFace",
+    "normalization": "applied"
+  },
+  "mounia_amrhar": {
+    "source_folder": "known_faces/mounia_amrhar",
+    "department": "Unknown",
+    "access_level": "Standard",
+    "encoding_method": "fixed_deepface",
+    "person_id": "mounia_amrhar",
+    "num_encodings": 7,
+    "num_source_images": 7,
+    "successful_images": 7,
+    "added_date": "2025-07-07T18:06:39.001693",
+    "model": "ArcFace",
+    "normalization": "applied"
+  },
+  "directeur_general": {
+    "source_folder": "known_faces/directeur_general",
+    "department": "Unknown",
+    "access_level": "Standard",
+    "encoding_method": "fixed_deepface",
+    "person_id": "directeur_general",
+    "num_encodings": 7,
+    "num_source_images": 7,
+    "successful_images": 7,
+    "added_date": "2025-07-07T18:06:38.399180",
+    "model": "ArcFace",
+    "normalization": "applied"
+  }
+}

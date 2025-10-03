@@ -1,0 +1,1145 @@
+2025-07-05 13:35:57,578 - INFO - Created optimized config: config.json
+2025-07-05 13:35:57,579 - INFO - Loaded 1 known faces
+2025-07-05 13:35:57,579 - INFO - Database initialized: 1 persons
+2025-07-05 13:35:57,624 - INFO - Loaded specialized face model
+2025-07-05 13:35:57,624 - INFO - Loaded 1 known persons
+2025-07-05 13:35:57,624 - INFO - Starting face recognition monitoring...
+2025-07-05 13:35:57,624 - INFO - Connecting to 5MP camera: rtsp://admin:badrmellal123@192.168.1.108:554/cam/realmonitor?channel=1&subtype=1
+2025-07-05 13:36:27,728 - ERROR - Failed to get frame from camera
+2025-07-05 13:37:02,711 - INFO - Loaded 1 known faces
+2025-07-05 13:37:02,711 - INFO - Database initialized: 1 persons
+2025-07-05 13:37:02,738 - INFO - Loaded specialized face model
+2025-07-05 13:37:02,738 - INFO - Loaded 1 known persons
+2025-07-05 13:37:02,738 - INFO - Starting face recognition monitoring...
+2025-07-05 13:37:02,738 - INFO - Connecting to 5MP camera: rtsp://admin:badrmellal123@192.168.1.108:554/cam/realmonitor?channel=1&subtype=1
+2025-07-05 13:37:32,849 - ERROR - Failed to get frame from camera
+2025-07-05 13:40:50,388 - INFO - Loaded 1 known faces
+2025-07-05 13:40:50,388 - INFO - Database initialized: 1 persons
+2025-07-05 13:40:50,426 - INFO - Loaded specialized face model
+2025-07-05 13:40:50,426 - INFO - Loaded 1 known persons
+2025-07-05 13:40:50,426 - INFO - Starting face recognition monitoring...
+2025-07-05 13:40:50,426 - INFO - Connecting to 5MP camera: rtsp://admin:badrmellal123@192.168.1.108:554/cam/realmonitor?channel=1&subtype=1
+2025-07-05 13:40:52,391 - INFO - Camera connected: 640x480
+2025-07-05 13:40:52,512 - INFO - Stream loop started
+2025-07-05 13:40:52,512 - INFO - Processing loop started
+2025-07-05 13:41:06,510 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:06,650 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:06,790 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:06,928 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:07,064 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:07,205 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:07,340 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:07,481 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:07,620 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:07,760 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:07,900 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:08,040 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:08,181 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:08,322 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:08,459 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:08,599 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:08,741 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:08,883 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:09,024 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:09,167 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:09,307 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:09,450 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:09,589 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:09,725 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:09,867 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:10,007 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:10,148 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:10,289 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:10,429 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:10,569 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:10,709 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:10,849 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:10,990 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:11,136 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:11,278 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:41:11,419 - ERROR - Face detection error: 'Tensor' object has no attribute 'astype'
+2025-07-05 13:47:29,450 - INFO - Loaded 1 known faces
+2025-07-05 13:47:29,450 - INFO - Database initialized: 1 persons
+2025-07-05 13:47:29,463 - INFO - ✅ M3 Max GPU acceleration enabled (MPS)
+2025-07-05 13:47:29,495 - INFO - ✅ Specialized face detection model loaded
+2025-07-05 13:47:29,601 - INFO - ✅ Professional database loaded: 1 authorized personnel
+2025-07-05 13:47:29,601 - INFO - 🚀 Starting professional surveillance system...
+2025-07-05 13:47:29,601 - INFO - 🎥 Connecting to surveillance camera...
+2025-07-05 13:47:29,601 - INFO - 📡 RTSP URL: rtsp://admin:badrmellal123@192.168.1.108:554/cam/realmonitor?channel=1&subtype=1
+2025-07-05 13:47:31,538 - INFO - 🔄 Connection attempt 1/5...
+2025-07-05 13:47:31,548 - INFO - ✅ Camera connected successfully: 640x480
+2025-07-05 13:47:31,548 - INFO - 📊 Frame size: 921600 pixels
+2025-07-05 13:47:31,662 - INFO - ✅ Professional display initialized: 1920x1080
+2025-07-05 13:47:31,662 - INFO - 🧵 Starting multithreaded surveillance pipeline...
+2025-07-05 13:47:31,663 - INFO - 📹 Stream capture thread started
+2025-07-05 13:47:31,663 - INFO - ✅ Started StreamCapture thread
+2025-07-05 13:47:31,663 - INFO - 🔍 Face detection thread started
+2025-07-05 13:47:31,663 - INFO - ✅ Started FaceDetection thread
+2025-07-05 13:47:31,663 - INFO - 🧠 Face recognition thread started
+2025-07-05 13:47:31,663 - INFO - ✅ Started FaceRecognition thread
+2025-07-05 13:47:31,664 - INFO - 🎯 Professional tracking and alert thread started
+2025-07-05 13:47:31,664 - INFO - ✅ Started TrackingAlerts thread
+2025-07-05 13:47:35,793 - INFO - 🔊 Professional system ready announcement
+2025-07-05 13:49:33,514 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.98 | Durée: 1.5s | Track: track_0002
+2025-07-05 13:50:00,516 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.73 | Durée: 1.6s | Track: track_0004
+2025-07-05 13:50:28,804 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.98 | Durée: 1.5s | Track: track_0005
+2025-07-05 13:51:17,735 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.98 | Durée: 1.5s | Track: track_0006
+2025-07-05 13:51:57,412 - INFO - 🛑 Professional monitoring interrupted
+2025-07-05 13:51:57,412 - INFO - 🛑 Stopping professional monitoring system...
+2025-07-05 13:51:57,416 - ERROR - Professional monitoring stop error: shutdown() got an unexpected keyword argument 'timeout'
+2025-07-05 13:54:00,558 - INFO - Loaded 1 known faces
+2025-07-05 13:54:00,558 - INFO - Database initialized: 1 persons
+2025-07-05 13:54:00,571 - INFO - ✅ M3 Max GPU acceleration enabled (MPS)
+2025-07-05 13:54:00,598 - INFO - ✅ Specialized face detection model loaded
+2025-07-05 13:54:00,701 - INFO - ✅ Professional database loaded: 1 authorized personnel
+2025-07-05 13:54:00,701 - INFO - 🚀 Starting professional surveillance system...
+2025-07-05 13:54:00,701 - INFO - 🎥 Connecting to surveillance camera...
+2025-07-05 13:54:00,701 - INFO - 📡 RTSP URL: rtsp://admin:badrmellal123@192.168.1.108:554/cam/realmonitor?channel=1&subtype=1
+2025-07-05 13:54:02,639 - INFO - 🔄 Connection attempt 1/5...
+2025-07-05 13:54:02,647 - INFO - ✅ Camera connected successfully: 640x480
+2025-07-05 13:54:02,648 - INFO - 📊 Frame size: 921600 pixels
+2025-07-05 13:54:02,776 - INFO - ✅ Professional display initialized: 1920x1080
+2025-07-05 13:54:02,776 - INFO - 🧵 Starting multithreaded surveillance pipeline...
+2025-07-05 13:54:02,776 - INFO - 📹 Stream capture thread started
+2025-07-05 13:54:02,776 - INFO - ✅ Started StreamCapture thread
+2025-07-05 13:54:02,776 - INFO - 🔍 Face detection thread started
+2025-07-05 13:54:02,776 - INFO - ✅ Started FaceDetection thread
+2025-07-05 13:54:02,777 - INFO - 🧠 Face recognition thread started
+2025-07-05 13:54:02,777 - INFO - ✅ Started FaceRecognition thread
+2025-07-05 13:54:02,777 - INFO - 🎯 Professional tracking and alert thread started
+2025-07-05 13:54:02,777 - INFO - ✅ Started TrackingAlerts thread
+2025-07-05 13:54:06,890 - INFO - 🔊 Professional system ready announcement
+2025-07-05 13:54:19,297 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.98 | Durée: 1.5s | Track: track_0002
+2025-07-05 13:54:28,141 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.74 | Durée: 1.6s | Track: track_0004
+2025-07-05 13:55:00,278 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.97 | Durée: 1.6s | Track: track_0007
+2025-07-05 13:55:47,066 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.98 | Durée: 50.4s | Track: track_0006
+2025-07-05 13:56:24,761 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.82 | Durée: 3.8s | Track: track_0009
+2025-07-05 13:56:46,313 - INFO - 🛑 Professional monitoring interrupted
+2025-07-05 13:56:46,313 - INFO - 🛑 Stopping professional monitoring system...
+2025-07-05 14:04:28,064 - INFO - Loaded 1 known faces
+2025-07-05 14:04:28,064 - INFO - Database initialized: 1 persons
+2025-07-05 14:04:28,077 - INFO - ✅ M3 Max GPU acceleration enabled (MPS)
+2025-07-05 14:04:28,104 - INFO - ✅ Specialized face detection model loaded
+2025-07-05 14:04:28,208 - INFO - ✅ Professional database loaded: 1 authorized personnel
+2025-07-05 14:04:28,208 - INFO - 🚀 Starting professional surveillance system...
+2025-07-05 14:04:28,208 - INFO - 🎥 Connecting to surveillance camera...
+2025-07-05 14:04:28,208 - INFO - 📡 RTSP URL: rtsp://admin:badrmellal123@192.168.1.108:554/cam/realmonitor?channel=1&subtype=0
+2025-07-05 14:04:29,522 - INFO - 🔄 Connection attempt 1/5...
+2025-07-05 14:04:29,580 - INFO - ✅ Camera connected successfully: 2688x1664
+2025-07-05 14:04:29,580 - INFO - 📊 Frame size: 13418496 pixels
+2025-07-05 14:04:29,679 - INFO - ✅ Professional display initialized: 1920x1080
+2025-07-05 14:04:29,679 - INFO - 🧵 Starting multithreaded surveillance pipeline...
+2025-07-05 14:04:29,680 - INFO - 📹 Stream capture thread started
+2025-07-05 14:04:29,680 - INFO - ✅ Started StreamCapture thread
+2025-07-05 14:04:29,680 - INFO - 🔍 Face detection thread started
+2025-07-05 14:04:29,680 - INFO - ✅ Started FaceDetection thread
+2025-07-05 14:04:29,680 - INFO - 🧠 Face recognition thread started
+2025-07-05 14:04:29,680 - INFO - ✅ Started FaceRecognition thread
+2025-07-05 14:04:29,680 - INFO - 🎯 Professional tracking and alert thread started
+2025-07-05 14:04:29,680 - INFO - ✅ Started TrackingAlerts thread
+2025-07-05 14:04:33,876 - INFO - 🔊 Professional system ready announcement
+2025-07-05 14:04:34,395 - WARNING - Unauthorized person confirmed: track_0001 (attempts: 23, failure rate: 100.0%)
+2025-07-05 14:04:34,395 - CRITICAL - 🚨 ALERTE SÉCURITÉ: Personne non autorisée | Durée: 2.0s | Track: track_0001
+2025-07-05 14:04:34,409 - CRITICAL - 🔴 Security evidence saved: logs/security_evidence/ALERT_track_0001_20250705_140434.jpg
+2025-07-05 14:05:00,362 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.77 | Durée: 1.6s | Track: track_0004
+2025-07-05 14:05:26,861 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.89 | Durée: 28.8s | Track: track_0002
+2025-07-05 14:05:31,153 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.96 | Durée: 32.8s | Track: track_0003
+2025-07-05 14:05:35,382 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.76 | Durée: 8.9s | Track: track_0008
+2025-07-05 14:05:41,253 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.79 | Durée: 1.6s | Track: track_0013
+2025-07-05 14:05:45,529 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.75 | Durée: 5.9s | Track: track_0012
+2025-07-05 14:05:51,855 - WARNING - Unauthorized person confirmed: track_0014 (attempts: 20, failure rate: 100.0%)
+2025-07-05 14:05:51,856 - CRITICAL - 🚨 ALERTE SÉCURITÉ: Personne non autorisée | Durée: 2.0s | Track: track_0014
+2025-07-05 14:05:51,866 - CRITICAL - 🔴 Security evidence saved: logs/security_evidence/ALERT_track_0014_20250705_140551.jpg
+2025-07-05 14:06:12,727 - INFO - 🛑 Professional monitoring interrupted
+2025-07-05 14:06:12,727 - INFO - 🛑 Stopping professional monitoring system...
+2025-07-05 14:06:12,737 - ERROR - Professional monitoring stop error: shutdown() got an unexpected keyword argument 'timeout'
+2025-07-05 14:06:20,618 - INFO - Loaded 1 known faces
+2025-07-05 14:06:20,618 - INFO - Database initialized: 1 persons
+2025-07-05 14:06:20,631 - INFO - ✅ M3 Max GPU acceleration enabled (MPS)
+2025-07-05 14:06:20,658 - INFO - ✅ Specialized face detection model loaded
+2025-07-05 14:06:20,761 - INFO - ✅ Professional database loaded: 1 authorized personnel
+2025-07-05 14:06:20,761 - INFO - 🚀 Starting professional surveillance system...
+2025-07-05 14:06:20,761 - INFO - 🎥 Connecting to surveillance camera...
+2025-07-05 14:06:20,761 - INFO - 📡 RTSP URL: rtsp://admin:badrmellal123@192.168.1.108:554/cam/realmonitor?channel=1&subtype=1
+2025-07-05 14:06:22,720 - INFO - 🔄 Connection attempt 1/5...
+2025-07-05 14:06:22,727 - INFO - ✅ Camera connected successfully: 640x480
+2025-07-05 14:06:22,727 - INFO - 📊 Frame size: 921600 pixels
+2025-07-05 14:06:22,848 - INFO - ✅ Professional display initialized: 1920x1080
+2025-07-05 14:06:22,848 - INFO - 🧵 Starting multithreaded surveillance pipeline...
+2025-07-05 14:06:22,848 - INFO - 📹 Stream capture thread started
+2025-07-05 14:06:22,849 - INFO - ✅ Started StreamCapture thread
+2025-07-05 14:06:22,849 - INFO - 🔍 Face detection thread started
+2025-07-05 14:06:22,849 - INFO - ✅ Started FaceDetection thread
+2025-07-05 14:06:22,849 - INFO - 🧠 Face recognition thread started
+2025-07-05 14:06:22,849 - INFO - ✅ Started FaceRecognition thread
+2025-07-05 14:06:22,849 - INFO - 🎯 Professional tracking and alert thread started
+2025-07-05 14:06:22,849 - INFO - ✅ Started TrackingAlerts thread
+2025-07-05 14:06:27,028 - INFO - 🔊 Professional system ready announcement
+2025-07-05 14:06:51,424 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.68 | Durée: 1.5s | Track: track_0004
+2025-07-05 14:06:55,690 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.94 | Durée: 6.6s | Track: track_0003
+2025-07-05 14:07:31,872 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.96 | Durée: 1.6s | Track: track_0006
+2025-07-05 14:07:36,116 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.86 | Durée: 7.1s | Track: track_0005
+2025-07-05 14:07:42,576 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.82 | Durée: 2.2s | Track: track_0008
+2025-07-05 14:08:41,903 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.84 | Durée: 2.1s | Track: track_0009
+2025-07-05 14:12:35,331 - INFO - 🛑 Professional monitoring interrupted
+2025-07-05 14:12:35,331 - INFO - 🛑 Stopping professional monitoring system...
+2025-07-05 14:12:35,335 - ERROR - Professional monitoring stop error: shutdown() got an unexpected keyword argument 'timeout'
+2025-07-05 14:50:45,314 - INFO - Loaded 1 known faces
+2025-07-05 14:50:45,314 - INFO - Database initialized: 1 persons
+2025-07-05 14:50:45,329 - INFO - ✅ M3 Max GPU acceleration enabled (MPS)
+2025-07-05 14:50:45,360 - INFO - ✅ Specialized face detection model loaded
+2025-07-05 14:50:45,479 - INFO - ✅ Professional database loaded: 1 authorized personnel
+2025-07-05 14:50:45,479 - INFO - 🚀 Starting professional surveillance system...
+2025-07-05 14:50:45,479 - INFO - 🎥 Connecting to surveillance camera...
+2025-07-05 14:50:45,479 - INFO - 📡 RTSP URL: rtsp://admin:badrmellal123@192.168.1.108:554/cam/realmonitor?channel=1&subtype=0
+2025-07-05 14:50:46,759 - INFO - 🔄 Connection attempt 1/5...
+2025-07-05 14:50:46,805 - INFO - ✅ Camera connected successfully: 2688x1664
+2025-07-05 14:50:46,805 - INFO - 📊 Frame size: 13418496 pixels
+2025-07-05 14:50:46,912 - ERROR - Display setup failed: 'FaceRecognitionSystem' object has no attribute '_mouse_callback'
+2025-07-05 14:50:46,912 - INFO - 🧵 Starting multithreaded surveillance pipeline...
+2025-07-05 14:50:46,912 - INFO - 📹 Stream capture thread started
+2025-07-05 14:50:46,912 - INFO - ✅ Started StreamCapture thread
+2025-07-05 14:50:46,912 - INFO - 🔍 Face detection thread started
+2025-07-05 14:50:46,913 - INFO - ✅ Started FaceDetection thread
+2025-07-05 14:50:46,913 - INFO - 🧠 Face recognition thread started
+2025-07-05 14:50:46,913 - INFO - ✅ Started FaceRecognition thread
+2025-07-05 14:50:46,913 - INFO - 🎯 Professional tracking and alert thread started
+2025-07-05 14:50:46,913 - INFO - ✅ Started TrackingAlerts thread
+2025-07-05 14:50:49,695 - INFO - 🆕 New person detected at entrance: track_0001 (position: CENTER_FAR)
+2025-07-05 14:50:49,790 - INFO - 🆕 New person detected at entrance: track_0002 (position: CENTER_FAR)
+2025-07-05 14:50:51,177 - INFO - 🔊 Professional system ready announcement
+2025-07-05 14:50:51,357 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.77 | Durée: 1.6s | Track: track_0002
+2025-07-05 14:50:55,609 - INFO - 🆕 New person detected at entrance: track_0003 (position: CENTER_FAR)
+2025-07-05 14:50:57,165 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.78 | Durée: 1.6s | Track: track_0003
+2025-07-05 14:51:01,424 - INFO - 🆕 New person detected at entrance: track_0004 (position: CENTER_FAR)
+2025-07-05 14:51:01,424 - INFO - 🆕 New person detected at entrance: track_0005 (position: LEFT_FAR)
+2025-07-05 14:51:01,425 - INFO - 🆕 New person detected at entrance: track_0006 (position: CENTER_FAR)
+2025-07-05 14:51:02,964 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.64 | Durée: 1.5s | Track: track_0006
+2025-07-05 14:51:07,226 - INFO - 🆕 New person detected at entrance: track_0007 (position: CENTER_FAR)
+2025-07-05 14:51:08,732 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.75 | Durée: 1.5s | Track: track_0007
+2025-07-05 14:51:12,972 - INFO - 🆕 New person detected at entrance: track_0008 (position: CENTER_FAR)
+2025-07-05 14:51:13,984 - INFO - 🆕 New person detected at entrance: track_0009 (position: CENTER_FAR)
+2025-07-05 14:51:14,395 - INFO - 🆕 New person detected at entrance: track_0010 (position: RIGHT_FAR)
+2025-07-05 14:51:14,791 - INFO - 🆕 New person detected at entrance: track_0011 (position: RIGHT_FAR)
+2025-07-05 14:51:15,539 - INFO - 🚪 Exit logged: badr_mellal (track_0001) - authorized person left entrance
+2025-07-05 14:51:15,539 - INFO - 🚪 Exit logged: badr_mellal (track_0002) - authorized person left entrance
+2025-07-05 14:51:15,540 - INFO - 🚪 Exit logged: badr_mellal (track_0003) - authorized person left entrance
+2025-07-05 14:51:15,540 - INFO - 🚪 Exit logged: badr_mellal (track_0004) - authorized person left entrance
+2025-07-05 14:51:15,540 - INFO - 🚪 Exit logged: badr_mellal (track_0005) - unidentified person left entrance
+2025-07-05 14:51:15,540 - INFO - 🚪 Exit logged: badr_mellal (track_0006) - authorized person left entrance
+2025-07-05 14:51:19,074 - INFO - 🚪 Exit logged: badr_mellal (track_0007) - authorized person left entrance
+2025-07-05 14:51:19,359 - INFO - 🆕 New person detected at entrance: track_0012 (position: RIGHT_FAR)
+2025-07-05 14:51:19,435 - INFO - 🆕 New person detected at entrance: track_0013 (position: RIGHT_FAR)
+2025-07-05 14:51:20,941 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.66 | Durée: 1.5s | Track: track_0013
+2025-07-05 14:51:21,199 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:21,331 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:21,461 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:21,590 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:21,719 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:21,849 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:21,979 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:22,108 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:22,236 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:22,364 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:22,494 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:22,622 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:22,749 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:22,877 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:23,003 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:23,133 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:23,260 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:23,397 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:23,524 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:23,654 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:23,781 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:23,915 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:24,041 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:24,167 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:24,294 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:24,420 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:24,549 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:24,676 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:24,802 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:24,930 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:25,056 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:25,183 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:25,187 - INFO - 🆕 New person detected at entrance: track_0014 (position: CENTER_FAR)
+2025-07-05 14:51:25,187 - INFO - 🆕 New person detected at entrance: track_0015 (position: LEFT_FAR)
+2025-07-05 14:51:25,189 - INFO - 🆕 New person detected at entrance: track_0016 (position: CENTER_FAR)
+2025-07-05 14:51:25,311 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:25,439 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:25,567 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:25,697 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:25,825 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:25,958 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:26,083 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:26,210 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:26,340 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:26,466 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:26,594 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:26,722 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:26,851 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:26,978 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:27,089 - INFO - ✅ ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.83 | Durée: 1.9s | Track: track_0016
+2025-07-05 14:51:27,153 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:27,283 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:27,417 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:27,547 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:27,681 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:27,810 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:27,942 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:28,072 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:28,199 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:28,327 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:28,453 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:28,582 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:28,711 - ERROR - Professional interface error: 'FaceRecognitionSystem' object has no attribute '_print_professional_stats'
+2025-07-05 14:51:28,838 - INFO - 🛑 Professional monitoring interrupted
+2025-07-05 14:51:28,838 - ERROR - Professional monitoring failed: 'FaceRecognitionSystem' object has no attribute '_stop_monitoring'
+2025-07-05 15:33:28,005 - INFO - Loaded 1 known faces
+2025-07-05 15:33:28,005 - INFO - Database initialized: 1 persons
+2025-07-05 15:33:28,018 - INFO -  M3 Max GPU acceleration enabled (MPS)
+2025-07-05 15:33:28,051 - INFO -  Specialized face detection model loaded
+2025-07-05 15:33:28,161 - INFO -  database loaded: 1 authorized personnel
+2025-07-05 15:33:28,161 - INFO -  Starting surveillance system...
+2025-07-05 15:33:28,161 - INFO -  Connecting to surveillance camera...
+2025-07-05 15:33:28,161 - INFO -  RTSP URL: rtsp://admin:badrmellal123@192.168.1.108:554/cam/realmonitor?channel=1&subtype=0
+2025-07-05 15:33:29,480 - INFO -  Connection attempt 1/5...
+2025-07-05 15:33:29,528 - INFO -  Camera connected successfully: 2688x1664
+2025-07-05 15:33:29,528 - INFO -  Frame size: 13418496 pixels
+2025-07-05 15:33:29,634 - INFO -  Display initialized: 1920x1080
+2025-07-05 15:33:29,634 - INFO - 🧵 Starting multithreaded surveillance pipeline...
+2025-07-05 15:33:29,635 - INFO -  Stream capture thread started
+2025-07-05 15:33:29,635 - INFO -  Started StreamCapture thread
+2025-07-05 15:33:29,635 - INFO - 🔍 Face detection thread started
+2025-07-05 15:33:29,635 - INFO -  Started FaceDetection thread
+2025-07-05 15:33:29,635 - INFO -  Face recognition thread started
+2025-07-05 15:33:29,635 - INFO -  Started FaceRecognition thread
+2025-07-05 15:33:29,635 - INFO -  Tracking and alert thread started
+2025-07-05 15:33:29,635 - INFO -  Started TrackingAlerts thread
+2025-07-05 15:33:32,423 - INFO -  New person detected at entrance: track_0001 (position: RIGHT_FAR)
+2025-07-05 15:33:32,970 - INFO - 🔊 French security alert announced
+2025-07-05 15:33:32,971 - INFO -  system ready announcement
+2025-07-05 15:33:33,968 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.91 | Durée: 1.5s | Track: track_0001
+2025-07-05 15:33:47,822 - INFO -  New person detected at entrance: track_0002 (position: CENTER_FAR)
+2025-07-05 15:33:49,341 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.91 | Durée: 1.5s | Track: track_0002
+2025-07-05 15:33:59,821 - INFO - 🚪 Exit logged: badr_mellal (track_0001) - authorized person left entrance
+2025-07-05 15:34:01,280 - INFO -  New person detected at entrance: track_0003 (position: CENTER_FAR)
+2025-07-05 15:34:02,816 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.98 | Durée: 1.5s | Track: track_0003
+2025-07-05 15:34:09,304 - INFO -  New person detected at entrance: track_0004 (position: RIGHT_FAR)
+2025-07-05 15:34:09,809 - INFO - 🚪 Exit logged: badr_mellal (track_0002) - authorized person left entrance
+2025-07-05 15:34:15,777 - INFO -  New person detected at entrance: track_0005 (position: RIGHT_FAR)
+2025-07-05 15:34:17,326 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.98 | Durée: 1.5s | Track: track_0005
+2025-07-05 15:34:21,146 - INFO -  New person detected at entrance: track_0006 (position: RIGHT_FAR)
+2025-07-05 15:34:21,725 - INFO -  New person detected at entrance: track_0007 (position: RIGHT_FAR)
+2025-07-05 15:34:23,745 - INFO -  New person detected at entrance: track_0008 (position: RIGHT_FAR)
+2025-07-05 15:34:25,319 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.73 | Durée: 1.6s | Track: track_0008
+2025-07-05 15:34:27,133 - INFO -  New person detected at entrance: track_0009 (position: CENTER_FAR)
+2025-07-05 15:34:30,751 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.87 | Durée: 3.6s | Track: track_0009
+2025-07-05 15:34:31,931 - INFO -  New person detected at entrance: track_0010 (position: CENTER_FAR)
+2025-07-05 15:34:32,020 - INFO -  New person detected at entrance: track_0011 (position: CENTER_FAR)
+2025-07-05 15:34:40,391 - INFO -  New person detected at entrance: track_0012 (position: CENTER_FAR)
+2025-07-05 15:34:41,908 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.99 | Durée: 1.5s | Track: track_0012
+2025-07-05 15:34:43,154 - INFO - 🚪 Exit logged: badr_mellal (track_0003) - authorized person left entrance
+2025-07-05 15:34:43,155 - INFO - 🚪 Exit logged: badr_mellal (track_0004) - authorized person left entrance
+2025-07-05 15:34:43,155 - INFO - 🚪 Exit logged: badr_mellal (track_0005) - authorized person left entrance
+2025-07-05 15:34:43,155 - INFO - 🚪 Exit logged: badr_mellal (track_0006) - authorized person left entrance
+2025-07-05 15:34:43,155 - INFO - 🚪 Exit logged: badr_mellal (track_0007) - authorized person left entrance
+2025-07-05 15:34:43,155 - INFO - 🚪 Exit logged: badr_mellal (track_0008) - authorized person left entrance
+2025-07-05 15:34:43,155 - INFO - 🚪 Exit logged: badr_mellal (track_0010) - authorized person left entrance
+2025-07-05 15:34:43,155 - INFO - 🚪 Exit logged: badr_mellal (track_0011) - authorized person left entrance
+2025-07-05 15:34:50,256 - INFO -  New person detected at entrance: track_0013 (position: CENTER_FAR)
+2025-07-05 15:34:52,318 - INFO - 🚪 Exit logged: badr_mellal (track_0012) - authorized person left entrance
+2025-07-05 15:34:55,234 - INFO -  New person detected at entrance: track_0014 (position: CENTER_FAR)
+2025-07-05 15:34:56,811 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.98 | Durée: 1.6s | Track: track_0014
+2025-07-05 15:34:57,482 - INFO - 🚪 Exit logged: badr_mellal (track_0009) - authorized person left entrance
+2025-07-05 15:35:02,271 - INFO - 🚪 Exit logged: badr_mellal (track_0013) - authorized person left entrance
+2025-07-05 15:35:11,846 - INFO - 🚪 Exit logged: badr_mellal (track_0014) - authorized person left entrance
+2025-07-05 15:35:16,439 - INFO -  New person detected at entrance: track_0015 (position: CENTER_FAR)
+2025-07-05 15:35:18,449 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.99 | Durée: 2.0s | Track: track_0015
+2025-07-05 15:35:22,933 - INFO -  New person detected at entrance: track_0016 (position: CENTER_FAR)
+2025-07-05 15:35:24,511 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.98 | Durée: 1.6s | Track: track_0016
+2025-07-05 15:35:36,226 - INFO - 🚪 Exit logged: badr_mellal (track_0015) - authorized person left entrance
+2025-07-05 15:35:38,993 - INFO -  New person detected at entrance: track_0017 (position: CENTER_FAR)
+2025-07-05 15:35:45,922 - INFO - 🚪 Exit logged: badr_mellal (track_0016) - authorized person left entrance
+2025-07-05 15:35:46,757 - INFO -  New person detected at entrance: track_0018 (position: CENTER_NEAR)
+2025-07-05 15:35:49,616 - INFO - 🚪 Exit logged: badr_mellal (track_0017) - authorized person left entrance
+2025-07-05 15:35:52,301 - INFO -  New person detected at entrance: track_0019 (position: CENTER_NEAR)
+2025-07-05 15:35:57,346 - INFO - 🚪 Exit logged: badr_mellal (track_0018) - authorized person left entrance
+2025-07-05 15:36:02,390 - INFO - 🚪 Exit logged: badr_mellal (track_0019) - authorized person left entrance
+2025-07-05 15:36:02,998 - INFO -  New person detected at entrance: track_0020 (position: CENTER_FAR)
+2025-07-05 15:36:12,136 - INFO -  New person detected at entrance: track_0021 (position: CENTER_FAR)
+2025-07-05 15:36:13,446 - INFO - 🚪 Exit logged: badr_mellal (track_0020) - authorized person left entrance
+2025-07-05 15:36:18,153 - INFO -  New person detected at entrance: track_0022 (position: CENTER_FAR)
+2025-07-05 15:36:18,447 - INFO -  New person detected at entrance: track_0023 (position: CENTER_FAR)
+2025-07-05 15:36:22,984 - INFO - 🚪 Exit logged: badr_mellal (track_0021) - authorized person left entrance
+2025-07-05 15:36:25,051 - INFO -  New person detected at entrance: track_0024 (position: CENTER_NEAR)
+2025-07-05 15:36:28,583 - INFO - 🚪 Exit logged: badr_mellal (track_0022) - authorized person left entrance
+2025-07-05 15:36:28,583 - INFO - 🚪 Exit logged: badr_mellal (track_0023) - authorized person left entrance
+2025-07-05 15:36:32,007 - INFO -  New person detected at entrance: track_0025 (position: CENTER_FAR)
+2025-07-05 15:36:32,405 - INFO -  New person detected at entrance: track_0026 (position: CENTER_FAR)
+2025-07-05 15:36:35,128 - INFO - 🚪 Exit logged: badr_mellal (track_0024) - authorized person left entrance
+2025-07-05 15:36:42,193 - INFO - 🚪 Exit logged: badr_mellal (track_0025) - authorized person left entrance
+2025-07-05 15:36:42,699 - INFO - 🚪 Exit logged: badr_mellal (track_0026) - authorized person left entrance
+2025-07-05 15:36:46,245 - INFO -  New person detected at entrance: track_0027 (position: CENTER_FAR)
+2025-07-05 15:36:46,950 - INFO -  New person detected at entrance: track_0028 (position: CENTER_FAR)
+2025-07-05 15:36:48,452 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.98 | Durée: 2.2s | Track: track_0027
+2025-07-05 15:36:54,289 - INFO -  New person detected at entrance: track_0029 (position: CENTER_NEAR)
+2025-07-05 15:36:58,326 - INFO - 🚪 Exit logged: badr_mellal (track_0028) - authorized person left entrance
+2025-07-05 15:36:58,829 - INFO - 🚪 Exit logged: badr_mellal (track_0027) - authorized person left entrance
+2025-07-05 15:36:59,549 - INFO -  New person detected at entrance: track_0030 (position: CENTER_NEAR)
+2025-07-05 15:37:01,150 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.99 | Durée: 1.6s | Track: track_0030
+2025-07-05 15:37:04,674 - INFO - 🚪 Exit logged: badr_mellal (track_0029) - authorized person left entrance
+2025-07-05 15:37:12,032 - INFO -  New person detected at entrance: track_0031 (position: CENTER_NEAR)
+2025-07-05 15:37:15,535 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.97 | Durée: 3.5s | Track: track_0031
+2025-07-05 15:37:17,620 - INFO -  New person detected at entrance: track_0032 (position: CENTER_FAR)
+2025-07-05 15:37:19,282 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.99 | Durée: 1.7s | Track: track_0032
+2025-07-05 15:37:20,230 - INFO -  New person detected at entrance: track_0033 (position: CENTER_FAR)
+2025-07-05 15:37:21,854 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.99 | Durée: 1.6s | Track: track_0033
+2025-07-05 15:37:23,436 - INFO - 🚪 Exit logged: badr_mellal (track_0030) - authorized person left entrance
+2025-07-05 15:37:27,485 - INFO -  New person detected at entrance: track_0034 (position: CENTER_FAR)
+2025-07-05 15:37:29,424 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.82 | Durée: 1.9s | Track: track_0034
+2025-07-05 15:37:30,493 - INFO - 🚪 Exit logged: badr_mellal (track_0031) - authorized person left entrance
+2025-07-05 15:37:30,494 - INFO - 🚪 Exit logged: badr_mellal (track_0032) - authorized person left entrance
+2025-07-05 15:37:31,347 - INFO -  New person detected at entrance: track_0035 (position: RIGHT_FAR)
+2025-07-05 15:37:32,897 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.99 | Durée: 1.6s | Track: track_0035
+2025-07-05 15:37:33,483 - INFO - 🚪 Exit logged: badr_mellal (track_0033) - authorized person left entrance
+2025-07-05 15:37:36,557 - INFO -  New person detected at entrance: track_0036 (position: RIGHT_FAR)
+2025-07-05 15:37:38,138 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.94 | Durée: 1.6s | Track: track_0036
+2025-07-05 15:37:42,903 - INFO -  New person detected at entrance: track_0037 (position: CENTER_FAR)
+2025-07-05 15:37:43,162 - INFO -  New person detected at entrance: track_0038 (position: LEFT_NEAR)
+2025-07-05 15:37:43,667 - INFO - 🚪 Exit logged: badr_mellal (track_0034) - authorized person left entrance
+2025-07-05 15:37:43,668 - INFO - 🚪 Exit logged: badr_mellal (track_0035) - authorized person left entrance
+2025-07-05 15:37:53,254 - INFO - 🚪 Exit logged: badr_mellal (track_0036) - authorized person left entrance
+2025-07-05 15:37:53,254 - INFO - 🚪 Exit logged: badr_mellal (track_0037) - authorized person left entrance
+2025-07-05 15:37:53,254 - INFO - 🚪 Exit logged: badr_mellal (track_0038) - authorized person left entrance
+2025-07-05 15:37:55,587 - INFO -  New person detected at entrance: track_0039 (position: RIGHT_FAR)
+2025-07-05 15:37:57,158 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.91 | Durée: 1.6s | Track: track_0039
+2025-07-05 15:38:07,669 - INFO - 🚪 Exit logged: badr_mellal (track_0039) - authorized person left entrance
+2025-07-05 15:38:31,635 - INFO -  New person detected at entrance: track_0040 (position: RIGHT_FAR)
+2025-07-05 15:38:33,214 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.99 | Durée: 1.6s | Track: track_0040
+2025-07-05 15:38:38,428 - INFO -  New person detected at entrance: track_0041 (position: CENTER_FAR)
+2025-07-05 15:38:38,854 - INFO -  New person detected at entrance: track_0042 (position: RIGHT_FAR)
+2025-07-05 15:38:40,367 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.94 | Durée: 1.5s | Track: track_0042
+2025-07-05 15:38:43,978 - INFO -  New person detected at entrance: track_0043 (position: LEFT_FAR)
+2025-07-05 15:38:44,225 - INFO -  New person detected at entrance: track_0044 (position: RIGHT_FAR)
+2025-07-05 15:38:44,318 - INFO -  New person detected at entrance: track_0045 (position: LEFT_FAR)
+2025-07-05 15:38:44,650 - INFO -  New person detected at entrance: track_0046 (position: RIGHT_FAR)
+2025-07-05 15:38:47,164 - WARNING -  Unauthorized access attempt: track_0046 (attempts: 24, failure rate: 100.0%)
+2025-07-05 15:38:47,164 - WARNING - Unauthorized person confirmed: track_0046 (attempts: 24, failure rate: 100.0%)
+2025-07-05 15:38:47,164 - CRITICAL -  ALERTE SÉCURITÉ: Personne non autorisée | Durée: 2.5s | Track: track_0046
+2025-07-05 15:38:47,179 - CRITICAL - 🔴 Security evidence saved: logs/security_evidence/ALERT_track_0046_20250705_153847.jpg
+2025-07-05 15:38:51,276 - INFO - 🔊 French security alert announced
+2025-07-05 15:38:51,276 - INFO -  New person detected at entrance: track_0047 (position: RIGHT_FAR)
+2025-07-05 15:38:53,715 - INFO -  New person detected at entrance: track_0048 (position: CENTER_FAR)
+2025-07-05 15:38:53,808 - INFO -  New person detected at entrance: track_0049 (position: CENTER_FAR)
+2025-07-05 15:38:54,004 - INFO -  New person detected at entrance: track_0050 (position: LEFT_FAR)
+2025-07-05 15:38:54,382 - INFO -  New person detected at entrance: track_0051 (position: LEFT_FAR)
+2025-07-05 15:38:56,054 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.99 | Durée: 1.7s | Track: track_0051
+2025-07-05 15:38:56,560 - INFO - 🚪 Exit logged: badr_mellal (track_0040) - authorized person left entrance
+2025-07-05 15:38:56,561 - INFO - 🚪 Exit logged: badr_mellal (track_0041) - authorized person left entrance
+2025-07-05 15:38:56,561 - INFO - 🚪 Exit logged: badr_mellal (track_0042) - authorized person left entrance
+2025-07-05 15:38:56,561 - INFO - 🚪 Exit logged: badr_mellal (track_0043) - authorized person left entrance
+2025-07-05 15:38:56,562 - INFO - 🚪 Exit logged: badr_mellal (track_0045) - authorized person left entrance
+2025-07-05 15:38:57,906 - INFO -  New person detected at entrance: track_0052 (position: RIGHT_FAR)
+2025-07-05 15:38:58,183 - INFO -  New person detected at entrance: track_0053 (position: RIGHT_FAR)
+2025-07-05 15:39:02,434 - WARNING -  Unauthorized access attempt: track_0053 (attempts: 40, failure rate: 75.0%)
+2025-07-05 15:39:02,434 - WARNING - Unauthorized person confirmed: track_0053 (attempts: 40, failure rate: 75.0%)
+2025-07-05 15:39:02,434 - CRITICAL -  ALERTE SÉCURITÉ: Personne non autorisée | Durée: 4.3s | Track: track_0053
+2025-07-05 15:39:02,446 - CRITICAL - 🔴 Security evidence saved: logs/security_evidence/ALERT_track_0053_20250705_153902.jpg
+2025-07-05 15:39:06,497 - INFO - 🔊 French security alert announced
+2025-07-05 15:39:06,497 - INFO -  New person detected at entrance: track_0054 (position: RIGHT_FAR)
+2025-07-05 15:39:06,497 - INFO -  Identity confirmed: badr_mellal for track_0054
+2025-07-05 15:39:06,497 - INFO -  Access granted: badr_mellal
+2025-07-05 15:39:07,360 - INFO -  New person detected at entrance: track_0055 (position: RIGHT_FAR)
+2025-07-05 15:39:07,961 - WARNING - 🚪 Unauthorized exit: track_0046 - unauthorized person left entrance
+2025-07-05 15:39:07,962 - INFO - 🚪 Exit logged: badr_mellal (track_0048) - authorized person left entrance
+2025-07-05 15:39:07,962 - INFO - 🚪 Exit logged: badr_mellal (track_0049) - authorized person left entrance
+2025-07-05 15:39:07,962 - INFO - 🚪 Exit logged: badr_mellal (track_0050) - authorized person left entrance
+2025-07-05 15:39:07,962 - INFO - 🚪 Exit logged: badr_mellal (track_0051) - authorized person left entrance
+2025-07-05 15:39:07,962 - INFO - 🚪 Exit logged: badr_mellal (track_0052) - authorized person left entrance
+2025-07-05 15:39:15,351 - INFO -  New person detected at entrance: track_0056 (position: RIGHT_FAR)
+2025-07-05 15:39:15,587 - INFO -  New person detected at entrance: track_0057 (position: RIGHT_FAR)
+2025-07-05 15:39:17,146 - INFO -  New person detected at entrance: track_0058 (position: CENTER_FAR)
+2025-07-05 15:39:18,730 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.99 | Durée: 1.6s | Track: track_0058
+2025-07-05 15:39:35,154 - INFO -  New person detected at entrance: track_0059 (position: CENTER_FAR)
+2025-07-05 15:39:36,057 - INFO -  New person detected at entrance: track_0060 (position: CENTER_FAR)
+2025-07-05 15:39:36,946 - INFO -  New person detected at entrance: track_0061 (position: CENTER_FAR)
+2025-07-05 15:39:37,381 - INFO -  New person detected at entrance: track_0062 (position: RIGHT_FAR)
+2025-07-05 15:39:38,298 - INFO -  New person detected at entrance: track_0063 (position: RIGHT_FAR)
+2025-07-05 15:39:38,398 - INFO -  New person detected at entrance: track_0064 (position: RIGHT_FAR)
+2025-07-05 15:39:40,216 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.80 | Durée: 1.8s | Track: track_0064
+2025-07-05 15:39:46,240 - INFO -  New person detected at entrance: track_0065 (position: LEFT_FAR)
+2025-07-05 15:39:46,697 - INFO -  New person detected at entrance: track_0066 (position: CENTER_FAR)
+2025-07-05 15:39:48,211 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.69 | Durée: 1.5s | Track: track_0066
+2025-07-05 15:39:57,383 - INFO -  capture saved: logs/security_captures/CAPTURE_20250705_153957.jpg
+2025-07-05 15:39:59,772 - INFO -  statistics reset
+2025-07-05 15:40:01,033 - INFO -  statistics reset
+2025-07-05 15:40:01,629 - INFO -  display: Fullscreen ON
+2025-07-05 15:40:03,485 - INFO -  display: Fullscreen OFF
+2025-07-05 15:40:17,459 - INFO -  monitoring interrupted
+2025-07-05 15:40:17,459 - INFO -  Stopping monitoring system...
+2025-07-05 15:40:17,468 - ERROR -  monitoring stop error: shutdown() got an unexpected keyword argument 'timeout'
+2025-07-05 17:50:20,615 - INFO - Loaded 1 known faces
+2025-07-05 17:50:20,616 - INFO - Database initialized: 1 persons
+2025-07-05 17:50:20,633 - INFO -  M3 Max GPU acceleration enabled (MPS)
+2025-07-05 17:50:20,665 - INFO -  Specialized face detection model loaded
+2025-07-05 17:50:20,772 - INFO -  database loaded: 1 authorized personnel
+2025-07-05 17:50:20,772 - INFO -  Starting surveillance system...
+2025-07-05 17:50:20,772 - INFO -  Connecting to surveillance camera...
+2025-07-05 17:50:20,772 - INFO -  RTSP URL: rtsp://admin:badrmellal123@192.168.1.108:554/cam/realmonitor?channel=1&subtype=0
+2025-07-05 17:55:25,274 - INFO - Loaded 1 known faces
+2025-07-05 17:55:25,274 - INFO - Database initialized: 1 persons
+2025-07-05 17:55:25,287 - INFO -  M3 Max GPU acceleration enabled (MPS)
+2025-07-05 17:55:25,306 - INFO -  Specialized face detection model loaded
+2025-07-05 17:55:25,410 - INFO -  database loaded: 1 authorized personnel
+2025-07-05 17:55:25,410 - INFO -  Starting surveillance system...
+2025-07-05 17:55:25,410 - INFO -  Connecting to surveillance camera...
+2025-07-05 17:55:25,410 - INFO -  RTSP URL: rtsp://admin:badrmellal123@192.168.1.108:554/cam/realmonitor?channel=1&subtype=0
+2025-07-05 17:55:26,707 - INFO -  Connection attempt 1/5...
+2025-07-05 17:55:26,768 - INFO -  Camera connected successfully: 2688x1664
+2025-07-05 17:55:26,768 - INFO -  Frame size: 13418496 pixels
+2025-07-05 17:55:26,870 - INFO -  Display initialized: 1920x1080
+2025-07-05 17:55:26,870 - INFO - 🧵 Starting multithreaded surveillance pipeline...
+2025-07-05 17:55:26,870 - INFO -  Stream capture thread started
+2025-07-05 17:55:26,870 - INFO -  Started StreamCapture thread
+2025-07-05 17:55:26,871 - INFO - 🔍 Face detection thread started
+2025-07-05 17:55:26,871 - INFO -  Started FaceDetection thread
+2025-07-05 17:55:26,871 - INFO -  Face recognition thread started
+2025-07-05 17:55:26,871 - INFO -  Started FaceRecognition thread
+2025-07-05 17:55:26,871 - INFO -  Tracking and alert thread started
+2025-07-05 17:55:26,871 - INFO -  Started TrackingAlerts thread
+2025-07-05 17:55:29,456 - INFO -  New person detected at entrance: track_0001 (position: RIGHT_FAR)
+2025-07-05 17:55:30,130 - INFO - 🔊 French security alert announced
+2025-07-05 17:55:30,130 - INFO -  system ready announcement
+2025-07-05 17:55:31,013 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.72 | Durée: 1.6s | Track: track_0001
+2025-07-05 17:55:45,154 - INFO -  New person detected at entrance: track_0002 (position: CENTER_FAR)
+2025-07-05 17:55:46,743 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.66 | Durée: 1.6s | Track: track_0002
+2025-07-05 17:56:40,512 - INFO -  New person detected at entrance: track_0003 (position: CENTER_FAR)
+2025-07-05 17:56:42,048 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.62 | Durée: 1.5s | Track: track_0003
+2025-07-05 17:57:00,135 - INFO -  New person detected at entrance: track_0004 (position: CENTER_FAR)
+2025-07-05 17:57:00,431 - INFO -  Identity confirmed: badr_mellal for track_0004
+2025-07-05 17:57:00,431 - INFO -  Access granted: badr_mellal
+2025-07-05 17:57:00,585 - INFO -  New person detected at entrance: track_0005 (position: RIGHT_FAR)
+2025-07-05 17:57:01,002 - INFO -  New person detected at entrance: track_0006 (position: RIGHT_FAR)
+2025-07-05 17:57:01,782 - INFO - 🚪 Exit logged: badr_mellal (track_0001) - authorized person left entrance
+2025-07-05 17:57:01,783 - INFO - 🚪 Exit logged: badr_mellal (track_0002) - authorized person left entrance
+2025-07-05 17:57:04,204 - INFO -  New person detected at entrance: track_0007 (position: RIGHT_FAR)
+2025-07-05 17:57:05,771 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.80 | Durée: 1.6s | Track: track_0007
+2025-07-05 17:57:08,551 - INFO -  New person detected at entrance: track_0008 (position: CENTER_FAR)
+2025-07-05 17:57:10,095 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.56 | Durée: 1.5s | Track: track_0008
+2025-07-05 17:57:56,725 - INFO -  New person detected at entrance: track_0009 (position: CENTER_FAR)
+2025-07-05 17:57:57,707 - INFO -  New person detected at entrance: track_0010 (position: CENTER_FAR)
+2025-07-05 17:57:58,181 - INFO -  New person detected at entrance: track_0011 (position: CENTER_FAR)
+2025-07-05 17:57:59,116 - INFO -  New person detected at entrance: track_0012 (position: CENTER_FAR)
+2025-07-05 17:57:59,427 - INFO -  Identity confirmed: badr_mellal for track_0012
+2025-07-05 17:57:59,427 - INFO -  Access granted: badr_mellal
+2025-07-05 17:57:59,598 - INFO -  New person detected at entrance: track_0013 (position: RIGHT_FAR)
+2025-07-05 17:58:01,191 - INFO -  Identity confirmed: badr_mellal for track_0013
+2025-07-05 17:58:01,191 - INFO -  Access granted: badr_mellal
+2025-07-05 17:58:01,191 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.49 | Durée: 1.6s | Track: track_0013
+2025-07-05 17:58:28,149 - INFO -  New person detected at entrance: track_0014 (position: CENTER_FAR)
+2025-07-05 17:58:29,700 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.77 | Durée: 1.6s | Track: track_0014
+2025-07-05 17:58:47,378 - INFO -  shutdown requested
+2025-07-05 17:58:47,378 - INFO -  Stopping monitoring system...
+2025-07-05 17:58:47,390 - ERROR -  monitoring stop error: shutdown() got an unexpected keyword argument 'timeout'
+2025-07-05 20:33:45,541 - INFO - Loaded 1 known faces
+2025-07-05 20:33:45,541 - INFO - Database initialized: 1 persons
+2025-07-05 20:33:45,554 - INFO -  M3 Max GPU acceleration enabled (MPS)
+2025-07-05 20:33:45,580 - INFO -  Specialized face detection model loaded
+2025-07-05 20:33:45,732 - INFO -  database loaded: 1 authorized personnel
+2025-07-05 20:33:45,732 - INFO -  Starting surveillance system...
+2025-07-05 20:33:45,732 - INFO -  Connecting to surveillance camera...
+2025-07-05 20:33:45,732 - INFO -  RTSP URL: rtsp://admin:password@192.168.1.100:554/cam/realmonitor?channel=1&subtype=1
+2025-07-05 20:36:04,218 - INFO - Loaded 1 known faces
+2025-07-05 20:36:04,219 - INFO - Database initialized: 1 persons
+2025-07-05 20:36:04,232 - INFO -  M3 Max GPU acceleration enabled (MPS)
+2025-07-05 20:36:04,259 - INFO -  Specialized face detection model loaded
+2025-07-05 20:36:04,373 - INFO -  database loaded: 1 authorized personnel
+2025-07-05 20:36:04,374 - INFO -  Starting surveillance system...
+2025-07-05 20:36:04,374 - INFO -  Connecting to surveillance camera...
+2025-07-05 20:36:04,374 - INFO -  RTSP URL: rtsp://admin:password@192.168.1.100:554/cam/realmonitor?channel=1&subtype=1
+2025-07-05 20:36:34,376 - INFO -  Connection attempt 1/5...
+2025-07-05 20:36:34,376 - WARNING -  Attempt 1 failed, retrying in 2 seconds...
+2025-07-05 20:36:36,379 - INFO -  Connection attempt 2/5...
+2025-07-05 20:36:36,380 - WARNING -  Attempt 2 failed, retrying in 2 seconds...
+2025-07-05 20:36:59,300 - INFO - Loaded 1 known faces
+2025-07-05 20:36:59,300 - INFO - Database initialized: 1 persons
+2025-07-05 20:36:59,312 - INFO -  M3 Max GPU acceleration enabled (MPS)
+2025-07-05 20:36:59,332 - INFO -  Specialized face detection model loaded
+2025-07-05 20:36:59,433 - INFO -  database loaded: 1 authorized personnel
+2025-07-05 20:36:59,433 - INFO -  Starting surveillance system...
+2025-07-05 20:36:59,433 - INFO -  Connecting to surveillance camera...
+2025-07-05 20:36:59,433 - INFO -  RTSP URL: rtsp://admin:badrmellal123@192.168.1.108:554/cam/realmonitor?channel=1&subtype=1
+2025-07-05 20:37:01,421 - INFO -  Connection attempt 1/5...
+2025-07-05 20:37:01,431 - INFO -  Camera connected successfully: 640x480
+2025-07-05 20:37:01,431 - INFO -  Frame size: 921600 pixels
+2025-07-05 20:37:01,551 - INFO -  Display initialized: 1920x1080
+2025-07-05 20:37:01,551 - INFO - 🧵 Starting multithreaded surveillance pipeline...
+2025-07-05 20:37:01,552 - INFO -  Stream capture thread started
+2025-07-05 20:37:01,552 - INFO -  Started StreamCapture thread
+2025-07-05 20:37:01,552 - INFO - 🔍 Face detection thread started
+2025-07-05 20:37:01,552 - INFO -  Started FaceDetection thread
+2025-07-05 20:37:01,552 - INFO -  Face recognition thread started
+2025-07-05 20:37:01,552 - INFO -  Started FaceRecognition thread
+2025-07-05 20:37:01,552 - INFO -  Tracking and alert thread started
+2025-07-05 20:37:01,553 - INFO -  Started TrackingAlerts thread
+2025-07-05 20:37:04,830 - INFO - 🔊 French security alert announced
+2025-07-05 20:37:04,830 - INFO -  system ready announcement
+2025-07-05 20:37:06,489 - INFO -  New person detected at entrance: track_0001 (position: CENTER_FAR)
+2025-07-05 20:37:06,614 - INFO -  New person detected at entrance: track_0002 (position: CENTER_FAR)
+2025-07-05 20:37:08,187 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.69 | Durée: 1.6s | Track: track_0002
+2025-07-05 20:37:21,351 - INFO -  monitoring interrupted
+2025-07-05 20:37:21,351 - INFO -  Stopping monitoring system...
+2025-07-05 20:37:21,354 - ERROR -  monitoring stop error: shutdown() got an unexpected keyword argument 'timeout'
+2025-07-06 09:16:03,714 - INFO - Loaded 1 known faces
+2025-07-06 09:16:03,714 - INFO - Database initialized: 1 persons
+2025-07-06 09:16:03,714 - INFO - Running in headless mode (no display)
+2025-07-06 09:16:03,728 - INFO -  M3 Max GPU acceleration enabled (MPS)
+2025-07-06 09:16:03,755 - INFO -  Specialized face detection model loaded
+2025-07-06 09:16:03,857 - INFO -  database loaded: 1 authorized personnel
+2025-07-06 09:16:03,857 - INFO - Starting surveillance system...
+2025-07-06 09:16:03,857 - INFO -  Connecting to surveillance camera...
+2025-07-06 09:16:03,857 - INFO -  RTSP URL: rtsp://admin:badrmellal123@192.168.1.100:554/cam/realmonitor?channel=1&subtype=0
+2025-07-06 09:16:33,952 - INFO -  Connection attempt 1/5...
+2025-07-06 09:16:33,953 - WARNING -  Attempt 1 failed, retrying in 2 seconds...
+2025-07-06 09:16:35,953 - INFO -  Connection attempt 2/5...
+2025-07-06 09:16:35,954 - WARNING -  Attempt 2 failed, retrying in 2 seconds...
+2025-07-06 09:16:37,959 - INFO -  Connection attempt 3/5...
+2025-07-06 09:16:37,960 - WARNING -  Attempt 3 failed, retrying in 2 seconds...
+2025-07-06 09:16:39,966 - INFO -  Connection attempt 4/5...
+2025-07-06 09:16:39,966 - WARNING -  Attempt 4 failed, retrying in 2 seconds...
+2025-07-06 09:16:41,969 - INFO -  Connection attempt 5/5...
+2025-07-06 09:16:41,969 - ERROR -  Camera connection failed after 5 attempts
+2025-07-06 09:16:41,970 - ERROR -  Troubleshooting suggestions:
+2025-07-06 09:16:41,970 - ERROR -    1. Verify camera IP and credentials
+2025-07-06 09:16:41,970 - ERROR -    2. Check if camera is accessible via browser
+2025-07-06 09:16:41,970 - ERROR -    3. Ensure RTSP service is enabled on camera
+2025-07-06 09:16:41,970 - ERROR -    4. Try mainstream: subtype=0 instead of subtype=1
+2025-07-06 09:16:41,971 - ERROR -    5. Check network firewall settings
+2025-07-06 09:17:13,557 - INFO - Loaded 1 known faces
+2025-07-06 09:17:13,557 - INFO - Database initialized: 1 persons
+2025-07-06 09:17:13,557 - INFO - Running in headless mode (no display)
+2025-07-06 09:17:13,570 - INFO -  M3 Max GPU acceleration enabled (MPS)
+2025-07-06 09:17:13,589 - INFO -  Specialized face detection model loaded
+2025-07-06 09:17:13,691 - INFO -  database loaded: 1 authorized personnel
+2025-07-06 09:17:13,691 - INFO - Starting surveillance system...
+2025-07-06 09:17:13,692 - INFO -  Connecting to surveillance camera...
+2025-07-06 09:17:13,692 - INFO -  RTSP URL: rtsp://admin:badrmellal123@192.168.1.108:554/cam/realmonitor?channel=1&subtype=0
+2025-07-06 09:17:14,974 - INFO -  Connection attempt 1/5...
+2025-07-06 09:17:15,031 - INFO -  Camera connected successfully: 2688x1664
+2025-07-06 09:17:15,031 - INFO -  Frame size: 13418496 pixels
+2025-07-06 09:17:15,031 - INFO - 🧵 Starting multithreaded surveillance pipeline...
+2025-07-06 09:17:15,031 - INFO -  Stream capture thread started
+2025-07-06 09:17:15,032 - INFO -  Started StreamCapture thread
+2025-07-06 09:17:15,032 - INFO -  Face detection thread started
+2025-07-06 09:17:15,032 - INFO -  Started FaceDetection thread
+2025-07-06 09:17:15,032 - INFO -  Face recognition thread started
+2025-07-06 09:17:15,032 - INFO -  Started FaceRecognition thread
+2025-07-06 09:17:15,032 - INFO -  Tracking and alert thread started
+2025-07-06 09:17:15,032 - INFO -  Started TrackingAlerts thread
+2025-07-06 09:17:17,344 - INFO -  New person detected at entrance: track_0001 (position: RIGHT_NEAR)
+2025-07-06 09:17:18,226 - INFO - 🔊 French security alert announced
+2025-07-06 09:17:18,226 - INFO -  system ready announcement
+2025-07-06 09:17:18,850 - INFO -  ACCÈS AUTORISÉ: badr_mellal | Confiance: 0.99 | Durée: 1.5s | Track: track_0001
+2025-07-06 09:17:33,934 - INFO -  New person detected at entrance: track_0002 (position: RIGHT_FAR)
+2025-07-06 09:17:34,228 - INFO -  New person detected at entrance: track_0003 (position: RIGHT_FAR)
+2025-07-06 09:22:36,087 - INFO - Loaded 1 known faces
+2025-07-06 09:22:36,088 - INFO - Database initialized: 1 persons
+2025-07-06 09:22:36,088 - INFO - Running in headless mode (no display)
+2025-07-06 09:22:36,100 - INFO -  M3 Max GPU acceleration enabled (MPS)
+2025-07-06 09:22:36,120 - INFO -  Specialized face detection model loaded
+2025-07-06 09:22:36,226 - INFO -  database loaded: 1 authorized personnel
+2025-07-06 09:22:36,226 - INFO - Starting surveillance system...
+2025-07-06 09:22:36,226 - INFO -  Connecting to surveillance camera...
+2025-07-06 09:22:36,226 - INFO -  RTSP URL: rtsp://admin:badrmellal123@192.168.1.108:554/cam/realmonitor?channel=1&subtype=0
+2025-07-06 09:22:37,578 - INFO -  Connection attempt 1/5...
+2025-07-06 09:22:37,630 - INFO -  Camera connected successfully: 2688x1664
+2025-07-06 09:22:37,630 - INFO -  Frame size: 13418496 pixels
+2025-07-06 09:22:37,630 - INFO - 🧵 Starting multithreaded surveillance pipeline...
+2025-07-06 09:22:37,630 - INFO -  Stream capture thread started
+2025-07-06 09:22:37,630 - INFO -  Started StreamCapture thread
+2025-07-06 09:22:37,630 - INFO -  Face detection thread started
+2025-07-06 09:22:37,630 - INFO -  Started FaceDetection thread
+2025-07-06 09:22:37,630 - INFO -  Face recognition thread started
+2025-07-06 09:22:37,630 - INFO -  Started FaceRecognition thread
+2025-07-06 09:22:37,631 - INFO -  Tracking and alert thread started
+2025-07-06 09:22:37,631 - INFO -  Started TrackingAlerts thread
+2025-07-06 09:22:39,808 - INFO -  New track track_0001 started at RIGHT_NEAR
+2025-07-06 09:22:40,831 - INFO - 🔊 French security alert announced
+2025-07-06 09:22:40,831 - INFO -  system ready announcement
+2025-07-06 09:23:04,109 - INFO -  New track track_0002 started at RIGHT_FAR
+2025-07-06 09:23:04,329 - INFO -  New track track_0003 started at RIGHT_FAR
+2025-07-06 09:23:05,902 - INFO -  New track track_0004 started at CENTER_NEAR
+2025-07-06 09:23:06,641 - INFO -  New track track_0005 started at RIGHT_FAR
+2025-07-06 09:23:09,160 - INFO -  New track track_0006 started at RIGHT_NEAR
+2025-07-06 15:12:19,397 - INFO - Loaded 1 known faces
+2025-07-06 15:12:19,397 - INFO - Database initialized: 1 persons
+2025-07-06 15:12:19,397 - INFO - Running in headless mode (no display)
+2025-07-06 15:12:19,409 - INFO -  M3 Max GPU acceleration enabled (MPS)
+2025-07-06 15:12:19,442 - INFO -  Specialized face detection model loaded
+2025-07-06 15:12:19,548 - INFO -  database loaded: 1 authorized personnel
+2025-07-06 15:12:19,548 - INFO - Starting surveillance system...
+2025-07-06 15:12:19,548 - INFO -  Connecting to surveillance camera...
+2025-07-06 15:12:19,548 - INFO -  RTSP URL: rtsp://admin:badrmellal123@192.168.1.108:554/cam/realmonitor?channel=1&subtype=0
+2025-07-06 15:12:20,840 - INFO -  Connection attempt 1/5...
+2025-07-06 15:12:20,876 - INFO -  Camera connected successfully: 2688x1664
+2025-07-06 15:12:20,876 - INFO -  Frame size: 13418496 pixels
+2025-07-06 15:12:20,876 - INFO - 🧵 Starting multithreaded surveillance pipeline...
+2025-07-06 15:12:20,876 - INFO -  Stream capture thread started
+2025-07-06 15:12:20,876 - INFO -  Started StreamCapture thread
+2025-07-06 15:12:20,877 - INFO - Face detection thread started
+2025-07-06 15:12:20,877 - INFO -  Started FaceDetection thread
+2025-07-06 15:12:20,877 - INFO -  Face recognition thread started
+2025-07-06 15:12:20,877 - INFO -  Started FaceRecognition thread
+2025-07-06 15:12:20,877 - INFO -  Tracking and alert thread started
+2025-07-06 15:12:20,877 - INFO -  Started TrackingAlerts thread
+2025-07-06 15:12:24,128 - INFO - 🔊 French security alert announced
+2025-07-06 15:12:24,129 - INFO -  system ready announcement
+2025-07-06 15:12:46,788 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:46,890 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:46,994 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:47,100 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:47,202 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:47,308 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:47,414 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:47,516 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:47,621 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:47,727 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:47,832 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:47,938 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:48,043 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:48,145 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:48,250 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:48,356 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:48,461 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:48,567 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:48,672 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:48,777 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:48,883 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:48,989 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:49,090 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:49,191 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:49,294 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:49,399 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:49,505 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:49,610 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:49,716 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:49,820 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:49,925 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:50,031 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:50,136 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:50,242 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:50,347 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:50,451 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:50,556 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:50,662 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:50,767 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:50,873 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:50,977 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:51,082 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:51,188 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:51,293 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:51,399 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:51,504 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:51,610 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:51,715 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:51,821 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:51,926 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:52,032 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:52,137 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:52,243 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:52,345 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:52,451 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:52,556 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:52,662 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:52,765 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:52,870 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:52,976 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:53,081 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:53,186 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:53,292 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:53,397 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:53,498 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:53,600 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:53,703 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:53,809 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:53,914 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:54,019 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:54,122 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:54,227 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:54,333 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:54,438 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:54,540 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:54,645 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:54,750 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:54,856 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:54,957 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:55,062 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:55,168 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:55,274 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:55,375 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:55,477 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:55,582 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:55,688 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:55,794 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:55,900 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:56,005 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:56,111 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:56,212 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:56,315 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:56,420 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:56,523 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:56,628 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:56,734 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:56,839 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:56,945 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:57,051 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:57,156 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:57,262 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:57,368 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:57,473 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:57,579 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:57,682 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:57,788 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:57,890 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:57,995 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:58,101 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:58,206 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:58,312 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:58,418 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:58,523 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:58,628 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:58,733 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:58,837 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:58,943 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:59,049 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:59,154 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:59,259 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:59,365 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:59,470 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:59,576 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:59,681 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:59,787 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:59,890 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:12:59,993 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:00,099 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:00,200 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:00,306 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:00,411 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:00,517 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:00,620 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:00,725 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:00,831 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:00,937 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:01,042 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:01,148 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:01,253 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:01,359 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:01,464 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:01,567 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:01,672 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:01,778 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:01,883 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:01,989 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:02,094 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:02,200 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:02,305 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:02,411 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:02,513 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:02,616 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:02,721 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:02,827 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:02,932 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:03,034 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:03,140 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:03,245 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:03,351 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:03,456 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:03,562 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:03,668 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:03,769 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:03,876 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:03,982 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:04,088 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:04,193 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:04,299 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:04,402 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:04,503 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:04,609 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:04,714 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:04,820 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:04,925 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:05,031 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:05,137 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:05,242 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:05,347 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:11,560 - INFO - Loaded 1 known faces
+2025-07-06 15:13:11,560 - INFO - Database initialized: 1 persons
+2025-07-06 15:13:11,560 - INFO - Running in headless mode (no display)
+2025-07-06 15:13:11,575 - INFO -  M3 Max GPU acceleration enabled (MPS)
+2025-07-06 15:13:11,601 - INFO -  Specialized face detection model loaded
+2025-07-06 15:13:11,697 - INFO -  database loaded: 1 authorized personnel
+2025-07-06 15:13:11,697 - INFO - Starting surveillance system...
+2025-07-06 15:13:11,698 - INFO -  Connecting to surveillance camera...
+2025-07-06 15:13:11,698 - INFO -  RTSP URL: rtsp://admin:badrmellal123@192.168.1.108:554/cam/realmonitor?channel=1&subtype=0
+2025-07-06 15:13:12,987 - INFO -  Connection attempt 1/5...
+2025-07-06 15:13:13,033 - INFO -  Camera connected successfully: 2688x1664
+2025-07-06 15:13:13,033 - INFO -  Frame size: 13418496 pixels
+2025-07-06 15:13:13,033 - INFO - 🧵 Starting multithreaded surveillance pipeline...
+2025-07-06 15:13:13,033 - INFO -  Stream capture thread started
+2025-07-06 15:13:13,033 - INFO -  Started StreamCapture thread
+2025-07-06 15:13:13,033 - INFO - Face detection thread started
+2025-07-06 15:13:13,033 - INFO -  Started FaceDetection thread
+2025-07-06 15:13:13,033 - INFO -  Face recognition thread started
+2025-07-06 15:13:13,034 - INFO -  Started FaceRecognition thread
+2025-07-06 15:13:13,034 - INFO -  Tracking and alert thread started
+2025-07-06 15:13:13,034 - INFO -  Started TrackingAlerts thread
+2025-07-06 15:13:14,427 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:14,533 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:14,638 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:14,740 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:14,846 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:14,951 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:15,057 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:15,158 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:15,262 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:15,368 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:15,473 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:15,579 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:15,684 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:15,790 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:15,891 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:15,996 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:16,102 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:16,207 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:16,245 - INFO - 🔊 French security alert announced
+2025-07-06 15:13:16,245 - INFO -  system ready announcement
+2025-07-06 15:13:16,313 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:16,418 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:16,525 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:16,629 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:16,734 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:16,839 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:16,945 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:17,050 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:17,156 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:17,261 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:17,366 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:17,470 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:17,575 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:17,681 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:17,786 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:17,891 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:17,996 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:18,101 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:18,207 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:18,311 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:18,417 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:18,520 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:18,626 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:18,732 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:18,837 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:18,943 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:19,048 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:19,149 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:19,253 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:19,358 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:19,464 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:19,570 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:19,675 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:19,779 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:19,885 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:19,991 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:20,096 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:20,202 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:20,307 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:20,413 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:20,518 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:20,624 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:20,728 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:20,834 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:20,936 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:21,040 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:21,146 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:21,252 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:21,357 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:21,462 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:21,568 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:21,673 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:21,777 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:21,880 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:21,982 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:22,087 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:22,193 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:22,298 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:22,404 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:22,510 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:22,612 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:22,714 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:22,820 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:22,925 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:23,031 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:23,133 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:23,239 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:23,344 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:23,450 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:23,553 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:23,659 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:23,765 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:23,870 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:23,971 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:24,078 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:24,181 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:24,286 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:24,387 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:24,493 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:24,599 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:24,704 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:24,810 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:24,916 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:25,020 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:25,126 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:25,233 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:25,335 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:25,441 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:25,546 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:25,651 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:25,757 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:25,863 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:25,969 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:26,075 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:26,177 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:26,279 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:26,385 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:26,491 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:26,597 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:26,703 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:26,808 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:26,913 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:27,019 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:27,125 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:27,228 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:27,331 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:27,433 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:27,539 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:27,644 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:27,749 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:27,853 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:27,959 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:28,065 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:28,169 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:28,274 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:28,380 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:28,486 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:28,592 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:28,695 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:28,801 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:28,907 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:29,013 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:29,118 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:29,224 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:29,326 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:29,427 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:29,531 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:29,635 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:29,741 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:29,846 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:29,949 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:30,054 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:30,160 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:30,265 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:30,371 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:30,477 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:30,583 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:30,687 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:30,792 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:13:30,898 - ERROR - Face detection error: botsort acceptable suffix is ('.yaml', '.yml'), not .botsort
+2025-07-06 15:19:22,484 - INFO - Loaded 1 known faces
+2025-07-06 15:19:22,484 - INFO - Database initialized: 1 persons
+2025-07-06 15:19:22,484 - INFO - Running in headless mode (no display)
+2025-07-06 15:19:22,497 - INFO -  M3 Max GPU acceleration enabled (MPS)
+2025-07-06 15:19:22,517 - INFO -  Specialized face detection model loaded
+2025-07-06 15:19:22,617 - INFO -  database loaded: 1 authorized personnel
+2025-07-06 15:19:22,617 - INFO - Starting surveillance system...
+2025-07-06 15:19:22,617 - INFO -  Connecting to surveillance camera...
+2025-07-06 15:19:22,617 - INFO -  RTSP URL: rtsp://admin:badrmellal123@192.168.1.108:554/cam/realmonitor?channel=1&subtype=0
+2025-07-06 15:19:23,927 - INFO -  Connection attempt 1/5...
+2025-07-06 15:19:23,965 - INFO -  Camera connected successfully: 2688x1664
+2025-07-06 15:19:23,966 - INFO -  Frame size: 13418496 pixels
+2025-07-06 15:19:23,966 - INFO - 🧵 Starting multithreaded surveillance pipeline...
+2025-07-06 15:19:23,966 - INFO -  Stream capture thread started
+2025-07-06 15:19:23,966 - INFO -  Started StreamCapture thread
+2025-07-06 15:19:23,967 - INFO - Face detection thread started
+2025-07-06 15:19:23,967 - INFO -  Started FaceDetection thread
+2025-07-06 15:19:23,967 - INFO -  Face recognition thread started
+2025-07-06 15:19:23,967 - INFO -  Started FaceRecognition thread
+2025-07-06 15:19:23,967 - INFO -  Tracking and alert thread started
+2025-07-06 15:19:23,967 - INFO -  Started TrackingAlerts thread
+2025-07-06 15:19:27,160 - INFO - 🔊 French security alert announced
+2025-07-06 15:19:27,161 - INFO -  system ready announcement
+2025-07-06 15:19:28,009 - INFO -  New track track_0001 started at CENTER_FAR
+2025-07-06 15:19:28,414 - WARNING -  Unauthorized: track_0001 (5/6 negative)
+2025-07-06 15:19:28,493 - WARNING -  Unauthorized: track_0001 (6/7 negative)
+2025-07-06 15:19:28,575 - WARNING -  Unauthorized: track_0001 (7/8 negative)
+2025-07-06 15:19:28,659 - WARNING -  Unauthorized: track_0001 (8/9 negative)
+2025-07-06 15:19:28,740 - WARNING -  Unauthorized: track_0001 (9/10 negative)
+2025-07-06 15:19:28,820 - WARNING -  Unauthorized: track_0001 (10/11 negative)
+2025-07-06 15:19:28,897 - WARNING -  Unauthorized: track_0001 (11/12 negative)
+2025-07-06 15:19:28,979 - WARNING -  Unauthorized: track_0001 (12/13 negative)
+2025-07-06 15:19:29,063 - WARNING -  Unauthorized: track_0001 (13/14 negative)
+2025-07-06 15:19:29,144 - WARNING -  Unauthorized: track_0001 (14/15 negative)
+2025-07-06 15:19:29,230 - WARNING -  Unauthorized: track_0001 (15/16 negative)
+2025-07-06 15:19:29,308 - WARNING -  Unauthorized: track_0001 (16/17 negative)
+2025-07-06 15:19:29,391 - WARNING -  Unauthorized: track_0001 (17/18 negative)
+2025-07-06 15:19:29,471 - WARNING -  Unauthorized: track_0001 (18/19 negative)
+2025-07-06 15:19:29,553 - WARNING -  Unauthorized: track_0001 (19/20 negative)
+2025-07-06 15:19:29,553 - WARNING - Unauthorized person confirmed: track_0001 (attempts: 20, failure rate: 95.0%)
+2025-07-06 15:19:29,553 - CRITICAL -  ALERTE SECURITE: Personne non autorisée | Durée: 1.5s | Track: track_0001
+2025-07-06 15:19:29,565 - CRITICAL - 🔴 Security evidence saved: logs/security_evidence/ALERT_track_0001_20250706_151929.jpg
+2025-07-06 15:19:33,628 - INFO - 🔊 French security alert announced
+2025-07-06 15:19:33,628 - INFO -  New track track_0002 started at CENTER_FAR
+2025-07-06 15:19:34,076 - WARNING -  Unauthorized: track_0002 (36/36 negative)
+2025-07-06 15:19:34,161 - WARNING -  Unauthorized: track_0002 (37/37 negative)
+2025-07-06 15:19:34,244 - WARNING -  Unauthorized: track_0002 (38/38 negative)
+2025-07-06 15:19:34,328 - WARNING -  Unauthorized: track_0002 (39/39 negative)
+2025-07-06 15:19:34,410 - WARNING -  Unauthorized: track_0002 (40/40 negative)
+2025-07-06 15:19:34,499 - WARNING -  Unauthorized: track_0002 (41/41 negative)
+2025-07-06 15:19:34,583 - WARNING -  Unauthorized: track_0002 (42/42 negative)
+2025-07-06 15:19:34,666 - WARNING -  Unauthorized: track_0002 (43/43 negative)
+2025-07-06 15:19:34,753 - WARNING -  Unauthorized: track_0002 (44/44 negative)
+2025-07-06 15:19:34,832 - WARNING -  Unauthorized: track_0002 (45/45 negative)
+2025-07-06 15:19:34,919 - WARNING -  Unauthorized: track_0002 (46/46 negative)
+2025-07-06 15:19:34,998 - WARNING -  Unauthorized: track_0002 (47/47 negative)
+2025-07-06 15:19:35,083 - WARNING -  Unauthorized: track_0002 (48/48 negative)
+2025-07-06 15:19:35,166 - WARNING -  Unauthorized: track_0002 (49/49 negative)
+2025-07-06 15:19:35,166 - WARNING - Unauthorized person confirmed: track_0002 (attempts: 49, failure rate: 100.0%)
+2025-07-06 15:19:35,166 - CRITICAL -  ALERTE SECURITE: Personne non autorisée | Durée: 1.5s | Track: track_0002
+2025-07-06 15:19:35,176 - CRITICAL - 🔴 Security evidence saved: logs/security_evidence/ALERT_track_0002_20250706_151935.jpg
+2025-07-06 15:19:39,213 - INFO - 🔊 French security alert announced
+2025-07-06 15:19:39,214 - INFO -  New track track_0003 started at CENTER_FAR
+2025-07-06 15:19:39,689 - WARNING -  Unauthorized: track_0003 (36/36 negative)
+2025-07-06 15:19:39,771 - WARNING -  Unauthorized: track_0003 (37/37 negative)
+2025-07-06 15:19:39,852 - WARNING -  Unauthorized: track_0003 (38/38 negative)
+2025-07-06 15:19:39,934 - WARNING -  Unauthorized: track_0003 (39/39 negative)
+2025-07-06 15:19:40,017 - WARNING -  Unauthorized: track_0003 (40/40 negative)
+2025-07-06 15:19:40,099 - WARNING -  Unauthorized: track_0003 (41/41 negative)
+2025-07-06 15:19:40,185 - WARNING -  Unauthorized: track_0003 (42/42 negative)
+2025-07-06 15:19:40,265 - WARNING -  Unauthorized: track_0003 (43/43 negative)
+2025-07-06 15:19:40,343 - WARNING -  Unauthorized: track_0003 (44/44 negative)
+2025-07-06 15:19:40,426 - WARNING -  Unauthorized: track_0003 (45/45 negative)
+2025-07-06 15:19:40,505 - WARNING -  Unauthorized: track_0003 (46/46 negative)
+2025-07-06 15:19:40,590 - WARNING -  Unauthorized: track_0003 (47/47 negative)
+2025-07-06 15:19:40,670 - WARNING -  Unauthorized: track_0003 (48/48 negative)
+2025-07-06 15:19:40,753 - WARNING -  Unauthorized: track_0003 (49/49 negative)
+2025-07-06 15:19:40,753 - WARNING - Unauthorized person confirmed: track_0003 (attempts: 49, failure rate: 100.0%)
+2025-07-06 15:19:40,753 - CRITICAL -  ALERTE SECURITE: Personne non autorisée | Durée: 1.5s | Track: track_0003
+2025-07-06 15:19:40,763 - CRITICAL - 🔴 Security evidence saved: logs/security_evidence/ALERT_track_0003_20250706_151940.jpg
+2025-07-06 15:19:44,795 - INFO - 🔊 French security alert announced
+2025-07-06 15:19:44,795 - INFO -  New track track_0004 started at CENTER_FAR
+2025-07-06 15:19:44,939 - INFO -  New track track_0005 started at CENTER_FAR
+2025-07-06 15:19:45,210 - WARNING -  Unauthorized: track_0004 (31/33 negative)
+2025-07-06 15:19:45,306 - WARNING -  Unauthorized: track_0004 (31/34 negative)
+2025-07-06 15:19:45,397 - INFO -  Access granted: badr_mellal for track_0004
+2025-07-06 15:19:45,573 - WARNING -  Unauthorized: track_0004 (32/37 negative)
+2025-07-06 15:19:46,369 - INFO -  ACCÈS AUTORISE: badr_mellal | Confiance: 0.67 | Durée: 1.6s | Track: track_0004

@@ -1,0 +1,1287 @@
+2025-07-07 20:34:29,124 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-07 20:34:29,125 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-07 20:34:29,125 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-07 20:34:29,125 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-07 20:34:29,125 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-07 20:34:29,125 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-07 20:34:29,126 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-07 20:34:29,126 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-07 20:34:29,126 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-07 20:34:29,126 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-07 20:34:29,126 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-07 20:34:29,126 - INFO - Loaded 0 known faces
+2025-07-07 20:34:29,126 - INFO - Enhanced database initialized: 0 persons
+2025-07-07 20:34:47,968 - INFO - Loaded 0 known faces
+2025-07-07 20:34:47,969 - INFO - Enhanced database initialized: 0 persons
+2025-07-07 20:34:47,969 - INFO - Processing 7 images for directeur_general...
+2025-07-07 20:34:48,171 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-07 20:34:48,287 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-07 20:34:48,477 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-07 20:34:48,634 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-07 20:34:48,738 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-07 20:34:48,749 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-07 20:34:49,111 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-07 20:34:49,112 - INFO - Enhanced database saved successfully
+2025-07-07 20:34:49,112 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-07 20:34:49,113 - INFO - Loaded 1 known faces
+2025-07-07 20:34:49,113 - INFO - Enhanced database initialized: 1 persons
+2025-07-07 20:34:49,113 - INFO - Processing 7 images for mounia_amrhar...
+2025-07-07 20:34:49,133 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_0773.png (score: 0.491)
+2025-07-07 20:34:49,161 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_5152.png (score: 0.305)
+2025-07-07 20:34:49,796 - INFO - ✅ Encoded IMG_4561.png (quality: 0.793)
+2025-07-07 20:34:50,378 - INFO - ✅ Encoded IMG_4566.png (quality: 0.723)
+2025-07-07 20:34:50,923 - INFO - ✅ Encoded IMG_4019.png (quality: 0.581)
+2025-07-07 20:34:50,972 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_0108.png (score: 0.492)
+2025-07-07 20:34:51,396 - INFO - ✅ Encoded IMG_0627.png (quality: 0.803)
+2025-07-07 20:34:51,398 - INFO - Enhanced database saved successfully
+2025-07-07 20:34:51,398 - INFO - ✅ Successfully added mounia_amrhar: 4 encodings
+2025-07-07 20:34:51,399 - INFO - Loaded 2 known faces
+2025-07-07 20:34:51,399 - INFO - Enhanced database initialized: 2 persons
+2025-07-07 20:34:51,399 - INFO - Processing 9 images for badr_mellal...
+2025-07-07 20:34:51,901 - INFO - ✅ Encoded IMG_5144.png (quality: 0.773)
+2025-07-07 20:34:52,363 - INFO - ✅ Encoded IMG_5140.png (quality: 0.860)
+2025-07-07 20:34:52,798 - INFO - ✅ Encoded IMG_5297.png (quality: 0.625)
+2025-07-07 20:34:53,159 - INFO - ✅ Encoded IMG_5296.png (quality: 0.624)
+2025-07-07 20:34:53,597 - INFO - ✅ Encoded IMG_5307.png (quality: 0.529)
+2025-07-07 20:34:53,945 - INFO - ✅ Encoded IMG_5298.png (quality: 0.675)
+2025-07-07 20:34:54,388 - INFO - ✅ Encoded IMG_5299.png (quality: 0.608)
+2025-07-07 20:34:54,816 - INFO - ✅ Encoded IMG_5302.png (quality: 0.569)
+2025-07-07 20:34:55,146 - INFO - ✅ Encoded IMG_5301.png (quality: 0.636)
+2025-07-07 20:34:55,148 - INFO - Enhanced database saved successfully
+2025-07-07 20:34:55,148 - INFO - ✅ Successfully added badr_mellal: 9 encodings
+2025-07-07 20:36:09,655 - INFO - Loaded 3 known faces
+2025-07-07 20:36:09,655 - INFO - Enhanced database initialized: 3 persons
+2025-07-07 21:59:08,401 - INFO - 🚀 InsightFace initialized (production-grade)
+2025-07-07 21:59:08,401 - INFO - 📊 Loaded 0 persons from production database
+2025-07-07 21:59:08,401 - INFO - 🏢 Production database initialized: 0 persons
+2025-07-07 21:59:08,880 - INFO - 🚀 InsightFace initialized (production-grade)
+2025-07-07 21:59:08,880 - INFO - 📊 Loaded 0 persons from production database
+2025-07-07 21:59:08,880 - INFO - 🏢 Production database initialized: 0 persons
+2025-07-07 21:59:44,342 - INFO - 🚀 InsightFace initialized (production-grade)
+2025-07-07 21:59:44,343 - INFO - 📊 Loaded 0 persons from production database
+2025-07-07 21:59:44,343 - INFO - 🏢 Production database initialized: 0 persons
+2025-07-07 21:59:44,343 - INFO - 🔄 Processing 7 images for directeur_general...
+2025-07-07 21:59:44,464 - INFO - ✅ Jeff-Bezos-PNG-Picture.png (quality: 0.956)
+2025-07-07 21:59:44,545 - INFO - ✅ Jeff-Bezos-Transparent-PNG.png (quality: 0.954)
+2025-07-07 21:59:44,628 - INFO - ✅ 20.png (quality: 0.943)
+2025-07-07 21:59:44,710 - INFO - ✅ 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.935)
+2025-07-07 21:59:44,790 - INFO - ✅ Jeff-Bezos-PNG-Photo.png (quality: 0.947)
+2025-07-07 21:59:44,881 - INFO - ✅ hero-image.png (quality: 0.938)
+2025-07-07 21:59:44,968 - INFO - ✅ Jeff-Bezos-PNG-Pic.png (quality: 0.948)
+2025-07-07 21:59:44,969 - INFO - 💾 Production database saved successfully
+2025-07-07 21:59:44,970 - INFO - 🎯 Production-grade encoding complete: directeur_general
+2025-07-07 21:59:45,162 - INFO - 🚀 InsightFace initialized (production-grade)
+2025-07-07 21:59:45,163 - INFO - 📊 Loaded 1 persons from production database
+2025-07-07 21:59:45,163 - INFO - 🏢 Production database initialized: 1 persons
+2025-07-07 21:59:45,163 - INFO - 🔄 Processing 7 images for mounia_amrhar...
+2025-07-07 21:59:45,262 - INFO - ✅ IMG_0773.png (quality: 0.863)
+2025-07-07 21:59:45,359 - INFO - ✅ IMG_5152.png (quality: 0.887)
+2025-07-07 21:59:45,466 - INFO - ✅ IMG_4561.png (quality: 0.967)
+2025-07-07 21:59:45,576 - INFO - ✅ IMG_4566.png (quality: 0.920)
+2025-07-07 21:59:45,675 - INFO - ✅ IMG_4019.png (quality: 0.880)
+2025-07-07 21:59:45,790 - INFO - ✅ IMG_0108.png (quality: 0.956)
+2025-07-07 21:59:45,901 - INFO - ✅ IMG_0627.png (quality: 0.957)
+2025-07-07 21:59:45,903 - INFO - 💾 Production database saved successfully
+2025-07-07 21:59:45,903 - INFO - 🎯 Production-grade encoding complete: mounia_amrhar
+2025-07-07 21:59:46,120 - INFO - 🚀 InsightFace initialized (production-grade)
+2025-07-07 21:59:46,121 - INFO - 📊 Loaded 2 persons from production database
+2025-07-07 21:59:46,121 - INFO - 🏢 Production database initialized: 2 persons
+2025-07-07 21:59:46,121 - INFO - 🔄 Processing 9 images for badr_mellal...
+2025-07-07 21:59:46,248 - INFO - ✅ IMG_5144.png (quality: 0.940)
+2025-07-07 21:59:46,374 - INFO - ✅ IMG_5140.png (quality: 0.924)
+2025-07-07 21:59:46,497 - INFO - ✅ IMG_5297.png (quality: 0.892)
+2025-07-07 21:59:46,625 - INFO - ✅ IMG_5296.png (quality: 0.899)
+2025-07-07 21:59:46,746 - INFO - ✅ IMG_5307.png (quality: 0.876)
+2025-07-07 21:59:46,870 - INFO - ✅ IMG_5298.png (quality: 0.924)
+2025-07-07 21:59:46,995 - INFO - ✅ IMG_5299.png (quality: 0.871)
+2025-07-07 21:59:47,115 - INFO - ✅ IMG_5302.png (quality: 0.864)
+2025-07-07 21:59:47,237 - INFO - ✅ IMG_5301.png (quality: 0.853)
+2025-07-07 21:59:47,239 - INFO - 💾 Production database saved successfully
+2025-07-07 21:59:47,239 - INFO - 🎯 Production-grade encoding complete: badr_mellal
+2025-07-08 00:39:49,597 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-08 00:39:49,598 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-08 00:39:49,598 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-08 00:39:49,598 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-08 00:39:49,598 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-08 00:39:49,598 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-08 00:39:49,598 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-08 00:39:49,599 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-08 00:39:49,599 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-08 00:39:49,599 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-08 00:39:49,599 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-08 00:39:49,599 - INFO - Loaded 0 known faces
+2025-07-08 00:39:49,599 - INFO - Enhanced database initialized: 0 persons
+2025-07-08 00:40:31,463 - INFO - Loaded 0 known faces
+2025-07-08 00:40:31,463 - INFO - Enhanced database initialized: 0 persons
+2025-07-08 00:40:31,464 - INFO - Processing 7 images for directeur_general...
+2025-07-08 00:40:31,661 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-08 00:40:31,779 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-08 00:40:31,903 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-08 00:40:32,066 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-08 00:40:32,170 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-08 00:40:32,181 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-08 00:40:32,541 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-08 00:40:32,543 - INFO - Enhanced database saved successfully
+2025-07-08 00:40:32,543 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-08 00:40:32,544 - INFO - Loaded 1 known faces
+2025-07-08 00:40:32,544 - INFO - Enhanced database initialized: 1 persons
+2025-07-08 00:40:32,544 - INFO - Processing 7 images for mounia_amrhar...
+2025-07-08 00:40:32,564 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_0773.png (score: 0.491)
+2025-07-08 00:40:32,592 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_5152.png (score: 0.305)
+2025-07-08 00:40:33,220 - INFO - ✅ Encoded IMG_4561.png (quality: 0.793)
+2025-07-08 00:40:33,796 - INFO - ✅ Encoded IMG_4566.png (quality: 0.723)
+2025-07-08 00:40:34,336 - INFO - ✅ Encoded IMG_4019.png (quality: 0.581)
+2025-07-08 00:40:34,386 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_0108.png (score: 0.492)
+2025-07-08 00:40:34,814 - INFO - ✅ Encoded IMG_0627.png (quality: 0.803)
+2025-07-08 00:40:34,816 - INFO - Enhanced database saved successfully
+2025-07-08 00:40:34,816 - INFO - ✅ Successfully added mounia_amrhar: 4 encodings
+2025-07-08 00:40:34,817 - INFO - Loaded 2 known faces
+2025-07-08 00:40:34,817 - INFO - Enhanced database initialized: 2 persons
+2025-07-08 00:40:34,817 - INFO - Processing 9 images for badr_mellal...
+2025-07-08 00:40:35,303 - INFO - ✅ Encoded IMG_5144.png (quality: 0.773)
+2025-07-08 00:40:35,763 - INFO - ✅ Encoded IMG_5140.png (quality: 0.860)
+2025-07-08 00:40:36,209 - INFO - ✅ Encoded IMG_5297.png (quality: 0.625)
+2025-07-08 00:40:36,569 - INFO - ✅ Encoded IMG_5296.png (quality: 0.624)
+2025-07-08 00:40:37,012 - INFO - ✅ Encoded IMG_5307.png (quality: 0.529)
+2025-07-08 00:40:37,366 - INFO - ✅ Encoded IMG_5298.png (quality: 0.675)
+2025-07-08 00:40:37,812 - INFO - ✅ Encoded IMG_5299.png (quality: 0.608)
+2025-07-08 00:40:38,238 - INFO - ✅ Encoded IMG_5302.png (quality: 0.569)
+2025-07-08 00:40:38,569 - INFO - ✅ Encoded IMG_5301.png (quality: 0.636)
+2025-07-08 00:40:38,571 - INFO - Enhanced database saved successfully
+2025-07-08 00:40:38,571 - INFO - ✅ Successfully added badr_mellal: 9 encodings
+2025-07-08 11:49:49,044 - INFO - Loaded 0 known faces
+2025-07-08 11:49:49,044 - INFO - Enhanced database initialized: 0 persons
+2025-07-08 11:49:57,512 - INFO - Loaded 0 known faces
+2025-07-08 11:49:57,512 - INFO - Enhanced database initialized: 0 persons
+2025-07-08 11:49:57,512 - INFO - Processing 7 images for directeur_general...
+2025-07-08 11:49:58,339 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-08 11:49:58,460 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-08 11:49:58,581 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-08 11:49:58,741 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-08 11:49:58,844 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-08 11:49:58,854 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-08 11:49:59,221 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-08 11:49:59,222 - INFO - Enhanced database saved successfully
+2025-07-08 11:49:59,222 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-08 11:49:59,223 - INFO - Loaded 1 known faces
+2025-07-08 11:49:59,223 - INFO - Enhanced database initialized: 1 persons
+2025-07-08 11:49:59,223 - INFO - Processing 7 images for mounia_amrhar...
+2025-07-08 11:49:59,243 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_0773.png (score: 0.491)
+2025-07-08 11:49:59,274 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_5152.png (score: 0.305)
+2025-07-08 11:49:59,918 - INFO - ✅ Encoded IMG_4561.png (quality: 0.793)
+2025-07-08 11:50:00,494 - INFO - ✅ Encoded IMG_4566.png (quality: 0.723)
+2025-07-08 11:50:01,036 - INFO - ✅ Encoded IMG_4019.png (quality: 0.581)
+2025-07-08 11:50:01,084 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_0108.png (score: 0.492)
+2025-07-08 11:50:01,512 - INFO - ✅ Encoded IMG_0627.png (quality: 0.803)
+2025-07-08 11:50:01,514 - INFO - Enhanced database saved successfully
+2025-07-08 11:50:01,514 - INFO - ✅ Successfully added mounia_amrhar: 4 encodings
+2025-07-08 11:50:01,515 - INFO - Loaded 2 known faces
+2025-07-08 11:50:01,515 - INFO - Enhanced database initialized: 2 persons
+2025-07-08 11:50:01,515 - INFO - Processing 9 images for badr_mellal...
+2025-07-08 11:50:02,044 - INFO - ✅ Encoded IMG_5331.JPG (quality: 0.530)
+2025-07-08 11:50:02,421 - INFO - ✅ Encoded IMG_5325.JPG (quality: 0.600)
+2025-07-08 11:50:02,868 - INFO - ✅ Encoded IMG_5324.JPG (quality: 0.664)
+2025-07-08 11:50:03,353 - INFO - ✅ Encoded IMG_5330.JPG (quality: 0.557)
+2025-07-08 11:50:03,759 - INFO - ✅ Encoded IMG_5326.JPG (quality: 0.507)
+2025-07-08 11:50:04,231 - INFO - ✅ Encoded IMG_5333.JPG (quality: 0.504)
+2025-07-08 11:50:04,722 - INFO - ✅ Encoded IMG_5327.JPG (quality: 0.585)
+2025-07-08 11:50:04,749 - WARNING - Low quality image skipped: known_faces/badr_mellal/IMG_5323.JPG (score: 0.422)
+2025-07-08 11:50:05,252 - INFO - ✅ Encoded IMG_5329.JPG (quality: 0.522)
+2025-07-08 11:50:05,254 - INFO - Enhanced database saved successfully
+2025-07-08 11:50:05,254 - INFO - ✅ Successfully added badr_mellal: 8 encodings
+2025-07-08 11:54:23,731 - INFO - Loaded 3 known faces
+2025-07-08 11:54:23,731 - INFO - Enhanced database initialized: 3 persons
+2025-07-08 11:54:32,915 - INFO - Loaded 3 known faces
+2025-07-08 11:54:32,915 - INFO - Enhanced database initialized: 3 persons
+2025-07-08 11:54:32,916 - WARNING - Person directeur_general already exists, updating...
+2025-07-08 11:54:32,916 - INFO - Processing 7 images for directeur_general...
+2025-07-08 11:54:33,708 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-08 11:54:33,828 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-08 11:54:33,950 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-08 11:54:34,112 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-08 11:54:34,213 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-08 11:54:34,223 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-08 11:54:34,592 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-08 11:54:34,595 - INFO - Enhanced database saved successfully
+2025-07-08 11:54:34,595 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-08 11:54:34,598 - INFO - Person analysis exported: logs/directeur_general_analysis.json
+2025-07-08 11:54:34,599 - INFO - Loaded 3 known faces
+2025-07-08 11:54:34,599 - INFO - Enhanced database initialized: 3 persons
+2025-07-08 11:54:34,599 - WARNING - Person mounia_amrhar already exists, updating...
+2025-07-08 11:54:34,599 - INFO - Processing 7 images for mounia_amrhar...
+2025-07-08 11:54:34,619 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_0773.png (score: 0.491)
+2025-07-08 11:54:34,650 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_5152.png (score: 0.305)
+2025-07-08 11:54:35,290 - INFO - ✅ Encoded IMG_4561.png (quality: 0.793)
+2025-07-08 11:54:35,871 - INFO - ✅ Encoded IMG_4566.png (quality: 0.723)
+2025-07-08 11:54:36,425 - INFO - ✅ Encoded IMG_4019.png (quality: 0.581)
+2025-07-08 11:54:36,473 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_0108.png (score: 0.492)
+2025-07-08 11:54:36,908 - INFO - ✅ Encoded IMG_0627.png (quality: 0.803)
+2025-07-08 11:54:36,911 - INFO - Enhanced database saved successfully
+2025-07-08 11:54:36,911 - INFO - ✅ Successfully added mounia_amrhar: 4 encodings
+2025-07-08 11:54:36,912 - INFO - Person analysis exported: logs/mounia_amrhar_analysis.json
+2025-07-08 11:54:36,913 - INFO - Loaded 3 known faces
+2025-07-08 11:54:36,913 - INFO - Enhanced database initialized: 3 persons
+2025-07-08 11:54:36,913 - WARNING - Person badr_mellal already exists, updating...
+2025-07-08 11:54:36,913 - INFO - Processing 10 images for badr_mellal...
+2025-07-08 11:54:37,449 - INFO - ✅ Encoded IMG_5331.JPG (quality: 0.530)
+2025-07-08 11:54:37,823 - INFO - ✅ Encoded IMG_5325.JPG (quality: 0.600)
+2025-07-08 11:54:38,271 - INFO - ✅ Encoded IMG_5324.JPG (quality: 0.664)
+2025-07-08 11:54:38,758 - INFO - ✅ Encoded IMG_5330.JPG (quality: 0.557)
+2025-07-08 11:54:39,159 - INFO - ✅ Encoded IMG_5326.JPG (quality: 0.507)
+2025-07-08 11:54:39,624 - INFO - ✅ Encoded IMG_5333.JPG (quality: 0.504)
+2025-07-08 11:54:40,117 - INFO - ✅ Encoded IMG_5327.JPG (quality: 0.585)
+2025-07-08 11:54:40,142 - WARNING - Low quality image skipped: known_faces/badr_mellal/IMG_5323.JPG (score: 0.422)
+2025-07-08 11:54:40,641 - INFO - ✅ Encoded IMG_5329.JPG (quality: 0.522)
+2025-07-08 11:54:41,015 - INFO - ✅ Encoded IMG_5296 copy 2.png (quality: 0.624)
+2025-07-08 11:54:41,017 - INFO - Enhanced database saved successfully
+2025-07-08 11:54:41,018 - INFO - ✅ Successfully added badr_mellal: 9 encodings
+2025-07-08 11:54:41,022 - INFO - Person analysis exported: logs/badr_mellal_analysis.json
+2025-07-18 21:43:08,006 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-18 21:43:08,006 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-18 21:43:08,006 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-18 21:43:08,006 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-18 21:43:08,007 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-18 21:43:08,007 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-18 21:43:08,007 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-18 21:43:08,007 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-18 21:43:08,007 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-18 21:43:08,007 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-18 21:43:08,007 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-18 21:43:08,009 - INFO - Loaded 3 known faces
+2025-07-18 21:43:08,009 - INFO - Enhanced database initialized: 3 persons
+2025-07-18 21:44:02,237 - INFO - Loaded 3 known faces
+2025-07-18 21:44:02,237 - INFO - Enhanced database initialized: 3 persons
+2025-07-18 21:44:02,237 - WARNING - Person directeur_general already exists, updating...
+2025-07-18 21:44:02,237 - INFO - Processing 7 images for directeur_general...
+2025-07-18 21:44:02,441 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-18 21:44:02,558 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-18 21:44:02,680 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-18 21:44:02,840 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-18 21:44:02,943 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-18 21:44:02,953 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-18 21:44:03,309 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-18 21:44:03,312 - INFO - Enhanced database saved successfully
+2025-07-18 21:44:03,312 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-18 21:44:03,314 - INFO - Loaded 3 known faces
+2025-07-18 21:44:03,314 - INFO - Enhanced database initialized: 3 persons
+2025-07-18 21:44:03,314 - WARNING - Person mounia_amrhar already exists, updating...
+2025-07-18 21:44:03,314 - INFO - Processing 7 images for mounia_amrhar...
+2025-07-18 21:44:03,334 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_0773.png (score: 0.491)
+2025-07-18 21:44:03,362 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_5152.png (score: 0.305)
+2025-07-18 21:44:03,994 - INFO - ✅ Encoded IMG_4561.png (quality: 0.793)
+2025-07-18 21:44:04,571 - INFO - ✅ Encoded IMG_4566.png (quality: 0.723)
+2025-07-18 21:44:05,104 - INFO - ✅ Encoded IMG_4019.png (quality: 0.581)
+2025-07-18 21:44:05,154 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_0108.png (score: 0.492)
+2025-07-18 21:44:05,589 - INFO - ✅ Encoded IMG_0627.png (quality: 0.803)
+2025-07-18 21:44:05,592 - INFO - Enhanced database saved successfully
+2025-07-18 21:44:05,592 - INFO - ✅ Successfully added mounia_amrhar: 4 encodings
+2025-07-18 21:44:05,594 - INFO - Loaded 3 known faces
+2025-07-18 21:44:05,594 - INFO - Enhanced database initialized: 3 persons
+2025-07-18 21:44:05,594 - WARNING - Person badr_mellal already exists, updating...
+2025-07-18 21:44:05,594 - INFO - Processing 6 images for badr_mellal...
+2025-07-18 21:44:05,943 - INFO - ✅ Encoded IMG_5298 copy 2.png (quality: 0.675)
+2025-07-18 21:44:06,469 - INFO - ✅ Encoded IMG_5333.png (quality: 0.535)
+2025-07-18 21:44:06,533 - WARNING - Low quality image skipped: known_faces/badr_mellal/IMG_5323.png (score: 0.427)
+2025-07-18 21:44:06,980 - INFO - ✅ Encoded IMG_5297 copy 2.png (quality: 0.625)
+2025-07-18 21:44:07,503 - INFO - ✅ Encoded IMG_5329.png (quality: 0.542)
+2025-07-18 21:44:07,879 - INFO - ✅ Encoded IMG_5296 copy 2.png (quality: 0.624)
+2025-07-18 21:44:07,882 - INFO - Enhanced database saved successfully
+2025-07-18 21:44:07,882 - INFO - ✅ Successfully added badr_mellal: 5 encodings
+2025-07-18 21:46:30,669 - INFO - Loaded 3 known faces
+2025-07-18 21:46:30,669 - INFO - Enhanced database initialized: 3 persons
+2025-07-18 21:47:15,321 - INFO - Loaded 3 known faces
+2025-07-18 21:47:15,321 - INFO - Enhanced database initialized: 3 persons
+2025-07-18 21:47:15,322 - WARNING - Person directeur_general already exists, updating...
+2025-07-18 21:47:15,322 - INFO - Processing 7 images for directeur_general...
+2025-07-18 21:47:16,140 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-18 21:47:16,261 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-18 21:47:16,382 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-18 21:47:16,543 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-18 21:47:16,648 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-18 21:47:16,659 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-18 21:47:17,029 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-18 21:47:17,032 - INFO - Enhanced database saved successfully
+2025-07-18 21:47:17,032 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-18 21:47:17,035 - INFO - Person analysis exported: logs/directeur_general_analysis.json
+2025-07-18 21:47:17,036 - INFO - Loaded 3 known faces
+2025-07-18 21:47:17,036 - INFO - Enhanced database initialized: 3 persons
+2025-07-18 21:47:17,036 - WARNING - Person mounia_amrhar already exists, updating...
+2025-07-18 21:47:17,036 - INFO - Processing 7 images for mounia_amrhar...
+2025-07-18 21:47:17,055 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_0773.png (score: 0.491)
+2025-07-18 21:47:17,089 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_5152.png (score: 0.305)
+2025-07-18 21:47:17,751 - INFO - ✅ Encoded IMG_4561.png (quality: 0.793)
+2025-07-18 21:47:18,342 - INFO - ✅ Encoded IMG_4566.png (quality: 0.723)
+2025-07-18 21:47:18,882 - INFO - ✅ Encoded IMG_4019.png (quality: 0.581)
+2025-07-18 21:47:18,931 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_0108.png (score: 0.492)
+2025-07-18 21:47:19,363 - INFO - ✅ Encoded IMG_0627.png (quality: 0.803)
+2025-07-18 21:47:19,366 - INFO - Enhanced database saved successfully
+2025-07-18 21:47:19,366 - INFO - ✅ Successfully added mounia_amrhar: 4 encodings
+2025-07-18 21:47:19,368 - INFO - Person analysis exported: logs/mounia_amrhar_analysis.json
+2025-07-18 21:47:19,368 - INFO - Loaded 3 known faces
+2025-07-18 21:47:19,368 - INFO - Enhanced database initialized: 3 persons
+2025-07-18 21:47:19,368 - WARNING - Person badr_mellal already exists, updating...
+2025-07-18 21:47:19,368 - INFO - Processing 7 images for badr_mellal...
+2025-07-18 21:47:19,726 - INFO - ✅ Encoded IMG_5298 copy 2.png (quality: 0.675)
+2025-07-18 21:47:20,174 - INFO - ✅ Encoded IMG_5307 copy 2.png (quality: 0.529)
+2025-07-18 21:47:20,682 - INFO - ✅ Encoded IMG_5333.png (quality: 0.535)
+2025-07-18 21:47:20,741 - WARNING - Low quality image skipped: known_faces/badr_mellal/IMG_5323.png (score: 0.427)
+2025-07-18 21:47:21,179 - INFO - ✅ Encoded IMG_5297 copy 2.png (quality: 0.625)
+2025-07-18 21:47:21,713 - INFO - ✅ Encoded IMG_5329.png (quality: 0.542)
+2025-07-18 21:47:22,092 - INFO - ✅ Encoded IMG_5296 copy 2.png (quality: 0.624)
+2025-07-18 21:47:22,096 - INFO - Enhanced database saved successfully
+2025-07-18 21:47:22,096 - INFO - ✅ Successfully added badr_mellal: 6 encodings
+2025-07-18 21:47:22,098 - INFO - Person analysis exported: logs/badr_mellal_analysis.json
+2025-07-20 19:21:31,247 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-20 19:21:31,248 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-20 19:21:31,248 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-20 19:21:31,248 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-20 19:21:31,248 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-20 19:21:31,249 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-20 19:21:31,249 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-20 19:21:31,249 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-20 19:21:31,249 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-20 19:21:31,249 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-20 19:21:31,249 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-20 19:21:31,251 - INFO - Loaded 3 known faces
+2025-07-20 19:21:31,251 - INFO - Enhanced database initialized: 3 persons
+2025-07-20 19:22:11,459 - INFO - Loaded 3 known faces
+2025-07-20 19:22:11,460 - INFO - Enhanced database initialized: 3 persons
+2025-07-20 19:22:11,460 - WARNING - Person directeur_general already exists, updating...
+2025-07-20 19:22:11,460 - INFO - Processing 7 images for directeur_general...
+2025-07-20 19:22:11,664 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-20 19:22:11,784 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-20 19:22:11,909 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-20 19:22:12,076 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-20 19:22:12,182 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-20 19:22:12,193 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-20 19:22:12,561 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-20 19:22:12,565 - INFO - Enhanced database saved successfully
+2025-07-20 19:22:12,565 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-20 19:22:12,567 - INFO - Loaded 3 known faces
+2025-07-20 19:22:12,567 - INFO - Enhanced database initialized: 3 persons
+2025-07-20 19:22:12,567 - WARNING - Person mounia_amrhar already exists, updating...
+2025-07-20 19:22:12,567 - INFO - Processing 8 images for mounia_amrhar...
+2025-07-20 19:22:12,742 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_5433 copy.png (score: 0.439)
+2025-07-20 19:22:12,921 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_5432 copy.png (score: 0.453)
+2025-07-20 19:22:13,547 - INFO - ✅ Encoded IMG_5429 copy.png (quality: 0.557)
+2025-07-20 19:22:14,130 - INFO - ✅ Encoded IMG_5428 copy.png (quality: 0.623)
+2025-07-20 19:22:14,773 - INFO - ✅ Encoded IMG_4561.png (quality: 0.793)
+2025-07-20 19:22:15,347 - INFO - ✅ Encoded IMG_4566.png (quality: 0.723)
+2025-07-20 19:22:15,532 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_5430 copy.png (score: 0.494)
+2025-07-20 19:22:15,941 - INFO - ✅ Encoded IMG_0627.png (quality: 0.803)
+2025-07-20 19:22:15,946 - INFO - Enhanced database saved successfully
+2025-07-20 19:22:15,946 - INFO - ✅ Successfully added mounia_amrhar: 5 encodings
+2025-07-20 19:22:15,948 - INFO - Loaded 3 known faces
+2025-07-20 19:22:15,948 - INFO - Enhanced database initialized: 3 persons
+2025-07-20 19:22:15,948 - WARNING - Person badr_mellal already exists, updating...
+2025-07-20 19:22:15,948 - INFO - Processing 9 images for badr_mellal...
+2025-07-20 19:22:16,480 - INFO - ✅ Encoded IMG_5439 copy.png (quality: 0.536)
+2025-07-20 19:22:16,591 - WARNING - Low quality image skipped: known_faces/badr_mellal/IMG_5438 copy.png (score: 0.442)
+2025-07-20 19:22:16,938 - INFO - ✅ Encoded IMG_5298 copy 2.png (quality: 0.675)
+2025-07-20 19:22:16,997 - WARNING - Low quality image skipped: known_faces/badr_mellal/IMG_5323.png (score: 0.427)
+2025-07-20 19:22:17,437 - INFO - ✅ Encoded IMG_5297 copy 2.png (quality: 0.625)
+2025-07-20 19:22:18,054 - INFO - ✅ Encoded IMG_5440 copy.png (quality: 0.516)
+2025-07-20 19:22:18,637 - INFO - ✅ Encoded IMG_5441 copy.png (quality: 0.523)
+2025-07-20 19:22:18,750 - WARNING - Low quality image skipped: known_faces/badr_mellal/IMG_5437 copy.png (score: 0.493)
+2025-07-20 19:22:19,108 - INFO - ✅ Encoded IMG_5296 copy 2.png (quality: 0.624)
+2025-07-20 19:22:19,113 - INFO - Enhanced database saved successfully
+2025-07-20 19:22:19,113 - INFO - ✅ Successfully added badr_mellal: 6 encodings
+2025-07-20 19:23:28,463 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-20 19:23:28,463 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-20 19:23:28,463 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-20 19:23:28,463 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-20 19:23:28,463 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-20 19:23:28,463 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-20 19:23:28,464 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-20 19:23:28,464 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-20 19:23:28,464 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-20 19:23:28,464 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-20 19:23:28,464 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-20 19:23:28,465 - INFO - Loaded 3 known faces
+2025-07-20 19:23:28,465 - INFO - Enhanced database initialized: 3 persons
+2025-07-20 19:23:38,937 - INFO - Loaded 3 known faces
+2025-07-20 19:23:38,937 - INFO - Enhanced database initialized: 3 persons
+2025-07-20 19:23:38,937 - WARNING - Person directeur_general already exists, updating...
+2025-07-20 19:23:38,937 - INFO - Processing 7 images for directeur_general...
+2025-07-20 19:23:39,140 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-20 19:23:39,258 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-20 19:23:39,382 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-20 19:23:39,543 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-20 19:23:39,648 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-20 19:23:39,658 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-20 19:23:40,019 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-20 19:23:40,021 - INFO - Enhanced database saved successfully
+2025-07-20 19:23:40,021 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-20 19:23:40,023 - INFO - Loaded 3 known faces
+2025-07-20 19:23:40,023 - INFO - Enhanced database initialized: 3 persons
+2025-07-20 19:23:40,023 - WARNING - Person mounia_amrhar already exists, updating...
+2025-07-20 19:23:40,023 - INFO - Processing 8 images for mounia_amrhar...
+2025-07-20 19:23:40,208 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_5433 copy.png (score: 0.439)
+2025-07-20 19:23:40,389 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_5432 copy.png (score: 0.453)
+2025-07-20 19:23:41,010 - INFO - ✅ Encoded IMG_5429 copy.png (quality: 0.557)
+2025-07-20 19:23:41,582 - INFO - ✅ Encoded IMG_5428 copy.png (quality: 0.623)
+2025-07-20 19:23:42,220 - INFO - ✅ Encoded IMG_4561.png (quality: 0.793)
+2025-07-20 19:23:42,795 - INFO - ✅ Encoded IMG_4566.png (quality: 0.723)
+2025-07-20 19:23:42,980 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_5430 copy.png (score: 0.494)
+2025-07-20 19:23:43,402 - INFO - ✅ Encoded IMG_0627.png (quality: 0.803)
+2025-07-20 19:23:43,407 - INFO - Enhanced database saved successfully
+2025-07-20 19:23:43,407 - INFO - ✅ Successfully added mounia_amrhar: 5 encodings
+2025-07-20 19:23:43,409 - INFO - Loaded 3 known faces
+2025-07-20 19:23:43,409 - INFO - Enhanced database initialized: 3 persons
+2025-07-20 19:23:43,409 - WARNING - Person badr_mellal already exists, updating...
+2025-07-20 19:23:43,409 - INFO - Processing 9 images for badr_mellal...
+2025-07-20 19:23:43,954 - INFO - ✅ Encoded IMG_5439 copy.png (quality: 0.536)
+2025-07-20 19:23:44,069 - WARNING - Low quality image skipped: known_faces/badr_mellal/IMG_5438 copy.png (score: 0.442)
+2025-07-20 19:23:44,424 - INFO - ✅ Encoded IMG_5298 copy 2.png (quality: 0.675)
+2025-07-20 19:23:44,483 - WARNING - Low quality image skipped: known_faces/badr_mellal/IMG_5323.png (score: 0.427)
+2025-07-20 19:23:44,927 - INFO - ✅ Encoded IMG_5297 copy 2.png (quality: 0.625)
+2025-07-20 19:23:45,546 - INFO - ✅ Encoded IMG_5440 copy.png (quality: 0.516)
+2025-07-20 19:23:46,134 - INFO - ✅ Encoded IMG_5441 copy.png (quality: 0.523)
+2025-07-20 19:23:46,250 - WARNING - Low quality image skipped: known_faces/badr_mellal/IMG_5437 copy.png (score: 0.493)
+2025-07-20 19:23:46,614 - INFO - ✅ Encoded IMG_5296 copy 2.png (quality: 0.624)
+2025-07-20 19:23:46,618 - INFO - Enhanced database saved successfully
+2025-07-20 19:23:46,618 - INFO - ✅ Successfully added badr_mellal: 6 encodings
+2025-07-20 19:53:29,854 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-20 19:53:29,854 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-20 19:53:29,854 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-20 19:53:29,855 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-20 19:53:29,855 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-20 19:53:29,855 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-20 19:53:29,855 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-20 19:53:29,855 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-20 19:53:29,856 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-20 19:53:29,856 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-20 19:53:29,856 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-20 19:53:29,857 - INFO - Loaded 3 known faces
+2025-07-20 19:53:29,857 - INFO - Enhanced database initialized: 3 persons
+2025-07-20 19:53:36,112 - INFO - Loaded 3 known faces
+2025-07-20 19:53:36,113 - INFO - Enhanced database initialized: 3 persons
+2025-07-20 19:53:36,113 - WARNING - Person directeur_general already exists, updating...
+2025-07-20 19:53:36,113 - INFO - Processing 7 images for directeur_general...
+2025-07-20 19:53:36,311 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-20 19:53:36,428 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-20 19:53:36,553 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-20 19:53:36,713 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-20 19:53:36,814 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-20 19:53:36,825 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-20 19:53:37,188 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-20 19:53:37,190 - INFO - Enhanced database saved successfully
+2025-07-20 19:53:37,190 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-20 19:53:37,192 - INFO - Loaded 3 known faces
+2025-07-20 19:53:37,193 - INFO - Enhanced database initialized: 3 persons
+2025-07-20 19:53:37,193 - WARNING - Person mounia_amrhar already exists, updating...
+2025-07-20 19:53:37,193 - INFO - Processing 5 images for mounia_amrhar...
+2025-07-20 19:53:37,817 - INFO - ✅ Encoded IMG_5429 copy.png (quality: 0.557)
+2025-07-20 19:53:38,384 - INFO - ✅ Encoded IMG_5428 copy.png (quality: 0.623)
+2025-07-20 19:53:39,010 - INFO - ✅ Encoded IMG_4561.png (quality: 0.793)
+2025-07-20 19:53:39,586 - INFO - ✅ Encoded IMG_4566.png (quality: 0.723)
+2025-07-20 19:53:39,656 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_4236.png (score: 0.468)
+2025-07-20 19:53:39,659 - INFO - Enhanced database saved successfully
+2025-07-20 19:53:39,659 - INFO - ✅ Successfully added mounia_amrhar: 4 encodings
+2025-07-20 19:53:39,661 - INFO - Loaded 3 known faces
+2025-07-20 19:53:39,661 - INFO - Enhanced database initialized: 3 persons
+2025-07-20 19:53:39,661 - WARNING - Person badr_mellal already exists, updating...
+2025-07-20 19:53:39,661 - INFO - Processing 8 images for badr_mellal...
+2025-07-20 19:53:40,005 - INFO - ✅ Encoded IMG_5298 copy 2.png (quality: 0.675)
+2025-07-20 19:53:40,335 - INFO - ✅ Encoded IMG_0884.png (quality: 0.648)
+2025-07-20 19:53:40,777 - INFO - ✅ Encoded IMG_5297 copy 2.png (quality: 0.625)
+2025-07-20 19:53:41,439 - INFO - ✅ Encoded IMG_4185.png (quality: 0.898)
+2025-07-20 19:53:42,019 - INFO - ✅ Encoded IMG_4179.png (quality: 0.906)
+2025-07-20 19:53:42,559 - INFO - ✅ Encoded IMG_4186.png (quality: 0.903)
+2025-07-20 19:53:42,994 - INFO - ✅ Encoded IMG_3202.png (quality: 0.770)
+2025-07-20 19:53:43,361 - INFO - ✅ Encoded IMG_5296 copy 2.png (quality: 0.624)
+2025-07-20 19:53:43,363 - INFO - Enhanced database saved successfully
+2025-07-20 19:53:43,363 - INFO - ✅ Successfully added badr_mellal: 8 encodings
+2025-07-20 20:13:11,902 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-20 20:13:11,902 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-20 20:13:11,902 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-20 20:13:11,903 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-20 20:13:11,903 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-20 20:13:11,903 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-20 20:13:11,903 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-20 20:13:11,903 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-20 20:13:11,903 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-20 20:13:11,904 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-20 20:13:11,904 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-20 20:13:11,905 - INFO - Loaded 3 known faces
+2025-07-20 20:13:11,905 - INFO - Enhanced database initialized: 3 persons
+2025-07-20 20:13:37,678 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-20 20:13:37,678 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-20 20:13:37,678 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-20 20:13:37,678 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-20 20:13:37,679 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-20 20:13:37,679 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-20 20:13:37,679 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-20 20:13:37,679 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-20 20:13:37,679 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-20 20:13:37,680 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-20 20:13:37,680 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-20 20:13:37,681 - INFO - Loaded 3 known faces
+2025-07-20 20:13:37,681 - INFO - Enhanced database initialized: 3 persons
+2025-07-20 20:13:40,578 - INFO - Loaded 3 known faces
+2025-07-20 20:13:40,578 - INFO - Enhanced database initialized: 3 persons
+2025-07-20 20:13:40,579 - WARNING - Person directeur_general already exists, updating...
+2025-07-20 20:13:40,579 - INFO - Processing 7 images for directeur_general...
+2025-07-20 20:13:40,791 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-20 20:13:40,913 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-20 20:13:41,033 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-20 20:13:41,195 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-20 20:13:41,299 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-20 20:13:41,310 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-20 20:13:41,678 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-20 20:13:41,681 - INFO - Enhanced database saved successfully
+2025-07-20 20:13:41,681 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-20 20:13:41,683 - INFO - Loaded 3 known faces
+2025-07-20 20:13:41,683 - INFO - Enhanced database initialized: 3 persons
+2025-07-20 20:13:41,683 - WARNING - Person mounia_amrhar already exists, updating...
+2025-07-20 20:13:41,683 - INFO - Processing 6 images for mounia_amrhar...
+2025-07-20 20:13:42,323 - INFO - ✅ Encoded IMG_4561.png (quality: 0.793)
+2025-07-20 20:13:42,903 - INFO - ✅ Encoded IMG_4566.png (quality: 0.723)
+2025-07-20 20:13:43,558 - INFO - ✅ Encoded IMG_3402.png (quality: 0.718)
+2025-07-20 20:13:43,630 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_4236.png (score: 0.468)
+2025-07-20 20:13:44,184 - INFO - ✅ Encoded IMG_4023.png (quality: 0.548)
+2025-07-20 20:13:44,816 - INFO - ✅ Encoded IMG_3067.png (quality: 0.883)
+2025-07-20 20:13:44,819 - INFO - Enhanced database saved successfully
+2025-07-20 20:13:44,819 - INFO - ✅ Successfully added mounia_amrhar: 5 encodings
+2025-07-20 20:13:44,821 - INFO - Loaded 3 known faces
+2025-07-20 20:13:44,821 - INFO - Enhanced database initialized: 3 persons
+2025-07-20 20:13:44,821 - WARNING - Person badr_mellal already exists, updating...
+2025-07-20 20:13:44,821 - INFO - Processing 8 images for badr_mellal...
+2025-07-20 20:13:45,174 - INFO - ✅ Encoded IMG_5298 copy 2.png (quality: 0.675)
+2025-07-20 20:13:45,501 - INFO - ✅ Encoded IMG_0884.png (quality: 0.648)
+2025-07-20 20:13:45,953 - INFO - ✅ Encoded IMG_5297 copy 2.png (quality: 0.625)
+2025-07-20 20:13:46,629 - INFO - ✅ Encoded IMG_4185.png (quality: 0.898)
+2025-07-20 20:13:47,195 - INFO - ✅ Encoded IMG_4179.png (quality: 0.906)
+2025-07-20 20:13:47,728 - INFO - ✅ Encoded IMG_4186.png (quality: 0.903)
+2025-07-20 20:13:48,163 - INFO - ✅ Encoded IMG_3202.png (quality: 0.770)
+2025-07-20 20:13:48,530 - INFO - ✅ Encoded IMG_5296 copy 2.png (quality: 0.624)
+2025-07-20 20:13:48,533 - INFO - Enhanced database saved successfully
+2025-07-20 20:13:48,533 - INFO - ✅ Successfully added badr_mellal: 8 encodings
+2025-07-21 00:02:18,117 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-21 00:02:18,118 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-21 00:02:18,118 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-21 00:02:18,118 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-21 00:02:18,118 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-21 00:02:18,118 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-21 00:02:18,119 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-21 00:02:18,119 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-21 00:02:18,119 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-21 00:02:18,119 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-21 00:02:18,119 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-21 00:02:18,119 - INFO - Loaded 0 known faces
+2025-07-21 00:02:18,119 - INFO - Enhanced database initialized: 0 persons
+2025-07-21 00:02:47,047 - INFO - Loaded 0 known faces
+2025-07-21 00:02:47,047 - INFO - Enhanced database initialized: 0 persons
+2025-07-21 00:02:47,048 - INFO - Processing 7 images for directeur_general...
+2025-07-21 00:02:47,251 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-21 00:02:47,374 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-21 00:02:47,497 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-21 00:02:47,661 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-21 00:02:47,768 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-21 00:02:47,779 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-21 00:02:48,133 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-21 00:02:48,134 - INFO - Enhanced database saved successfully
+2025-07-21 00:02:48,134 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-21 00:02:48,135 - INFO - Loaded 1 known faces
+2025-07-21 00:02:48,135 - INFO - Enhanced database initialized: 1 persons
+2025-07-21 00:02:48,136 - INFO - Processing 6 images for mounia_amrhar...
+2025-07-21 00:02:48,768 - INFO - ✅ Encoded IMG_4561.png (quality: 0.793)
+2025-07-21 00:02:49,345 - INFO - ✅ Encoded IMG_4566.png (quality: 0.723)
+2025-07-21 00:02:50,004 - INFO - ✅ Encoded IMG_3402.png (quality: 0.718)
+2025-07-21 00:02:50,079 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_4236.png (score: 0.468)
+2025-07-21 00:02:50,634 - INFO - ✅ Encoded IMG_4023.png (quality: 0.548)
+2025-07-21 00:02:51,267 - INFO - ✅ Encoded IMG_3067.png (quality: 0.883)
+2025-07-21 00:02:51,270 - INFO - Enhanced database saved successfully
+2025-07-21 00:02:51,270 - INFO - ✅ Successfully added mounia_amrhar: 5 encodings
+2025-07-21 00:02:51,271 - INFO - Loaded 2 known faces
+2025-07-21 00:02:51,271 - INFO - Enhanced database initialized: 2 persons
+2025-07-21 00:02:51,271 - INFO - Processing 8 images for badr_mellal...
+2025-07-21 00:02:51,626 - INFO - ✅ Encoded IMG_5298 copy 2.png (quality: 0.675)
+2025-07-21 00:02:51,952 - INFO - ✅ Encoded IMG_0884.png (quality: 0.648)
+2025-07-21 00:02:52,398 - INFO - ✅ Encoded IMG_5297 copy 2.png (quality: 0.625)
+2025-07-21 00:02:53,080 - INFO - ✅ Encoded IMG_4185.png (quality: 0.898)
+2025-07-21 00:02:53,644 - INFO - ✅ Encoded IMG_4179.png (quality: 0.906)
+2025-07-21 00:02:54,186 - INFO - ✅ Encoded IMG_4186.png (quality: 0.903)
+2025-07-21 00:02:54,624 - INFO - ✅ Encoded IMG_3202.png (quality: 0.770)
+2025-07-21 00:02:54,989 - INFO - ✅ Encoded IMG_5296 copy 2.png (quality: 0.624)
+2025-07-21 00:02:54,992 - INFO - Enhanced database saved successfully
+2025-07-21 00:02:54,992 - INFO - ✅ Successfully added badr_mellal: 8 encodings
+2025-07-21 00:13:33,560 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-21 00:13:33,561 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-21 00:13:33,561 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-21 00:13:33,561 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-21 00:13:33,561 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-21 00:13:33,561 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-21 00:13:33,562 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-21 00:13:33,562 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-21 00:13:33,562 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-21 00:13:33,562 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-21 00:13:33,562 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-21 00:13:33,562 - INFO - Loaded 0 known faces
+2025-07-21 00:13:33,562 - INFO - Enhanced database initialized: 0 persons
+2025-07-21 00:13:35,588 - INFO - Loaded 0 known faces
+2025-07-21 00:13:35,588 - INFO - Enhanced database initialized: 0 persons
+2025-07-21 00:13:35,588 - INFO - Processing 7 images for directeur_general...
+2025-07-21 00:13:35,787 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-21 00:13:35,908 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-21 00:13:36,033 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-21 00:13:36,198 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-21 00:13:36,307 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-21 00:13:36,318 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-21 00:13:36,674 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-21 00:13:36,675 - INFO - Enhanced database saved successfully
+2025-07-21 00:13:36,675 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-21 00:13:36,676 - INFO - Loaded 1 known faces
+2025-07-21 00:13:36,676 - INFO - Enhanced database initialized: 1 persons
+2025-07-21 00:13:36,676 - INFO - Processing 6 images for mounia_amrhar...
+2025-07-21 00:13:37,316 - INFO - ✅ Encoded IMG_4561.png (quality: 0.793)
+2025-07-21 00:13:37,898 - INFO - ✅ Encoded IMG_4566.png (quality: 0.723)
+2025-07-21 00:13:38,562 - INFO - ✅ Encoded IMG_3402.png (quality: 0.718)
+2025-07-21 00:13:38,636 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_4236.png (score: 0.468)
+2025-07-21 00:13:39,197 - INFO - ✅ Encoded IMG_4023.png (quality: 0.548)
+2025-07-21 00:13:39,838 - INFO - ✅ Encoded IMG_3067.png (quality: 0.883)
+2025-07-21 00:13:39,840 - INFO - Enhanced database saved successfully
+2025-07-21 00:13:39,840 - INFO - ✅ Successfully added mounia_amrhar: 5 encodings
+2025-07-21 00:13:39,842 - INFO - Loaded 2 known faces
+2025-07-21 00:13:39,842 - INFO - Enhanced database initialized: 2 persons
+2025-07-21 00:13:39,842 - INFO - Processing 8 images for badr_mellal...
+2025-07-21 00:13:40,199 - INFO - ✅ Encoded IMG_5298 copy 2.png (quality: 0.675)
+2025-07-21 00:13:40,528 - INFO - ✅ Encoded IMG_0884.png (quality: 0.648)
+2025-07-21 00:13:40,972 - INFO - ✅ Encoded IMG_5297 copy 2.png (quality: 0.625)
+2025-07-21 00:13:41,645 - INFO - ✅ Encoded IMG_4185.png (quality: 0.898)
+2025-07-21 00:13:42,207 - INFO - ✅ Encoded IMG_4179.png (quality: 0.906)
+2025-07-21 00:13:42,742 - INFO - ✅ Encoded IMG_4186.png (quality: 0.903)
+2025-07-21 00:13:43,177 - INFO - ✅ Encoded IMG_3202.png (quality: 0.770)
+2025-07-21 00:13:43,543 - INFO - ✅ Encoded IMG_5296 copy 2.png (quality: 0.624)
+2025-07-21 00:13:43,546 - INFO - Enhanced database saved successfully
+2025-07-21 00:13:43,546 - INFO - ✅ Successfully added badr_mellal: 8 encodings
+2025-07-21 00:17:38,365 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-21 00:17:38,366 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-21 00:17:38,366 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-21 00:17:38,366 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-21 00:17:38,366 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-21 00:17:38,367 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-21 00:17:38,367 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-21 00:17:38,367 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-21 00:17:38,367 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-21 00:17:38,367 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-21 00:17:38,367 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-21 00:17:38,367 - INFO - Loaded 0 known faces
+2025-07-21 00:17:38,367 - INFO - Enhanced database initialized: 0 persons
+2025-07-21 00:17:42,205 - INFO - Loaded 0 known faces
+2025-07-21 00:17:42,205 - INFO - Enhanced database initialized: 0 persons
+2025-07-21 00:17:42,206 - INFO - Processing 7 images for directeur_general...
+2025-07-21 00:17:42,412 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-21 00:17:42,529 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-21 00:17:42,649 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-21 00:17:42,810 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-21 00:17:42,914 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-21 00:17:42,925 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-21 00:17:43,278 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-21 00:17:43,281 - INFO - Enhanced database saved successfully
+2025-07-21 00:17:43,281 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-21 00:17:43,282 - INFO - Loaded 1 known faces
+2025-07-21 00:17:43,282 - INFO - Enhanced database initialized: 1 persons
+2025-07-21 00:17:43,282 - INFO - Processing 6 images for mounia_amrhar...
+2025-07-21 00:17:43,906 - INFO - ✅ Encoded IMG_4561.png (quality: 0.793)
+2025-07-21 00:17:44,480 - INFO - ✅ Encoded IMG_4566.png (quality: 0.723)
+2025-07-21 00:17:45,128 - INFO - ✅ Encoded IMG_3402.png (quality: 0.718)
+2025-07-21 00:17:45,201 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_4236.png (score: 0.468)
+2025-07-21 00:17:45,757 - INFO - ✅ Encoded IMG_4023.png (quality: 0.548)
+2025-07-21 00:17:46,389 - INFO - ✅ Encoded IMG_3067.png (quality: 0.883)
+2025-07-21 00:17:46,391 - INFO - Enhanced database saved successfully
+2025-07-21 00:17:46,391 - INFO - ✅ Successfully added mounia_amrhar: 5 encodings
+2025-07-21 00:17:46,393 - INFO - Loaded 2 known faces
+2025-07-21 00:17:46,393 - INFO - Enhanced database initialized: 2 persons
+2025-07-21 00:17:46,393 - INFO - Processing 8 images for badr_mellal...
+2025-07-21 00:17:46,743 - INFO - ✅ Encoded IMG_5298 copy 2.png (quality: 0.675)
+2025-07-21 00:17:47,069 - INFO - ✅ Encoded IMG_0884.png (quality: 0.648)
+2025-07-21 00:17:47,515 - INFO - ✅ Encoded IMG_5297 copy 2.png (quality: 0.625)
+2025-07-21 00:17:48,186 - INFO - ✅ Encoded IMG_4185.png (quality: 0.898)
+2025-07-21 00:17:48,748 - INFO - ✅ Encoded IMG_4179.png (quality: 0.906)
+2025-07-21 00:17:49,284 - INFO - ✅ Encoded IMG_4186.png (quality: 0.903)
+2025-07-21 00:17:49,722 - INFO - ✅ Encoded IMG_3202.png (quality: 0.770)
+2025-07-21 00:17:50,087 - INFO - ✅ Encoded IMG_5296 copy 2.png (quality: 0.624)
+2025-07-21 00:17:50,089 - INFO - Enhanced database saved successfully
+2025-07-21 00:17:50,089 - INFO - ✅ Successfully added badr_mellal: 8 encodings
+2025-07-21 00:29:53,235 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-21 00:29:53,235 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-21 00:29:53,235 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-21 00:29:53,236 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-21 00:29:53,236 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-21 00:29:53,236 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-21 00:29:53,236 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-21 00:29:53,236 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-21 00:29:53,237 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-21 00:29:53,237 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-21 00:29:53,237 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-21 00:29:53,237 - INFO - Loaded 0 known faces
+2025-07-21 00:29:53,237 - INFO - Enhanced database initialized: 0 persons
+2025-07-21 00:30:01,220 - INFO - Loaded 0 known faces
+2025-07-21 00:30:01,220 - INFO - Enhanced database initialized: 0 persons
+2025-07-21 00:30:01,220 - INFO - Processing 7 images for directeur_general...
+2025-07-21 00:30:01,430 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-21 00:30:01,547 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-21 00:30:01,672 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-21 00:30:01,832 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-21 00:30:01,935 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-21 00:30:01,944 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-21 00:30:02,302 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-21 00:30:02,303 - INFO - Enhanced database saved successfully
+2025-07-21 00:30:02,303 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-21 00:30:02,304 - INFO - Loaded 1 known faces
+2025-07-21 00:30:02,304 - INFO - Enhanced database initialized: 1 persons
+2025-07-21 00:30:02,304 - INFO - Processing 6 images for mounia_amrhar...
+2025-07-21 00:30:03,025 - INFO - ✅ Encoded IMG_4561.png (quality: 0.798)
+2025-07-21 00:30:03,697 - INFO - ✅ Encoded IMG_4566.png (quality: 0.750)
+2025-07-21 00:30:04,469 - INFO - ✅ Encoded IMG_3402.png (quality: 0.880)
+2025-07-21 00:30:04,503 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_4236.png (score: 0.475)
+2025-07-21 00:30:05,142 - INFO - ✅ Encoded IMG_4023.png (quality: 0.525)
+2025-07-21 00:30:05,773 - INFO - ✅ Encoded IMG_3067.png (quality: 0.820)
+2025-07-21 00:30:05,775 - INFO - Enhanced database saved successfully
+2025-07-21 00:30:05,775 - INFO - ✅ Successfully added mounia_amrhar: 5 encodings
+2025-07-21 00:30:05,777 - INFO - Loaded 2 known faces
+2025-07-21 00:30:05,777 - INFO - Enhanced database initialized: 2 persons
+2025-07-21 00:30:05,777 - INFO - Processing 6 images for badr_mellal...
+2025-07-21 00:30:06,253 - INFO - ✅ Encoded IMG_5307 copy 2.png (quality: 0.529)
+2025-07-21 00:30:06,797 - INFO - ✅ Encoded IMG_0884.png (quality: 0.555)
+2025-07-21 00:30:07,340 - INFO - ✅ Encoded IMG_4179.png (quality: 0.863)
+2025-07-21 00:30:08,041 - INFO - ✅ Encoded IMG_3202.png (quality: 0.792)
+2025-07-21 00:30:08,170 - WARNING - Low quality image skipped: known_faces/badr_mellal/IMG_5437 copy.png (score: 0.493)
+2025-07-21 00:30:08,588 - INFO - ✅ Encoded IMG_5296 copy 2.png (quality: 0.624)
+2025-07-21 00:30:08,590 - INFO - Enhanced database saved successfully
+2025-07-21 00:30:08,590 - INFO - ✅ Successfully added badr_mellal: 5 encodings
+2025-07-21 00:33:50,014 - INFO - Loaded 0 known faces
+2025-07-21 00:33:50,014 - INFO - Enhanced database initialized: 0 persons
+2025-07-21 00:33:59,225 - INFO - Loaded 0 known faces
+2025-07-21 00:33:59,226 - INFO - Enhanced database initialized: 0 persons
+2025-07-21 00:33:59,226 - INFO - Processing 7 images for directeur_general...
+2025-07-21 00:34:00,049 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-21 00:34:00,168 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-21 00:34:00,287 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-21 00:34:00,445 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-21 00:34:00,548 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-21 00:34:00,557 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-21 00:34:00,909 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-21 00:34:00,910 - INFO - Enhanced database saved successfully
+2025-07-21 00:34:00,910 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-21 00:34:00,911 - INFO - Loaded 1 known faces
+2025-07-21 00:34:00,911 - INFO - Enhanced database initialized: 1 persons
+2025-07-21 00:34:00,911 - INFO - Processing 4 images for mounia_amrhar...
+2025-07-21 00:34:01,637 - INFO - ✅ Encoded IMG_4561.png (quality: 0.798)
+2025-07-21 00:34:02,379 - INFO - ✅ Encoded IMG_3402.png (quality: 0.880)
+2025-07-21 00:34:02,409 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_4236.png (score: 0.475)
+2025-07-21 00:34:03,045 - INFO - ✅ Encoded IMG_4023.png (quality: 0.525)
+2025-07-21 00:34:03,047 - INFO - Enhanced database saved successfully
+2025-07-21 00:34:03,047 - INFO - ✅ Successfully added mounia_amrhar: 3 encodings
+2025-07-21 00:34:03,048 - INFO - Loaded 2 known faces
+2025-07-21 00:34:03,048 - INFO - Enhanced database initialized: 2 persons
+2025-07-21 00:34:03,048 - INFO - Processing 4 images for badr_mellal...
+2025-07-21 00:34:03,569 - INFO - ✅ Encoded IMG_0884.png (quality: 0.555)
+2025-07-21 00:34:04,109 - INFO - ✅ Encoded IMG_4179.png (quality: 0.863)
+2025-07-21 00:34:04,799 - INFO - ✅ Encoded IMG_3202.png (quality: 0.792)
+2025-07-21 00:34:05,212 - INFO - ✅ Encoded IMG_5296 copy 2.png (quality: 0.624)
+2025-07-21 00:34:05,215 - INFO - Enhanced database saved successfully
+2025-07-21 00:34:05,215 - INFO - ✅ Successfully added badr_mellal: 4 encodings
+2025-07-21 11:28:52,022 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-21 11:28:52,022 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-21 11:28:52,022 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-21 11:28:52,023 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-21 11:28:52,023 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-21 11:28:52,023 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-21 11:28:52,023 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-21 11:28:52,023 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-21 11:28:52,023 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-21 11:28:52,023 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-21 11:28:52,023 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-21 11:28:52,024 - INFO - Loaded 0 known faces
+2025-07-21 11:28:52,024 - INFO - Enhanced database initialized: 0 persons
+2025-07-21 11:29:14,458 - INFO - Loaded 0 known faces
+2025-07-21 11:29:14,458 - INFO - Enhanced database initialized: 0 persons
+2025-07-21 11:29:14,458 - INFO - Processing 7 images for directeur_general...
+2025-07-21 11:29:14,669 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-21 11:29:14,786 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-21 11:29:14,906 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-21 11:29:15,067 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-21 11:29:15,171 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-21 11:29:15,181 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-21 11:29:15,540 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-21 11:29:15,542 - INFO - Enhanced database saved successfully
+2025-07-21 11:29:15,542 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-21 11:29:15,543 - INFO - Loaded 1 known faces
+2025-07-21 11:29:15,543 - INFO - Enhanced database initialized: 1 persons
+2025-07-21 11:29:15,543 - INFO - Processing 9 images for mounia_amrhar...
+2025-07-21 11:29:16,114 - INFO - ✅ Encoded IMG_3069.png (quality: 0.807)
+2025-07-21 11:29:16,838 - INFO - ✅ Encoded IMG_4561.png (quality: 0.798)
+2025-07-21 11:29:17,310 - INFO - ✅ Encoded IMG_3615.png (quality: 0.624)
+2025-07-21 11:29:18,053 - INFO - ✅ Encoded IMG_3402.png (quality: 0.880)
+2025-07-21 11:29:18,568 - INFO - ✅ Encoded IMG_3617.png (quality: 0.570)
+2025-07-21 11:29:18,600 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_4236.png (score: 0.475)
+2025-07-21 11:29:19,234 - INFO - ✅ Encoded IMG_4023.png (quality: 0.525)
+2025-07-21 11:29:19,926 - INFO - ✅ Encoded IMG_4022.png (quality: 0.557)
+2025-07-21 11:29:20,605 - INFO - ✅ Encoded IMG_3067.png (quality: 0.740)
+2025-07-21 11:29:20,607 - INFO - Enhanced database saved successfully
+2025-07-21 11:29:20,607 - INFO - ✅ Successfully added mounia_amrhar: 8 encodings
+2025-07-21 11:29:20,609 - INFO - Loaded 2 known faces
+2025-07-21 11:29:20,609 - INFO - Enhanced database initialized: 2 persons
+2025-07-21 11:29:20,609 - INFO - Processing 7 images for badr_mellal...
+2025-07-21 11:29:20,626 - WARNING - Low quality image skipped: known_faces/badr_mellal/IMG_0122.jpg (score: 0.374)
+2025-07-21 11:29:20,667 - WARNING - Low quality image skipped: known_faces/badr_mellal/IMG_3181.png (score: 0.325)
+2025-07-21 11:29:21,291 - INFO - ✅ Encoded IMG_4188.png (quality: 0.862)
+2025-07-21 11:29:21,833 - INFO - ✅ Encoded IMG_4179.png (quality: 0.863)
+2025-07-21 11:29:22,551 - INFO - ✅ Encoded IMG_3202.png (quality: 0.792)
+2025-07-21 11:29:23,081 - INFO - ✅ Encoded IMG_4509.png (quality: 0.870)
+2025-07-21 11:29:23,588 - INFO - ✅ Encoded IMG_3074.png (quality: 0.919)
+2025-07-21 11:29:23,591 - INFO - Enhanced database saved successfully
+2025-07-21 11:29:23,591 - INFO - ✅ Successfully added badr_mellal: 5 encodings
+2025-07-23 18:44:37,409 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-23 18:44:37,409 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-23 18:44:37,410 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-23 18:44:37,410 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-23 18:44:37,410 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-23 18:44:37,410 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-23 18:44:37,410 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-23 18:44:37,410 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-23 18:44:37,411 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-23 18:44:37,411 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-23 18:44:37,411 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-23 18:44:37,411 - INFO - Loaded 0 known faces
+2025-07-23 18:44:37,411 - INFO - Enhanced database initialized: 0 persons
+2025-07-23 18:44:45,553 - INFO - Loaded 0 known faces
+2025-07-23 18:44:45,554 - INFO - Enhanced database initialized: 0 persons
+2025-07-23 18:44:45,554 - INFO - Processing 7 images for directeur_general...
+2025-07-23 18:44:45,743 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-23 18:44:45,858 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-23 18:44:45,978 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-23 18:44:46,138 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-23 18:44:46,242 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-23 18:44:46,252 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-23 18:44:46,611 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-23 18:44:46,613 - INFO - Enhanced database saved successfully
+2025-07-23 18:44:46,613 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-23 18:44:46,615 - INFO - Loaded 1 known faces
+2025-07-23 18:44:46,615 - INFO - Enhanced database initialized: 1 persons
+2025-07-23 18:44:46,615 - INFO - Processing 5 images for mounia_amrhar...
+2025-07-23 18:44:47,183 - INFO - ✅ Encoded IMG_3069.png (quality: 0.807)
+2025-07-23 18:44:47,911 - INFO - ✅ Encoded IMG_4561.png (quality: 0.798)
+2025-07-23 18:44:48,660 - INFO - ✅ Encoded IMG_3402.png (quality: 0.880)
+2025-07-23 18:44:48,694 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_4236.png (score: 0.475)
+2025-07-23 18:44:49,359 - INFO - ✅ Encoded IMG_3067.png (quality: 0.740)
+2025-07-23 18:44:49,364 - INFO - Enhanced database saved successfully
+2025-07-23 18:44:49,364 - INFO - ✅ Successfully added mounia_amrhar: 4 encodings
+2025-07-23 18:44:49,365 - INFO - Loaded 2 known faces
+2025-07-23 18:44:49,365 - INFO - Enhanced database initialized: 2 persons
+2025-07-23 18:44:49,365 - INFO - Processing 10 images for badr_mellal...
+2025-07-23 18:44:50,050 - INFO - ✅ Encoded IMG_5470 copy.JPG (quality: 0.736)
+2025-07-23 18:44:50,671 - INFO - ✅ Encoded IMG_5467 copy.JPG (quality: 0.503)
+2025-07-23 18:44:51,256 - INFO - ✅ Encoded IMG_5477 copy.JPG (quality: 0.615)
+2025-07-23 18:44:51,860 - INFO - ✅ Encoded IMG_5465 copy.JPG (quality: 0.556)
+2025-07-23 18:44:52,484 - INFO - ✅ Encoded IMG_5473 copy.JPG (quality: 0.590)
+2025-07-23 18:44:53,078 - INFO - ✅ Encoded IMG_5475 copy.JPG (quality: 0.578)
+2025-07-23 18:44:53,614 - INFO - ✅ Encoded IMG_5474 copy.JPG (quality: 0.576)
+2025-07-23 18:44:53,653 - WARNING - Low quality image skipped: known_faces/badr_mellal/IMG_5463 copy.JPG (score: 0.496)
+2025-07-23 18:44:54,277 - INFO - ✅ Encoded IMG_4188.png (quality: 0.862)
+2025-07-23 18:44:54,779 - INFO - ✅ Encoded IMG_3074.png (quality: 0.919)
+2025-07-23 18:44:54,782 - INFO - Enhanced database saved successfully
+2025-07-23 18:44:54,782 - INFO - ✅ Successfully added badr_mellal: 9 encodings
+2025-07-23 18:54:09,695 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-23 18:54:09,695 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-23 18:54:09,696 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-23 18:54:09,696 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-23 18:54:09,696 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-23 18:54:09,696 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-23 18:54:09,696 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-23 18:54:09,696 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-23 18:54:09,697 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-23 18:54:09,697 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-23 18:54:09,697 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-23 18:54:09,697 - INFO - Loaded 0 known faces
+2025-07-23 18:54:09,697 - INFO - Enhanced database initialized: 0 persons
+2025-07-23 18:54:15,139 - INFO - Loaded 0 known faces
+2025-07-23 18:54:15,140 - INFO - Enhanced database initialized: 0 persons
+2025-07-23 18:54:15,140 - INFO - Processing 7 images for directeur_general...
+2025-07-23 18:54:15,344 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-23 18:54:15,462 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-23 18:54:15,583 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-23 18:54:15,743 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-23 18:54:15,848 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-23 18:54:15,859 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-23 18:54:16,227 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-23 18:54:16,229 - INFO - Enhanced database saved successfully
+2025-07-23 18:54:16,229 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-23 18:54:16,230 - INFO - Loaded 1 known faces
+2025-07-23 18:54:16,230 - INFO - Enhanced database initialized: 1 persons
+2025-07-23 18:54:16,230 - INFO - Processing 6 images for mounia_amrhar...
+2025-07-23 18:54:16,804 - INFO - ✅ Encoded IMG_3069.png (quality: 0.807)
+2025-07-23 18:54:17,525 - INFO - ✅ Encoded IMG_4561.png (quality: 0.798)
+2025-07-23 18:54:18,059 - INFO - ✅ Encoded IMG_0106.png (quality: 0.518)
+2025-07-23 18:54:18,803 - INFO - ✅ Encoded IMG_3402.png (quality: 0.880)
+2025-07-23 18:54:18,835 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_4236.png (score: 0.475)
+2025-07-23 18:54:19,510 - INFO - ✅ Encoded IMG_3067.png (quality: 0.740)
+2025-07-23 18:54:19,513 - INFO - Enhanced database saved successfully
+2025-07-23 18:54:19,513 - INFO - ✅ Successfully added mounia_amrhar: 5 encodings
+2025-07-23 18:54:19,514 - INFO - Loaded 2 known faces
+2025-07-23 18:54:19,514 - INFO - Enhanced database initialized: 2 persons
+2025-07-23 18:54:19,514 - INFO - Processing 8 images for badr_mellal...
+2025-07-23 18:54:20,175 - INFO - ✅ Encoded IMG_5470 copy.JPG (quality: 0.736)
+2025-07-23 18:54:20,808 - INFO - ✅ Encoded IMG_5467 copy.JPG (quality: 0.503)
+2025-07-23 18:54:21,423 - INFO - ✅ Encoded IMG_5477 copy.JPG (quality: 0.615)
+2025-07-23 18:54:22,039 - INFO - ✅ Encoded IMG_5465 copy.JPG (quality: 0.556)
+2025-07-23 18:54:22,669 - INFO - ✅ Encoded IMG_5473 copy.JPG (quality: 0.590)
+2025-07-23 18:54:23,263 - INFO - ✅ Encoded IMG_5475 copy.JPG (quality: 0.578)
+2025-07-23 18:54:23,800 - INFO - ✅ Encoded IMG_5474 copy.JPG (quality: 0.576)
+2025-07-23 18:54:23,840 - WARNING - Low quality image skipped: known_faces/badr_mellal/IMG_5463 copy.JPG (score: 0.496)
+2025-07-23 18:54:23,843 - INFO - Enhanced database saved successfully
+2025-07-23 18:54:23,843 - INFO - ✅ Successfully added badr_mellal: 7 encodings
+2025-07-23 19:44:34,010 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-23 19:44:34,011 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-23 19:44:34,012 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-23 19:44:34,012 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-23 19:44:34,012 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-23 19:44:34,012 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-23 19:44:34,012 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-23 19:44:34,012 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-23 19:44:34,012 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-23 19:44:34,013 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-23 19:44:34,013 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-23 19:44:34,013 - INFO - Loaded 0 known faces
+2025-07-23 19:44:34,013 - INFO - Enhanced database initialized: 0 persons
+2025-07-23 19:44:42,337 - INFO - Loaded 0 known faces
+2025-07-23 19:44:42,338 - INFO - Enhanced database initialized: 0 persons
+2025-07-23 19:44:42,338 - INFO - Processing 7 images for directeur_general...
+2025-07-23 19:44:42,545 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-23 19:44:42,660 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-23 19:44:42,780 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-23 19:44:42,941 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-23 19:44:43,044 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-23 19:44:43,055 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-23 19:44:43,408 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-23 19:44:43,410 - INFO - Enhanced database saved successfully
+2025-07-23 19:44:43,410 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-23 19:44:43,412 - INFO - Loaded 1 known faces
+2025-07-23 19:44:43,412 - INFO - Enhanced database initialized: 1 persons
+2025-07-23 19:44:43,412 - INFO - Processing 8 images for mounia_amrhar...
+2025-07-23 19:44:43,930 - INFO - ✅ Encoded IMG_3387.JPG (quality: 0.869)
+2025-07-23 19:44:44,559 - INFO - ✅ Encoded IMG_3395.JPG (quality: 0.893)
+2025-07-23 19:44:45,073 - INFO - ✅ Encoded IMG_3069.png (quality: 0.635)
+2025-07-23 19:44:45,773 - INFO - ✅ Encoded IMG_4561.png (quality: 0.798)
+2025-07-23 19:44:46,303 - INFO - ✅ Encoded IMG_0106.png (quality: 0.518)
+2025-07-23 19:44:47,046 - INFO - ✅ Encoded IMG_3402.png (quality: 0.880)
+2025-07-23 19:44:47,079 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_4236.png (score: 0.475)
+2025-07-23 19:44:47,754 - INFO - ✅ Encoded IMG_3067.png (quality: 0.740)
+2025-07-23 19:44:47,757 - INFO - Enhanced database saved successfully
+2025-07-23 19:44:47,757 - INFO - ✅ Successfully added mounia_amrhar: 7 encodings
+2025-07-23 19:44:47,758 - INFO - Loaded 2 known faces
+2025-07-23 19:44:47,758 - INFO - Enhanced database initialized: 2 persons
+2025-07-23 19:44:47,758 - INFO - Processing 9 images for badr_mellal...
+2025-07-23 19:44:48,424 - INFO - ✅ Encoded IMG_5470 copy.JPG (quality: 0.736)
+2025-07-23 19:44:48,983 - INFO - ✅ Encoded IMG_5489 copy.JPG (quality: 0.772)
+2025-07-23 19:44:49,513 - INFO - ✅ Encoded IMG_5488 copy.JPG (quality: 0.680)
+2025-07-23 19:44:50,143 - INFO - ✅ Encoded IMG_5484 copy.JPG (quality: 0.780)
+2025-07-23 19:44:50,715 - INFO - ✅ Encoded IMG_5485 copy.JPG (quality: 0.629)
+2025-07-23 19:44:51,315 - INFO - ✅ Encoded IMG_5479 copy.JPG (quality: 0.812)
+2025-07-23 19:44:51,880 - INFO - ✅ Encoded IMG_5491 copy.JPG (quality: 0.706)
+2025-07-23 19:44:52,365 - INFO - ✅ Encoded IMG_5487 copy.JPG (quality: 0.590)
+2025-07-23 19:44:52,907 - INFO - ✅ Encoded IMG_5486 copy.JPG (quality: 0.607)
+2025-07-23 19:44:52,910 - INFO - Enhanced database saved successfully
+2025-07-23 19:44:52,910 - INFO - ✅ Successfully added badr_mellal: 9 encodings
+2025-07-23 19:57:29,088 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-23 19:57:29,088 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-23 19:57:29,088 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-23 19:57:29,089 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-23 19:57:29,089 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-23 19:57:29,089 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-23 19:57:29,089 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-23 19:57:29,089 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-23 19:57:29,089 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-23 19:57:29,090 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-23 19:57:29,090 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-23 19:57:29,090 - INFO - Loaded 0 known faces
+2025-07-23 19:57:29,090 - INFO - Enhanced database initialized: 0 persons
+2025-07-23 19:57:49,332 - INFO - Loaded 0 known faces
+2025-07-23 19:57:49,333 - INFO - Enhanced database initialized: 0 persons
+2025-07-23 19:57:49,334 - INFO - Processing 7 images for directeur_general...
+2025-07-23 19:57:49,537 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-23 19:57:49,655 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-23 19:57:49,773 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-23 19:57:49,931 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-23 19:57:50,032 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-23 19:57:50,042 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-23 19:57:50,395 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-23 19:57:50,397 - INFO - Enhanced database saved successfully
+2025-07-23 19:57:50,397 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-23 19:57:50,399 - INFO - Loaded 1 known faces
+2025-07-23 19:57:50,399 - INFO - Enhanced database initialized: 1 persons
+2025-07-23 19:57:50,399 - INFO - Processing 10 images for mounia_amrhar...
+2025-07-23 19:57:50,719 - INFO - ✅ Encoded IMG20240225121339_Original.jpg (quality: 0.866)
+2025-07-23 19:57:50,734 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_2100.jpg (score: 0.429)
+2025-07-23 19:57:50,753 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_5152.JPG (score: 0.284)
+2025-07-23 19:57:51,266 - INFO - ✅ Encoded IMG_3387.JPG (quality: 0.869)
+2025-07-23 19:57:51,901 - INFO - ✅ Encoded IMG_3395.JPG (quality: 0.893)
+2025-07-23 19:57:52,407 - INFO - ✅ Encoded IMG_3069.png (quality: 0.635)
+2025-07-23 19:57:53,107 - INFO - ✅ Encoded IMG_4561.png (quality: 0.798)
+2025-07-23 19:57:53,636 - INFO - ✅ Encoded IMG_0106.png (quality: 0.518)
+2025-07-23 19:57:54,371 - INFO - ✅ Encoded IMG_3402.png (quality: 0.880)
+2025-07-23 19:57:54,403 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_4236.png (score: 0.475)
+2025-07-23 19:57:54,407 - INFO - Enhanced database saved successfully
+2025-07-23 19:57:54,408 - INFO - ✅ Successfully added mounia_amrhar: 7 encodings
+2025-07-23 19:57:54,409 - INFO - Loaded 2 known faces
+2025-07-23 19:57:54,409 - INFO - Enhanced database initialized: 2 persons
+2025-07-23 19:57:54,409 - INFO - Processing 9 images for badr_mellal...
+2025-07-23 19:57:55,071 - INFO - ✅ Encoded IMG_5470 copy.JPG (quality: 0.736)
+2025-07-23 19:57:55,626 - INFO - ✅ Encoded IMG_5489 copy.JPG (quality: 0.772)
+2025-07-23 19:57:56,148 - INFO - ✅ Encoded IMG_5488 copy.JPG (quality: 0.680)
+2025-07-23 19:57:56,774 - INFO - ✅ Encoded IMG_5484 copy.JPG (quality: 0.780)
+2025-07-23 19:57:57,342 - INFO - ✅ Encoded IMG_5485 copy.JPG (quality: 0.629)
+2025-07-23 19:57:57,943 - INFO - ✅ Encoded IMG_5479 copy.JPG (quality: 0.812)
+2025-07-23 19:57:58,506 - INFO - ✅ Encoded IMG_5491 copy.JPG (quality: 0.706)
+2025-07-23 19:57:58,991 - INFO - ✅ Encoded IMG_5487 copy.JPG (quality: 0.590)
+2025-07-23 19:57:59,531 - INFO - ✅ Encoded IMG_5486 copy.JPG (quality: 0.607)
+2025-07-23 19:57:59,536 - INFO - Enhanced database saved successfully
+2025-07-23 19:57:59,536 - INFO - ✅ Successfully added badr_mellal: 9 encodings
+2025-07-23 20:02:26,568 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-23 20:02:26,569 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-23 20:02:26,569 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-23 20:02:26,569 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-23 20:02:26,569 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-23 20:02:26,569 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-23 20:02:26,570 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-23 20:02:26,570 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-23 20:02:26,570 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-23 20:02:26,570 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-23 20:02:26,570 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-23 20:02:26,571 - INFO - Loaded 2 known faces
+2025-07-23 20:02:26,571 - INFO - Enhanced database initialized: 2 persons
+2025-07-23 20:02:28,139 - INFO - Loaded 2 known faces
+2025-07-23 20:02:28,139 - INFO - Enhanced database initialized: 2 persons
+2025-07-23 20:02:28,139 - WARNING - Person directeur_general already exists, updating...
+2025-07-23 20:02:28,139 - INFO - Processing 7 images for directeur_general...
+2025-07-23 20:02:28,337 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-23 20:02:28,454 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-23 20:02:28,574 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-23 20:02:28,735 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-23 20:02:28,836 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-23 20:02:28,847 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-23 20:02:29,224 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-23 20:02:29,230 - INFO - Enhanced database saved successfully
+2025-07-23 20:02:29,230 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-23 20:02:29,232 - INFO - Loaded 2 known faces
+2025-07-23 20:02:29,232 - INFO - Enhanced database initialized: 2 persons
+2025-07-23 20:02:29,232 - INFO - Processing 10 images for mounia_amrhar...
+2025-07-23 20:02:29,560 - INFO - ✅ Encoded IMG20240225121339_Original.jpg (quality: 0.866)
+2025-07-23 20:02:29,574 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_2100.jpg (score: 0.429)
+2025-07-23 20:02:29,592 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_5152.JPG (score: 0.284)
+2025-07-23 20:02:30,120 - INFO - ✅ Encoded IMG_3387.JPG (quality: 0.869)
+2025-07-23 20:02:30,755 - INFO - ✅ Encoded IMG_3395.JPG (quality: 0.893)
+2025-07-23 20:02:31,271 - INFO - ✅ Encoded IMG_3069.png (quality: 0.635)
+2025-07-23 20:02:31,976 - INFO - ✅ Encoded IMG_4561.png (quality: 0.798)
+2025-07-23 20:02:32,521 - INFO - ✅ Encoded IMG_0106.png (quality: 0.518)
+2025-07-23 20:02:33,278 - INFO - ✅ Encoded IMG_3402.png (quality: 0.880)
+2025-07-23 20:02:33,310 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_4236.png (score: 0.475)
+2025-07-23 20:02:33,314 - INFO - Enhanced database saved successfully
+2025-07-23 20:02:33,314 - INFO - ✅ Successfully added mounia_amrhar: 7 encodings
+2025-07-23 20:02:33,315 - INFO - Loaded 3 known faces
+2025-07-23 20:02:33,315 - INFO - Enhanced database initialized: 3 persons
+2025-07-23 20:02:33,315 - WARNING - Person badr_mellal already exists, updating...
+2025-07-23 20:02:33,315 - INFO - Processing 9 images for badr_mellal...
+2025-07-23 20:02:33,982 - INFO - ✅ Encoded IMG_5470 copy.JPG (quality: 0.736)
+2025-07-23 20:02:34,550 - INFO - ✅ Encoded IMG_5489 copy.JPG (quality: 0.772)
+2025-07-23 20:02:35,079 - INFO - ✅ Encoded IMG_5488 copy.JPG (quality: 0.680)
+2025-07-23 20:02:35,715 - INFO - ✅ Encoded IMG_5484 copy.JPG (quality: 0.780)
+2025-07-23 20:02:36,294 - INFO - ✅ Encoded IMG_5485 copy.JPG (quality: 0.629)
+2025-07-23 20:02:36,894 - INFO - ✅ Encoded IMG_5479 copy.JPG (quality: 0.812)
+2025-07-23 20:02:37,467 - INFO - ✅ Encoded IMG_5491 copy.JPG (quality: 0.706)
+2025-07-23 20:02:37,955 - INFO - ✅ Encoded IMG_5487 copy.JPG (quality: 0.590)
+2025-07-23 20:02:38,501 - INFO - ✅ Encoded IMG_5486 copy.JPG (quality: 0.607)
+2025-07-23 20:02:38,505 - INFO - Enhanced database saved successfully
+2025-07-23 20:02:38,505 - INFO - ✅ Successfully added badr_mellal: 9 encodings
+2025-07-23 20:07:29,409 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-23 20:07:29,409 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-23 20:07:29,410 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-23 20:07:29,410 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-23 20:07:29,410 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-23 20:07:29,410 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-23 20:07:29,410 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-23 20:07:29,410 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-23 20:07:29,411 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-23 20:07:29,411 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-23 20:07:29,411 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-23 20:07:29,411 - INFO - Loaded 0 known faces
+2025-07-23 20:07:29,411 - INFO - Enhanced database initialized: 0 persons
+2025-07-23 20:07:33,247 - INFO - Loaded 0 known faces
+2025-07-23 20:07:33,247 - INFO - Enhanced database initialized: 0 persons
+2025-07-23 20:07:33,247 - INFO - Processing 7 images for directeur_general...
+2025-07-23 20:07:33,449 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-23 20:07:33,564 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-23 20:07:33,683 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-23 20:07:33,843 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-23 20:07:33,946 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-23 20:07:33,956 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-23 20:07:34,322 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-23 20:07:34,323 - INFO - Enhanced database saved successfully
+2025-07-23 20:07:34,323 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-23 20:07:34,324 - INFO - Loaded 1 known faces
+2025-07-23 20:07:34,324 - INFO - Enhanced database initialized: 1 persons
+2025-07-23 20:07:34,324 - INFO - Processing 8 images for mounia_amrhar...
+2025-07-23 20:07:34,651 - INFO - ✅ Encoded IMG20240225121339_Original.jpg (quality: 0.866)
+2025-07-23 20:07:34,666 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_2100.jpg (score: 0.429)
+2025-07-23 20:07:34,686 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_5152.JPG (score: 0.284)
+2025-07-23 20:07:35,331 - INFO - ✅ Encoded IMG_3395.JPG (quality: 0.893)
+2025-07-23 20:07:35,881 - INFO - ✅ Encoded IMG_3069.png (quality: 0.635)
+2025-07-23 20:07:36,512 - INFO - ✅ Encoded IMG_0106.png (quality: 0.528)
+2025-07-23 20:07:37,100 - INFO - ✅ Encoded IMG_3402.png (quality: 0.885)
+2025-07-23 20:07:37,662 - INFO - ✅ Encoded IMG_4236.png (quality: 0.517)
+2025-07-23 20:07:37,666 - INFO - Enhanced database saved successfully
+2025-07-23 20:07:37,666 - INFO - ✅ Successfully added mounia_amrhar: 6 encodings
+2025-07-23 20:07:37,668 - INFO - Loaded 2 known faces
+2025-07-23 20:07:37,668 - INFO - Enhanced database initialized: 2 persons
+2025-07-23 20:07:37,668 - INFO - Processing 9 images for badr_mellal...
+2025-07-23 20:07:38,229 - INFO - ✅ Encoded IMG_5470 copy.JPG (quality: 0.736)
+2025-07-23 20:07:38,717 - INFO - ✅ Encoded IMG_5489 copy.JPG (quality: 0.772)
+2025-07-23 20:07:39,174 - INFO - ✅ Encoded IMG_5488 copy.JPG (quality: 0.680)
+2025-07-23 20:07:39,708 - INFO - ✅ Encoded IMG_5484 copy.JPG (quality: 0.780)
+2025-07-23 20:07:40,197 - INFO - ✅ Encoded IMG_5485 copy.JPG (quality: 0.629)
+2025-07-23 20:07:40,708 - INFO - ✅ Encoded IMG_5479 copy.JPG (quality: 0.812)
+2025-07-23 20:07:41,197 - INFO - ✅ Encoded IMG_5491 copy.JPG (quality: 0.706)
+2025-07-23 20:07:41,615 - INFO - ✅ Encoded IMG_5487 copy.JPG (quality: 0.590)
+2025-07-23 20:07:42,080 - INFO - ✅ Encoded IMG_5486 copy.JPG (quality: 0.607)
+2025-07-23 20:07:42,085 - INFO - Enhanced database saved successfully
+2025-07-23 20:07:42,085 - INFO - ✅ Successfully added badr_mellal: 9 encodings
+2025-07-23 20:08:55,069 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-23 20:08:55,069 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-23 20:08:55,069 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-23 20:08:55,069 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-23 20:08:55,070 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-23 20:08:55,070 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-23 20:08:55,070 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-23 20:08:55,070 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-23 20:08:55,070 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-23 20:08:55,070 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-23 20:08:55,071 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-23 20:08:55,071 - INFO - Loaded 0 known faces
+2025-07-23 20:08:55,071 - INFO - Enhanced database initialized: 0 persons
+2025-07-23 20:08:58,157 - INFO - Loaded 0 known faces
+2025-07-23 20:08:58,157 - INFO - Enhanced database initialized: 0 persons
+2025-07-23 20:08:58,157 - INFO - Processing 7 images for directeur_general...
+2025-07-23 20:08:58,365 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-23 20:08:58,482 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-23 20:08:58,601 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-23 20:08:58,761 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-23 20:08:58,864 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-23 20:08:58,875 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-23 20:08:59,240 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-23 20:08:59,243 - INFO - Enhanced database saved successfully
+2025-07-23 20:08:59,243 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-23 20:08:59,244 - INFO - Loaded 1 known faces
+2025-07-23 20:08:59,244 - INFO - Enhanced database initialized: 1 persons
+2025-07-23 20:08:59,245 - INFO - Processing 6 images for mounia_amrhar...
+2025-07-23 20:08:59,571 - INFO - ✅ Encoded IMG20240225121339_Original.jpg (quality: 0.866)
+2025-07-23 20:08:59,585 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_2100.jpg (score: 0.429)
+2025-07-23 20:08:59,603 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_5152.JPG (score: 0.284)
+2025-07-23 20:09:00,227 - INFO - ✅ Encoded IMG_3395.JPG (quality: 0.893)
+2025-07-23 20:09:00,760 - INFO - ✅ Encoded IMG_3069.png (quality: 0.635)
+2025-07-23 20:09:01,319 - INFO - ✅ Encoded IMG_4236.png (quality: 0.517)
+2025-07-23 20:09:01,323 - INFO - Enhanced database saved successfully
+2025-07-23 20:09:01,323 - INFO - ✅ Successfully added mounia_amrhar: 4 encodings
+2025-07-23 20:09:01,325 - INFO - Loaded 2 known faces
+2025-07-23 20:09:01,325 - INFO - Enhanced database initialized: 2 persons
+2025-07-23 20:09:01,325 - INFO - Processing 9 images for badr_mellal...
+2025-07-23 20:09:01,885 - INFO - ✅ Encoded IMG_5470 copy.JPG (quality: 0.736)
+2025-07-23 20:09:02,376 - INFO - ✅ Encoded IMG_5489 copy.JPG (quality: 0.772)
+2025-07-23 20:09:02,832 - INFO - ✅ Encoded IMG_5488 copy.JPG (quality: 0.680)
+2025-07-23 20:09:03,372 - INFO - ✅ Encoded IMG_5484 copy.JPG (quality: 0.780)
+2025-07-23 20:09:03,861 - INFO - ✅ Encoded IMG_5485 copy.JPG (quality: 0.629)
+2025-07-23 20:09:04,374 - INFO - ✅ Encoded IMG_5479 copy.JPG (quality: 0.812)
+2025-07-23 20:09:04,873 - INFO - ✅ Encoded IMG_5491 copy.JPG (quality: 0.706)
+2025-07-23 20:09:05,301 - INFO - ✅ Encoded IMG_5487 copy.JPG (quality: 0.590)
+2025-07-23 20:09:05,774 - INFO - ✅ Encoded IMG_5486 copy.JPG (quality: 0.607)
+2025-07-23 20:09:05,777 - INFO - Enhanced database saved successfully
+2025-07-23 20:09:05,777 - INFO - ✅ Successfully added badr_mellal: 9 encodings
+2025-07-23 20:10:30,539 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-23 20:10:30,540 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-23 20:10:30,540 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-23 20:10:30,540 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-23 20:10:30,540 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-23 20:10:30,540 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-23 20:10:30,541 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-23 20:10:30,541 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-23 20:10:30,541 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-23 20:10:30,541 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-23 20:10:30,541 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-23 20:10:30,541 - INFO - Loaded 0 known faces
+2025-07-23 20:10:30,541 - INFO - Enhanced database initialized: 0 persons
+2025-07-23 20:10:31,913 - INFO - Loaded 0 known faces
+2025-07-23 20:10:31,913 - INFO - Enhanced database initialized: 0 persons
+2025-07-23 20:10:31,914 - INFO - Processing 7 images for directeur_general...
+2025-07-23 20:10:32,115 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-23 20:10:32,231 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-23 20:10:32,349 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-23 20:10:32,516 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-23 20:10:32,618 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-23 20:10:32,629 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-23 20:10:32,997 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-23 20:10:32,999 - INFO - Enhanced database saved successfully
+2025-07-23 20:10:32,999 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-23 20:10:33,000 - INFO - Loaded 1 known faces
+2025-07-23 20:10:33,000 - INFO - Enhanced database initialized: 1 persons
+2025-07-23 20:10:33,000 - INFO - Processing 5 images for mounia_amrhar...
+2025-07-23 20:10:33,322 - INFO - ✅ Encoded IMG20240225121339_Original.jpg (quality: 0.866)
+2025-07-23 20:10:33,337 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_2100.jpg (score: 0.429)
+2025-07-23 20:10:33,357 - WARNING - Low quality image skipped: known_faces/mounia_amrhar/IMG_5152.JPG (score: 0.284)
+2025-07-23 20:10:34,003 - INFO - ✅ Encoded IMG_3395.JPG (quality: 0.893)
+2025-07-23 20:10:34,543 - INFO - ✅ Encoded IMG_3069.png (quality: 0.635)
+2025-07-23 20:10:34,547 - INFO - Enhanced database saved successfully
+2025-07-23 20:10:34,547 - INFO - ✅ Successfully added mounia_amrhar: 3 encodings
+2025-07-23 20:10:34,548 - INFO - Loaded 2 known faces
+2025-07-23 20:10:34,548 - INFO - Enhanced database initialized: 2 persons
+2025-07-23 20:10:34,548 - INFO - Processing 9 images for badr_mellal...
+2025-07-23 20:10:35,113 - INFO - ✅ Encoded IMG_5470 copy.JPG (quality: 0.736)
+2025-07-23 20:10:35,604 - INFO - ✅ Encoded IMG_5489 copy.JPG (quality: 0.772)
+2025-07-23 20:10:36,060 - INFO - ✅ Encoded IMG_5488 copy.JPG (quality: 0.680)
+2025-07-23 20:10:36,597 - INFO - ✅ Encoded IMG_5484 copy.JPG (quality: 0.780)
+2025-07-23 20:10:37,096 - INFO - ✅ Encoded IMG_5485 copy.JPG (quality: 0.629)
+2025-07-23 20:10:37,609 - INFO - ✅ Encoded IMG_5479 copy.JPG (quality: 0.812)
+2025-07-23 20:10:38,101 - INFO - ✅ Encoded IMG_5491 copy.JPG (quality: 0.706)
+2025-07-23 20:10:38,519 - INFO - ✅ Encoded IMG_5487 copy.JPG (quality: 0.590)
+2025-07-23 20:10:38,985 - INFO - ✅ Encoded IMG_5486 copy.JPG (quality: 0.607)
+2025-07-23 20:10:38,989 - INFO - Enhanced database saved successfully
+2025-07-23 20:10:38,989 - INFO - ✅ Successfully added badr_mellal: 9 encodings
+2025-07-23 20:28:28,667 - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-23 20:28:28,668 - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-23 20:28:28,668 - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-23 20:28:28,668 - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-23 20:28:28,668 - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-23 20:28:28,668 - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-23 20:28:28,668 - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-23 20:28:28,669 - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-23 20:28:28,669 - INFO - Config updated: debug.verbose_recognition = True
+2025-07-23 20:28:28,669 - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-23 20:28:28,669 - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-23 20:28:28,669 - INFO - Loaded 0 known faces
+2025-07-23 20:28:28,669 - INFO - Enhanced database initialized: 0 persons
+2025-07-23 20:28:32,415 - INFO - Loaded 0 known faces
+2025-07-23 20:28:32,415 - INFO - Enhanced database initialized: 0 persons
+2025-07-23 20:28:32,415 - INFO - Processing 7 images for directeur_general...
+2025-07-23 20:28:32,616 - INFO - ✅ Encoded Jeff-Bezos-PNG-Picture.png (quality: 0.720)
+2025-07-23 20:28:32,734 - INFO - ✅ Encoded Jeff-Bezos-Transparent-PNG.png (quality: 0.724)
+2025-07-23 20:28:32,855 - INFO - ✅ Encoded 20.png (quality: 0.610)
+2025-07-23 20:28:33,016 - INFO - ✅ Encoded 652-6521407_jeff-bezos-hand-hd-png-download.png (quality: 0.777)
+2025-07-23 20:28:33,122 - INFO - ✅ Encoded Jeff-Bezos-PNG-Photo.png (quality: 0.714)
+2025-07-23 20:28:33,134 - WARNING - Low quality image skipped: known_faces/directeur_general/hero-image.png (score: 0.424)
+2025-07-23 20:28:33,495 - INFO - ✅ Encoded Jeff-Bezos-PNG-Pic.png (quality: 0.547)
+2025-07-23 20:28:33,497 - INFO - Enhanced database saved successfully
+2025-07-23 20:28:33,497 - INFO - ✅ Successfully added directeur_general: 6 encodings
+2025-07-23 20:28:33,499 - INFO - Loaded 1 known faces
+2025-07-23 20:28:33,499 - INFO - Enhanced database initialized: 1 persons
+2025-07-23 20:28:33,499 - INFO - Processing 9 images for badr_mellal...
+2025-07-23 20:28:34,087 - INFO - ✅ Encoded IMG_5470 copy.JPG (quality: 0.736)
+2025-07-23 20:28:34,585 - INFO - ✅ Encoded IMG_5489 copy.JPG (quality: 0.772)
+2025-07-23 20:28:35,041 - INFO - ✅ Encoded IMG_5488 copy.JPG (quality: 0.680)
+2025-07-23 20:28:35,575 - INFO - ✅ Encoded IMG_5484 copy.JPG (quality: 0.780)
+2025-07-23 20:28:36,070 - INFO - ✅ Encoded IMG_5485 copy.JPG (quality: 0.629)
+2025-07-23 20:28:36,585 - INFO - ✅ Encoded IMG_5479 copy.JPG (quality: 0.812)
+2025-07-23 20:28:37,075 - INFO - ✅ Encoded IMG_5491 copy.JPG (quality: 0.706)
+2025-07-23 20:28:37,498 - INFO - ✅ Encoded IMG_5487 copy.JPG (quality: 0.590)
+2025-07-23 20:28:37,969 - INFO - ✅ Encoded IMG_5486 copy.JPG (quality: 0.607)
+2025-07-23 20:28:37,973 - INFO - Enhanced database saved successfully
+2025-07-23 20:28:37,973 - INFO - ✅ Successfully added badr_mellal: 9 encodings

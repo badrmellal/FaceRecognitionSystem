@@ -1,0 +1,125 @@
+{
+  "person_id": "mounia_amrhar",
+  "timestamp": "2025-07-18T21:47:19.367514",
+  "basic_info": {
+    "person_id": "mounia_amrhar",
+    "num_encodings": 4,
+    "metadata": {
+      "person_id": "mounia_amrhar",
+      "num_encodings": 4,
+      "num_source_images": 7,
+      "successful_images": 4,
+      "added_date": "2025-07-18T21:44:05.589454",
+      "model": "ArcFace_enhanced",
+      "preprocessing_version": "2.0",
+      "encoding_quality": {
+        "min_quality": 0.5806053925219558,
+        "max_quality": 0.8031579510255704,
+        "avg_quality": 0.7248658287067541
+      },
+      "validation_hash": "8b1e00cbb636456f57ecf228dd273511",
+      "source_folder": "known_faces/mounia_amrhar",
+      "department": "Unknown",
+      "access_level": "Standard",
+      "import_method": "folder_import"
+    },
+    "encoding_validation": [
+      {
+        "source_image": "known_faces/mounia_amrhar/IMG_4561.png",
+        "quality_score": 0.792672595228626,
+        "created_at": "2025-07-18T21:44:03.994759",
+        "encoding_method": "ArcFace_enhanced",
+        "preprocessing_version": "2.0"
+      },
+      {
+        "source_image": "known_faces/mounia_amrhar/IMG_4566.png",
+        "quality_score": 0.7230273760508643,
+        "created_at": "2025-07-18T21:44:04.571416",
+        "encoding_method": "ArcFace_enhanced",
+        "preprocessing_version": "2.0"
+      },
+      {
+        "source_image": "known_faces/mounia_amrhar/IMG_4019.png",
+        "quality_score": 0.5806053925219558,
+        "created_at": "2025-07-18T21:44:05.104538",
+        "encoding_method": "ArcFace_enhanced",
+        "preprocessing_version": "2.0"
+      },
+      {
+        "source_image": "known_faces/mounia_amrhar/IMG_0627.png",
+        "quality_score": 0.8031579510255704,
+        "created_at": "2025-07-18T21:44:05.589309",
+        "encoding_method": "ArcFace_enhanced",
+        "preprocessing_version": "2.0"
+      }
+    ]
+  },
+  "validation_results": {
+    "person_id": "mounia_amrhar",
+    "num_encodings": 4,
+    "encoding_shape": [
+      4,
+      512
+    ],
+    "internal_similarities": {
+      "min": -0.015107747559600058,
+      "max": 0.9570685386186412,
+      "mean": 0.2814046557973209,
+      "std": 0.391969636463252
+    },
+    "norms": {
+      "min": 0.999999997972133,
+      "max": 0.9999999983808757,
+      "mean": 0.9999999981562857,
+      "std": 1.5482917350772698e-10
+    },
+    "validation_passed": true,
+    "quality_consistent": true
+  },
+  "encoding_details": [
+    {
+      "encoding_index": 0,
+      "shape": [
+        512
+      ],
+      "norm": 0.9999999983808757,
+      "mean": -0.0017760794524128405,
+      "std": 0.044158470710091546,
+      "min": -0.1871603746376739,
+      "max": 0.11746661087965468
+    },
+    {
+      "encoding_index": 1,
+      "shape": [
+        512
+      ],
+      "norm": 0.999999997972133,
+      "mean": 0.0002898068372936771,
+      "std": 0.044193223508539214,
+      "min": -0.1280300800558889,
+      "max": 0.14133090082018757
+    },
+    {
+      "encoding_index": 2,
+      "shape": [
+        512
+      ],
+      "norm": 0.9999999980628623,
+      "mean": 0.0016194822945970577,
+      "std": 0.04416449104801891,
+      "min": -0.14172435513074014,
+      "max": 0.16169318755582532
+    },
+    {
+      "encoding_index": 3,
+      "shape": [
+        512
+      ],
+      "norm": 0.9999999982092713,
+      "mean": -0.0016219700680451333,
+      "std": 0.04416439975934612,
+      "min": -0.17799666844497106,
+      "max": 0.11223709941168382
+    }
+  ]
+}

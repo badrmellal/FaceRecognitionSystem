@@ -1,0 +1,111 @@
+{
+  "directeur_general": [
+    {
+      "source_image": "known_faces/directeur_general/Jeff-Bezos-PNG-Picture.png",
+      "quality_score": 0.7202301694675258,
+      "created_at": "2025-07-23T20:28:32.616575",
+      "encoding_method": "ArcFace_enhanced",
+      "preprocessing_version": "2.0"
+    },
+    {
+      "source_image": "known_faces/directeur_general/Jeff-Bezos-Transparent-PNG.png",
+      "quality_score": 0.7241995679998031,
+      "created_at": "2025-07-23T20:28:32.734520",
+      "encoding_method": "ArcFace_enhanced",
+      "preprocessing_version": "2.0"
+    },
+    {
+      "source_image": "known_faces/directeur_general/20.png",
+      "quality_score": 0.6095429632432333,
+      "created_at": "2025-07-23T20:28:32.855805",
+      "encoding_method": "ArcFace_enhanced",
+      "preprocessing_version": "2.0"
+    },
+    {
+      "source_image": "known_faces/directeur_general/652-6521407_jeff-bezos-hand-hd-png-download.png",
+      "quality_score": 0.7768860697750972,
+      "created_at": "2025-07-23T20:28:33.016580",
+      "encoding_method": "ArcFace_enhanced",
+      "preprocessing_version": "2.0"
+    },
+    {
+      "source_image": "known_faces/directeur_general/Jeff-Bezos-PNG-Photo.png",
+      "quality_score": 0.713660260575719,
+      "created_at": "2025-07-23T20:28:33.122800",
+      "encoding_method": "ArcFace_enhanced",
+      "preprocessing_version": "2.0"
+    },
+    {
+      "source_image": "known_faces/directeur_general/Jeff-Bezos-PNG-Pic.png",
+      "quality_score": 0.546905678868424,
+      "created_at": "2025-07-23T20:28:33.495227",
+      "encoding_method": "ArcFace_enhanced",
+      "preprocessing_version": "2.0"
+    }
+  ],
+  "badr_mellal": [
+    {
+      "source_image": "known_faces/badr_mellal/IMG_5470 copy.JPG",
+      "quality_score": 0.7362755613259743,
+      "created_at": "2025-07-23T20:28:34.087825",
+      "encoding_method": "ArcFace_enhanced",
+      "preprocessing_version": "2.0"
+    },
+    {
+      "source_image": "known_faces/badr_mellal/IMG_5489 copy.JPG",
+      "quality_score": 0.772037910611143,
+      "created_at": "2025-07-23T20:28:34.585131",
+      "encoding_method": "ArcFace_enhanced",
+      "preprocessing_version": "2.0"
+    },
+    {
+      "source_image": "known_faces/badr_mellal/IMG_5488 copy.JPG",
+      "quality_score": 0.6800686932687858,
+      "created_at": "2025-07-23T20:28:35.041313",
+      "encoding_method": "ArcFace_enhanced",
+      "preprocessing_version": "2.0"
+    },
+    {
+      "source_image": "known_faces/badr_mellal/IMG_5484 copy.JPG",
+      "quality_score": 0.7803942553957721,
+      "created_at": "2025-07-23T20:28:35.575534",
+      "encoding_method": "ArcFace_enhanced",
+      "preprocessing_version": "2.0"
+    },
+    {
+      "source_image": "known_faces/badr_mellal/IMG_5485 copy.JPG",
+      "quality_score": 0.6294630228621465,
+      "created_at": "2025-07-23T20:28:36.070170",
+      "encoding_method": "ArcFace_enhanced",
+      "preprocessing_version": "2.0"
+    },
+    {
+      "source_image": "known_faces/badr_mellal/IMG_5479 copy.JPG",
+      "quality_score": 0.8124482214682536,
+      "created_at": "2025-07-23T20:28:36.585005",
+      "encoding_method": "ArcFace_enhanced",
+      "preprocessing_version": "2.0"
+    },
+    {
+      "source_image": "known_faces/badr_mellal/IMG_5491 copy.JPG",
+      "quality_score": 0.7056425824808285,
+      "created_at": "2025-07-23T20:28:37.075836",
+      "encoding_method": "ArcFace_enhanced",
+      "preprocessing_version": "2.0"
+    },
+    {
+      "source_image": "known_faces/badr_mellal/IMG_5487 copy.JPG",
+      "quality_score": 0.5903035759453779,
+      "created_at": "2025-07-23T20:28:37.498673",
+      "encoding_method": "ArcFace_enhanced",
+      "preprocessing_version": "2.0"
+    },
+    {
+      "source_image": "known_faces/badr_mellal/IMG_5486 copy.JPG",
+      "quality_score": 0.6071084769094184,
+      "created_at": "2025-07-23T20:28:37.969540",
+      "encoding_method": "ArcFace_enhanced",
+      "preprocessing_version": "2.0"
+    }
+  ]
+}

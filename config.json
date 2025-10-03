@@ -1,0 +1,120 @@
+{
+  "camera": {
+    "frame_skip": 1,
+    "buffer_size": 1,
+    "target_fps": 20,
+    "timeout_ms": 5000,
+    "force_substream": false
+  },
+  "face_detection": {
+    "confidence_threshold": 0.7,
+    "min_face_size": 100,
+    "nms_threshold": 0.4,
+    "max_face_size": 800
+  },
+  "face_recognition": {
+    "model": "ArcFace",
+    "similarity_threshold": 0.75,
+    "high_confidence_threshold": 0.88,
+    "min_confidence_gap": 0.15,
+    "target_size": [
+      112,
+      112
+    ],
+    "quality_boost_threshold": 0.8,
+    "excellent_quality_boost": 0.03,
+    "close_face_threshold": 0.55,
+    "close_face_bonus": 0.05,
+    "adaptive_gaps": true,
+    "unknown_threshold": 0.7,
+    "high_confidence_override": 0.9,
+    "temporal_voting": true,
+    "normalize": true,
+    "enforce_detection": false,
+    "gap_requirements": {
+      "high_confidence": 0.02,
+      "medium_confidence": 0.035,
+      "low_confidence": 0.05
+    }
+  },
+  "quality_thresholds": {
+    "min_overall_score": 0.4,
+    "good_quality_threshold": 0.5,
+    "excellent_overall": 0.85,
+    "min_sharpness": 0.3,
+    "min_brightness": 0.25,
+    "min_size_score": 0.4,
+    "min_contrast": 0.2
+  },
+  "strict_security": {
+    "require_identity_consistency": true,
+    "require_consecutive_matches": 3,
+    "min_positive_frames": 5,
+    "min_excellent_quality_frames": 3,
+    "max_negative_frames": 2,
+    "min_analyzing_frames": 6,
+    "max_analysis_time": 10.0,
+    "max_unknown_frames": 3,
+    "min_face_size": 80,
+    "min_sharpness": 200,
+    "temporal_window": 10.0,
+    "min_consistent_frames": 3
+  },
+  "tracking": {
+    "max_distance": 80.0,
+    "max_frames_missing": 20,
+    "min_positive_frames": 4,
+    "max_negative_frames": 4,
+    "min_quality_frames": 2,
+    "quality_threshold": 0.35
+  },
+  "alerts": {
+    "delay_seconds": 1.5,
+    "sound_enabled": true,
+    "french_voice": "Amélie",
+    "save_evidence": true,
+    "rate_limit": 5.0,
+    "max_evidence_files": 3,
+    "alert_cooldown": 5.0
+  },
+  "display": {
+    "window_width": 2688,
+    "window_height": 1664,
+    "show_confidence": true,
+    "show_fps": true,
+    "show_quality_scores": true,
+    "fullscreen": false,
+    "font_scale": 0.7,
+    "show_decision_reasons": true,
+    "coordinate_fix": "applied"
+  },
+  "debug": {
+    "verbose_recognition": true,
+    "save_failed_recognitions": true,
+    "log_similarity_scores": true,
+    "save_quality_analysis": true,
+    "detailed_tracking": true,
+    "log_decision_reasons": true,
+    "save_problematic_faces": true
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "face_recognition.log",
+    "max_size_mb": 10,
+    "backup_count": 5
+  },
+  "performance": {
+    "processing_threads": 2,
+    "max_tracked_faces": 8,
+    "cleanup_interval": 5,
+    "cache_timeout": 3.0,
+    "max_cache_size": 150
+  },
+  "database": {
+    "backup_on_changes": true,
+    "max_backups": 10,
+    "verify_encodings": true,
+    "encoding_quality_check": true,
+    "similarity_analysis": true
+  }
+}

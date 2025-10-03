@@ -1,0 +1,161 @@
+{
+  "person_id": "directeur_general",
+  "timestamp": "2025-07-18T21:47:17.034012",
+  "basic_info": {
+    "person_id": "directeur_general",
+    "num_encodings": 6,
+    "metadata": {
+      "person_id": "directeur_general",
+      "num_encodings": 6,
+      "num_source_images": 7,
+      "successful_images": 6,
+      "added_date": "2025-07-18T21:44:03.309263",
+      "model": "ArcFace_enhanced",
+      "preprocessing_version": "2.0",
+      "encoding_quality": {
+        "min_quality": 0.546905678868424,
+        "max_quality": 0.7768860697750972,
+        "avg_quality": 0.6819041183216338
+      },
+      "validation_hash": "8f11662d559977f1559fd064c57a4465",
+      "source_folder": "known_faces/directeur_general",
+      "department": "Unknown",
+      "access_level": "Standard",
+      "import_method": "folder_import"
+    },
+    "encoding_validation": [
+      {
+        "source_image": "known_faces/directeur_general/Jeff-Bezos-PNG-Picture.png",
+        "quality_score": 0.7202301694675258,
+        "created_at": "2025-07-18T21:44:02.441166",
+        "encoding_method": "ArcFace_enhanced",
+        "preprocessing_version": "2.0"
+      },
+      {
+        "source_image": "known_faces/directeur_general/Jeff-Bezos-Transparent-PNG.png",
+        "quality_score": 0.7241995679998031,
+        "created_at": "2025-07-18T21:44:02.558492",
+        "encoding_method": "ArcFace_enhanced",
+        "preprocessing_version": "2.0"
+      },
+      {
+        "source_image": "known_faces/directeur_general/20.png",
+        "quality_score": 0.6095429632432333,
+        "created_at": "2025-07-18T21:44:02.680126",
+        "encoding_method": "ArcFace_enhanced",
+        "preprocessing_version": "2.0"
+      },
+      {
+        "source_image": "known_faces/directeur_general/652-6521407_jeff-bezos-hand-hd-png-download.png",
+        "quality_score": 0.7768860697750972,
+        "created_at": "2025-07-18T21:44:02.839976",
+        "encoding_method": "ArcFace_enhanced",
+        "preprocessing_version": "2.0"
+      },
+      {
+        "source_image": "known_faces/directeur_general/Jeff-Bezos-PNG-Photo.png",
+        "quality_score": 0.713660260575719,
+        "created_at": "2025-07-18T21:44:02.943271",
+        "encoding_method": "ArcFace_enhanced",
+        "preprocessing_version": "2.0"
+      },
+      {
+        "source_image": "known_faces/directeur_general/Jeff-Bezos-PNG-Pic.png",
+        "quality_score": 0.546905678868424,
+        "created_at": "2025-07-18T21:44:03.309109",
+        "encoding_method": "ArcFace_enhanced",
+        "preprocessing_version": "2.0"
+      }
+    ]
+  },
+  "validation_results": {
+    "person_id": "directeur_general",
+    "num_encodings": 6,
+    "encoding_shape": [
+      6,
+      512
+    ],
+    "internal_similarities": {
+      "min": 0.4563934126129165,
+      "max": 0.7052991987307003,
+      "mean": 0.5983409948145008,
+      "std": 0.06703148061199908
+    },
+    "norms": {
+      "min": 0.9999999972791792,
+      "max": 0.9999999978193025,
+      "mean": 0.9999999975716646,
+      "std": 1.6054895364070038e-10
+    },
+    "validation_passed": true,
+    "quality_consistent": true
+  },
+  "encoding_details": [
+    {
+      "encoding_index": 0,
+      "shape": [
+        512
+      ],
+      "norm": 0.999999997550966,
+      "mean": 0.001148428706773761,
+      "std": 0.04417924967605175,
+      "min": -0.1269888116073696,
+      "max": 0.1325560041444917
+    },
+    {
+      "encoding_index": 1,
+      "shape": [
+        512
+      ],
+      "norm": 0.9999999978193025,
+      "mean": 0.002567716528428087,
+      "std": 0.04411951748729,
+      "min": -0.13137154226047493,
+      "max": 0.12965470530631626
+    },
+    {
+      "encoding_index": 2,
+      "shape": [
+        512
+      ],
+      "norm": 0.9999999976209014,
+      "mean": 5.783897715483529e-06,
+      "std": 0.04419417334053408,
+      "min": -0.17161574727391754,
+      "max": 0.11945217402793744
+    },
+    {
+      "encoding_index": 3,
+      "shape": [
+        512
+      ],
+      "norm": 0.9999999975308398,
+      "mean": 0.003974450386932225,
+      "std": 0.04401509666553804,
+      "min": -0.12556207891660306,
+      "max": 0.12793856174023457
+    },
+    {
+      "encoding_index": 4,
+      "shape": [
+        512
+      ],
+      "norm": 0.9999999972791792,
+      "mean": 0.0017346373331857178,
+      "std": 0.044160118010418775,
+      "min": -0.1462253313362413,
+      "max": 0.13641615001712415
+    },
+    {
+      "encoding_index": 5,
+      "shape": [
+        512
+      ],
+      "norm": 0.9999999976287979,
+      "mean": 0.003023658577403222,
+      "std": 0.044090616683652634,
+      "min": -0.14664510501299935,
+      "max": 0.16358540752101983
+    }
+  ]
+}

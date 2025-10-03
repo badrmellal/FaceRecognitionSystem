@@ -1,0 +1,39 @@
+2025-07-07 20:37:00,361 - config - INFO - Config updated: face_recognition.similarity_threshold = 0.75
+2025-07-07 20:37:00,361 - config - INFO - Config updated: face_recognition.min_confidence_gap = 0.15
+2025-07-07 20:37:00,361 - config - INFO - Config updated: face_recognition.high_confidence_threshold = 0.88
+2025-07-07 20:37:00,362 - config - INFO - Config updated: quality_thresholds.min_overall_score = 0.4
+2025-07-07 20:37:00,362 - config - INFO - Config updated: quality_thresholds.excellent_overall = 0.85
+2025-07-07 20:37:00,362 - config - INFO - Config updated: strict_security.min_positive_frames = 5
+2025-07-07 20:37:00,362 - config - INFO - Config updated: strict_security.min_excellent_quality_frames = 3
+2025-07-07 20:37:00,362 - config - INFO - Config updated: strict_security.max_negative_frames = 2
+2025-07-07 20:37:00,362 - config - INFO - Config updated: debug.verbose_recognition = True
+2025-07-07 20:37:00,362 - config - INFO - Config updated: debug.log_similarity_scores = True
+2025-07-07 20:37:00,362 - config - INFO - ✅ Configuration optimized for maximum accuracy
+2025-07-07 20:37:00,363 - database - INFO - Loaded 3 known faces
+2025-07-07 20:37:00,363 - database - INFO - Enhanced database initialized: 3 persons
+2025-07-07 20:37:00,364 - database - INFO - Loaded 3 known faces
+2025-07-07 20:37:00,364 - database - INFO - Enhanced database initialized: 3 persons
+2025-07-07 20:37:00,377 - face_recognition_system - INFO - 🚀 M3 Max GPU acceleration enabled
+2025-07-07 20:37:00,410 - face_recognition_system - INFO - 🎯 Model loaded: models/yolov11n-face.pt
+2025-07-07 20:37:00,514 - face_recognition_system - INFO - 👥 Database loaded: 3 authorized personnel
+2025-07-07 20:37:00,514 - face_recognition_system - INFO -    - directeur_general: 6 encodings
+2025-07-07 20:37:00,514 - face_recognition_system - INFO -    - mounia_amrhar: 4 encodings
+2025-07-07 20:37:00,514 - face_recognition_system - INFO -    - badr_mellal: 9 encodings
+2025-07-07 20:37:00,514 - face_recognition_system - INFO - ✅ Enhanced surveillance system initialized
+2025-07-07 20:37:00,514 - face_recognition_system - INFO - 🚨 STARTING ENHANCED SURVEILLANCE
+2025-07-07 20:37:00,514 - face_recognition_system - INFO - 📹 Connecting to camera: rtsp://admin:badrmellal123@192.168.1.108:554/cam/realmonitor?channel=1&subtype=1
+2025-07-07 20:37:02,529 - face_recognition_system - INFO - ✅ Camera connected: 640x480
+2025-07-07 20:37:02,529 - face_recognition_system - INFO - 🧵 Starting surveillance pipeline...
+2025-07-07 20:37:02,529 - face_recognition_system - INFO - 📹 Stream capture started
+2025-07-07 20:37:02,529 - face_recognition_system - INFO - ✅ Started StreamCapture
+2025-07-07 20:37:02,529 - face_recognition_system - INFO - 🎯 Face detection started
+2025-07-07 20:37:02,529 - face_recognition_system - INFO - ✅ Started FaceDetection
+2025-07-07 20:37:02,530 - face_recognition_system - INFO - 🧠 Face recognition started
+2025-07-07 20:37:02,530 - face_recognition_system - INFO - ✅ Started FaceRecognition
+2025-07-07 20:37:02,530 - face_recognition_system - INFO - 🚨 Security monitoring started
+2025-07-07 20:37:02,530 - face_recognition_system - INFO - ✅ Started SecurityMonitoring
+2025-07-07 20:37:05,763 - face_recognition_system - INFO - 🚨 SYSTEM READY
+2025-07-08 11:52:39,275 - database - INFO - Loaded 3 known faces
+2025-07-08 11:52:39,276 - database - INFO - Enhanced database initialized: 3 persons
+2025-07-08 11:55:28,515 - database - INFO - Loaded 3 known faces
+2025-07-08 11:55:28,515 - database - INFO - Enhanced database initialized: 3 persons

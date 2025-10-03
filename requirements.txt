@@ -1,0 +1,41 @@
+# Essential dependencies for Face Recognition System
+# Optimized for 5MP Imou camera
+
+# Computer Vision
+opencv-python>=4.8.0
+ultralytics>=8.0.0
+
+# Machine Learning
+torch>=2.0.0
+deepface>=0.0.79
+scikit-learn>=1.3.0
+numpy>=1.24.0
+
+# Performance monitoring
+memory-profiler>=0.61.0
+
+# System utilities
+psutil>=5.9.0
+requests>=2.31.0
+
+# NEW: API Backend Dependencies
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.0.0
+websockets>=11.0.2
+
+# NEW: Data Export Dependencies
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Optional: TensorFlow compatibility (if DeepFace issues)
+# tensorflow==2.15.0
+# tf-keras>=2.15.0
+
+# Note: Install specific versions if you encounter PyTorch 2.6 compatibility issues:
+# torch==2.0.1
+# torchvision==0.15.2
+
+# Platform-specific optimizations
+# For macOS with M1/M2/M3:
+# tensorflow-macos>=2.13.0  # If needed for DeepFace

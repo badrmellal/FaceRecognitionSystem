@@ -1,0 +1,26 @@
+INSTRUCTIONS POUR AYA_MELLAL
+==================================================
+
+ÉTAPES:
+1. Ajoutez 5-10 photos de cette personne dans ce dossier
+2. Formats supportés: .jpg, .jpeg, .png
+3. Résolution recommandée: 640x640 ou plus
+4. Assurez-vous que le visage est clairement visible
+
+SUGGESTIONS DE NOMS:
+- aya_mellal_face_1.jpg
+- aya_mellal_profil.jpg
+- aya_mellal_souriant.jpg
+
+QUALITÉ REQUISE:
+- Bon éclairage
+- Image nette (pas floue)
+- Visage occupe 50% de l'image minimum
+- Évitez lunettes de soleil
+- Plusieurs angles et expressions
+
+Après avoir ajouté les photos, relancez:
+python setup.py --add-faces
+
+IMPORTANT: Ce système utilise ArcFace pour une
+précision optimale de reconnaissance faciale.

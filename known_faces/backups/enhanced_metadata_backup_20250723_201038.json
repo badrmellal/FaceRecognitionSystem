@@ -1,0 +1,40 @@
+{
+  "directeur_general": {
+    "person_id": "directeur_general",
+    "num_encodings": 6,
+    "num_source_images": 7,
+    "successful_images": 6,
+    "added_date": "2025-07-23T20:10:32.997828",
+    "model": "ArcFace_enhanced",
+    "preprocessing_version": "2.0",
+    "encoding_quality": {
+      "min_quality": 0.546905678868424,
+      "max_quality": 0.7768860697750972,
+      "avg_quality": 0.6819041183216338
+    },
+    "validation_hash": "8f11662d559977f1559fd064c57a4465",
+    "source_folder": "known_faces/directeur_general",
+    "department": "Unknown",
+    "access_level": "Standard",
+    "import_method": "folder_import"
+  },
+  "mounia_amrhar": {
+    "person_id": "mounia_amrhar",
+    "num_encodings": 3,
+    "num_source_images": 5,
+    "successful_images": 3,
+    "added_date": "2025-07-23T20:10:34.543463",
+    "model": "ArcFace_enhanced",
+    "preprocessing_version": "2.0",
+    "encoding_quality": {
+      "min_quality": 0.634918443670951,
+      "max_quality": 0.8927384920044896,
+      "avg_quality": 0.7980190824933228
+    },
+    "validation_hash": "bd8dbd84119645539fd90a986b78668d",
+    "source_folder": "known_faces/mounia_amrhar",
+    "department": "Unknown",
+    "access_level": "Standard",
+    "import_method": "folder_import"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "directeur_general": {
+    "source_folder": "known_faces/directeur_general",
+    "department": "Unknown",
+    "access_level": "Standard",
+    "encoding_method": "fixed_deepface",
+    "person_id": "directeur_general",
+    "num_encodings": 7,
+    "num_source_images": 7,
+    "successful_images": 7,
+    "added_date": "2025-07-07T18:17:17.932399",
+    "model": "ArcFace",
+    "normalization": "applied"
+  },
+  "mounia_amrhar": {
+    "source_folder": "known_faces/mounia_amrhar",
+    "department": "Unknown",
+    "access_level": "Standard",
+    "encoding_method": "fixed_deepface",
+    "person_id": "mounia_amrhar",
+    "num_encodings": 7,
+    "num_source_images": 7,
+    "successful_images": 7,
+    "added_date": "2025-07-07T18:17:18.561919",
+    "model": "ArcFace",
+    "normalization": "applied"
+  }
+}

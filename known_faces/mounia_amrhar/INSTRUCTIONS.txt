@@ -1,0 +1,26 @@
+INSTRUCTIONS FOR MOUNIA_AMRHAR
+==================================================
+
+QUALITY REQUIREMENTS:
+• 5-10 high-quality photos
+• Face occupies 50-70% of image
+• Clear, well-lit photos
+• Multiple angles and expressions
+• Resolution: 640x640+ pixels
+• Sharp, non-blurry images
+
+PHOTO TYPES:
+1. mounia_amrhar_front.jpg (front-facing)
+2. mounia_amrhar_smile.jpg (smiling)
+3. mounia_amrhar_left.jpg (slight left turn)
+4. mounia_amrhar_right.jpg (slight right turn)
+5. mounia_amrhar_up.jpg (slight upward look)
+
+AVOID:
+• Blurry images
+• Sunglasses or masks
+• Multiple faces in frame
+• Very dark or bright lighting
+
+After adding photos, run:
+python setup.py --add-faces

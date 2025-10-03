@@ -1,0 +1,44 @@
+ENHANCED INSTRUCTIONS FOR MOUNIA_AMRHAR
+======================================================================
+
+🎯 QUALITY REQUIREMENTS FOR BEST RECOGNITION:
+   - 5-10 high-quality photos minimum
+   - Face should occupy 50-70% of the image
+   - Clear, well-lit photos (avoid shadows on face)
+   - Multiple angles: front, slight left, slight right
+   - Different expressions: neutral, smiling
+   - Avoid sunglasses, hats, or face coverings
+   - Resolution: 640x640 pixels or higher
+   - Sharp, non-blurry images
+
+📸 RECOMMENDED PHOTO TYPES:
+   1. mounia_amrhar_front_neutral.jpg (straight-on, neutral expression)
+   2. mounia_amrhar_front_smile.jpg (straight-on, smiling)
+   3. mounia_amrhar_left_angle.jpg (slight left turn)
+   4. mounia_amrhar_right_angle.jpg (slight right turn)
+   5. mounia_amrhar_up_angle.jpg (slight upward look)
+   6. mounia_amrhar_down_angle.jpg (slight downward look)
+   7. mounia_amrhar_different_lighting.jpg (different lighting condition)
+
+⚠️ AVOID THESE ISSUES:
+   - Blurry or out-of-focus images
+   - Too much shadow or backlighting
+   - Face too small in frame
+   - Extreme angles or poses
+   - Low resolution images
+   - Images with other people's faces
+
+🔧 AFTER ADDING PHOTOS:
+   1. Run: python setup.py --add-faces
+   2. Check validation results in logs
+   3. If recognition issues persist, add more high-quality photos
+   4. Use different lighting conditions for robustness
+
+💡 TIPS FOR BEST RESULTS:
+   - Take photos in the same location where recognition will happen
+   - Use similar lighting conditions as the surveillance area
+   - Include photos with and without glasses if person wears them
+   - Quality over quantity - 5 excellent photos > 10 poor photos
+
+📊 The system uses ArcFace for recognition with enhanced preprocessing
+   and quality validation to prevent misidentification issues.
