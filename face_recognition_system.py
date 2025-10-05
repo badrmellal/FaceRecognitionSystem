@@ -197,7 +197,7 @@ class FaceRecognitionSystem:
         self.alert_cooldown = 3.0
 
         # Display settings
-        self.window_name = "SIMPLE SURVEILLANCE SYSTEM"
+        self.window_name = "1 BIP SURVEILLANCE SYSTEM"
         self.window_width = self.config.get('display.window_width', 1920)
         self.window_height = self.config.get('display.window_height', 1080)
 
@@ -294,16 +294,16 @@ class FaceRecognitionSystem:
     def _print_configuration(self):
         """Print simple system configuration"""
         print(f"\n{'=' * 60}")
-        print("🔹 SIMPLE FACE RECOGNITION SYSTEM")
+        print("🔹  FACE RECOGNITION SYSTEM")
         print(f"{'=' * 60}")
         print(f"🎯 Recognition threshold: {self.recognition_threshold}")
         print(f"🎯 High confidence threshold: {self.high_confidence_threshold}")
         print(f"⏱️ Max decision time: {self.max_decision_time}s")
         print(f"📊 Known personnel: {len(self.known_faces)}")
         print(f"🎮 Device: {self.device}")
-        print(f"✅ SIMPLE FEATURES:")
+        print(f"✅  FEATURES:")
         print(f"   • Fast recognition (3 seconds)")
-        print(f"   • Simple threshold-based decisions")
+        print(f"   •  threshold-based decisions")
         print(f"   • Realistic confidence levels")
         print(f"   • Voice alerts and visual boxes")
         print(f"{'=' * 60}")
@@ -311,7 +311,7 @@ class FaceRecognitionSystem:
     def start_monitoring(self, rtsp_url: str, duration: Optional[int] = None) -> bool:
         """Start surveillance monitoring"""
         try:
-            self.logger.info("🚀 STARTING SIMPLE SURVEILLANCE")
+            self.logger.info("🚀 STARTING  SURVEILLANCE")
 
             if not self._connect_camera(rtsp_url):
                 return False
@@ -378,7 +378,7 @@ class FaceRecognitionSystem:
 
     def _start_threads(self):
         """Start simple pipeline threads"""
-        self.logger.info("🧵 Starting simple pipeline...")
+        self.logger.info("🧵 Starting  pipeline...")
 
         threads = [
             threading.Thread(target=self._stream_capture_thread, name="StreamCapture", daemon=True),
@@ -917,18 +917,18 @@ class FaceRecognitionSystem:
         """Announce system ready"""
         try:
             self._speak_french_alert("Système de surveillance activé.")
-            self.logger.info("✅ SIMPLE SYSTEM READY")
+            self.logger.info("✅  SYSTEM READY")
         except Exception as e:
             self.logger.error(f"Announcement error: {e}")
 
     def _run_surveillance_interface(self, duration: Optional[int]):
-        """Run simple surveillance interface"""
+        """Run  surveillance interface"""
         if HEADLESS:
             return
 
         start_time = time.time()
         print(f"\n{'=' * 60}")
-        print("🔹 SIMPLE SURVEILLANCE SYSTEM ACTIVE")
+        print("🔹  SURVEILLANCE SYSTEM ACTIVE")
         print("Fast • Simple • Reliable")
         print("Controls: [Q]uit [S]creenshot [D]ebug")
         print(f"{'=' * 60}")
@@ -1022,7 +1022,7 @@ class FaceRecognitionSystem:
 
             # Header
             cv2.rectangle(frame, (0, 0), (w, 100), (30, 30, 30), -1)
-            cv2.putText(frame, "🔹 SIMPLE SURVEILLANCE ACTIVE", (20, 35),
+            cv2.putText(frame, "🔹 1BIP SURVEILLANCE ACTIVE", (20, 35),
                         cv2.FONT_HERSHEY_SIMPLEX, 1.2, (255, 255, 255), 2)
 
             # Status line
@@ -1068,7 +1068,7 @@ class FaceRecognitionSystem:
     def _print_debug_info(self):
         """Print simple debug information"""
         print(f"\n{'=' * 50}")
-        print("🔹 SIMPLE DEBUG INFO")
+        print("🔹  DEBUG INFO")
         print(f"{'=' * 50}")
         print(f"Active tracks: {len(self.active_tracks)}")
         print(f"Known faces: {len(self.known_faces)}")
@@ -1089,7 +1089,7 @@ class FaceRecognitionSystem:
     def _stop_monitoring(self):
         """Stop simple monitoring system"""
         try:
-            self.logger.info("🛑 Stopping simple surveillance...")
+            self.logger.info("🛑 Stopping  surveillance...")
             self.is_running = False
             self.stop_event.set()
 
@@ -1108,17 +1108,16 @@ class FaceRecognitionSystem:
 
             # Simple report
             print(f"\n{'=' * 50}")
-            print("📊 SIMPLE SURVEILLANCE REPORT")
+            print("📊  SURVEILLANCE REPORT")
             print(f"{'=' * 50}")
             print(f"✅ Authorized: {self.stats['authorized_detections']}")
             print(f"🚨 Alerts: {self.stats['alerts_triggered']}")
             print(f"👤 Faces detected: {self.stats['faces_detected']}")
             print(f"🧠 Recognitions: {self.stats['faces_recognized']}")
             print(f"📸 Evidence saved: {self.stats['evidence_saved']}")
-            print(f"🎯 Simple & Fast Recognition")
             print(f"{'=' * 50}")
 
-            self.logger.info("✅ Simple surveillance stopped")
+            self.logger.info("✅  surveillance stopped")
 
         except Exception as e:
             self.logger.error(f"Stop error: {e}")

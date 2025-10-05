@@ -251,7 +251,7 @@ def _draw_interface_fallback(frame: np.ndarray, recognition_system):
 
         # Header
         cv2.rectangle(frame, (0, 0), (w, 80), (20, 20, 20), -1)
-        cv2.putText(frame, "🏢 ENTERPRISE SURVEILLANCE ACTIVE", (20, 30),
+        cv2.putText(frame, " SURVEILLANCE ACTIVE", (20, 30),
                     cv2.FONT_HERSHEY_SIMPLEX, 1.0, (255, 255, 255), 2)
 
         # Status
@@ -649,18 +649,18 @@ async def get_today_visits():
 
 @app.post("/api/monitoring/start")
 async def start_monitoring(config: MonitoringConfig, background_tasks: BackgroundTasks):
-    """Start enterprise monitoring"""
+    """Start  monitoring"""
     global recognition_system, monitoring_active
 
     if not SYSTEM_AVAILABLE:
-        raise HTTPException(status_code=500, detail="Enterprise face recognition system not available")
+        raise HTTPException(status_code=500, detail=" face recognition system not available")
 
     if monitoring_active:
         raise HTTPException(status_code=400, detail="Monitoring already active")
 
     background_tasks.add_task(run_monitoring, config)
     return {
-        "message": "Enterprise monitoring started",
+        "message": " monitoring started",
         "rtsp_url": config.rtsp_url,
         "version": "6.0.0-ENTERPRISE",
         "features": {
@@ -686,7 +686,7 @@ async def stop_monitoring():
             logger.warning(f"Error stopping monitoring: {e}")
         recognition_system = None
     monitoring_active = False
-    return {"message": "Enterprise monitoring stopped"}
+    return {"message": " monitoring stopped"}
 
 
 @app.get("/api/monitoring/status")
@@ -725,11 +725,11 @@ def run_monitoring(config: MonitoringConfig):
         recognition_system = FaceRecognitionSystem(config.config_file)
         recognition_system.start_time = time.time()
 
-        logger.info(f"🏢 Starting Enterprise surveillance system...")
+        logger.info(f"🏢 Starting surveillance system...")
         recognition_system.start_monitoring(config.rtsp_url, config.duration)
 
     except Exception as e:
-        logger.error(f"Enterprise monitoring error: {e}")
+        logger.error(f" monitoring error: {e}")
     finally:
         monitoring_active = False
         recognition_system = None
@@ -787,7 +787,7 @@ async def get_enterprise_debug():
 
     try:
         debug_info = {
-            "system_type": "Enterprise Face Recognition",
+            "system_type": " Face Recognition",
             "version": "6.0.0-ENTERPRISE",
             "active_tracks": len(getattr(recognition_system, 'active_tracks', {})),
             "known_faces": len(getattr(recognition_system, 'known_faces', {})),
@@ -846,7 +846,7 @@ if __name__ == "__main__":
     Path("logs/security_evidence").mkdir(exist_ok=True)
     Path("logs/screenshots").mkdir(exist_ok=True)
 
-    print("🏢 Starting Enterprise Face Recognition API Server")
+    print("🏢 Starting Face Recognition API Server")
     print("✅ Adaptive thresholds: ACTIVE")
     print("✅ Temporal voting: ACTIVE")
     print("✅ Quality weighting: ACTIVE")
