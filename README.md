@@ -1,83 +1,83 @@
 ## QUICK OVERVIEW
 
-🎨 Visual Interface & Boxes
+ Visual Interface & Boxes
 
-✅ Colored detection boxes (Blue→Yellow→Green/Red progression)
-✅ Status labels with emojis (🔵🟡🟢🔴)
-✅ Quality indicators (colored circles)
-✅ Confidence displays for authorized faces
-✅ Enterprise interface overlay with stats
-✅ Real-time FPS counters
-✅ Timestamp display
+ Colored detection boxes (Blue→Yellow→Green/Red progression)
+ Status labels with emojis (🔵🟡🟢🔴)
+ Quality indicators (colored circles)
+ Confidence displays for authorized faces
+ Enterprise interface overlay with stats
+ Real-time FPS counters
+ Timestamp display
 
-🧵 Full Threading Architecture
+ Full Threading Architecture
 
-✅ Stream Capture Thread (camera handling)
-✅ Face Detection Thread (YOLO + tracking)
-✅ Enterprise Recognition Thread (adaptive decisions)
-✅ Security Monitoring Thread (alerts & protocols)
-✅ Display Thread (GUI updates)
+ Stream Capture Thread (camera handling)
+ Face Detection Thread (YOLO + tracking)
+ Enterprise Recognition Thread (adaptive decisions)
+ Security Monitoring Thread (alerts & protocols)
+ Display Thread (GUI updates)
 
-🏢 Enterprise Features
+ Enterprise Features
 
-✅ Temporal Voting (8-second window consensus)
-✅ Adaptive Gap Requirements (1.5%-5% based on confidence)
-✅ Quality Weighting (+3% boost for excellent images)
-✅ Multi-person decision logic
-✅ Voting history per track
+ Temporal Voting (8-second window consensus)
+ Adaptive Gap Requirements (1.5%-5% based on confidence)
+ Quality Weighting (+3% boost for excellent images)
+ Multi-person decision logic
+ Voting history per track
 
-🛡️ Security System
+ Security System
 
-✅ French TTS alerts ("Alerte sécurité!")
-✅ Evidence screenshots with timestamps
-✅ Access logging (JSON format)
-✅ Zone detection (LEFT/RIGHT/CENTER + NEAR/FAR)
-✅ Alert cooldown (5-second prevention)
+ French TTS alerts ("Alerte sécurité!")
+ Evidence screenshots with timestamps
+ Access logging (JSON format)
+ Zone detection (LEFT/RIGHT/CENTER + NEAR/FAR)
+ Alert cooldown (5-second prevention)
 
-🎯 Distance-Adaptive Features (ENHANCED)
+ Distance-Adaptive Features (ENHANCED)
 
-✅ Distance-aware quality assessment
-✅ Adaptive padding (25%-40% based on face size)
-✅ Close-face compensation (relaxed thresholds)
-✅ Two-stage resize for very large faces
-✅ Distance-specific preprocessing
+ Distance-aware quality assessment
+ Adaptive padding (25%-40% based on face size)
+ Close-face compensation (relaxed thresholds)
+ Two-stage resize for very large faces
+ Distance-specific preprocessing
 
-🎮 Interactive Controls
+ Interactive Controls
 
-✅ Keyboard shortcuts ([Q]uit [S]creenshot [D]ebug [R]stats)
-✅ Manual screenshot saving
-✅ Debug information display
-✅ Recognition statistics
-✅ Fullscreen toggle capability
+ Keyboard shortcuts ([Q]uit [S]creenshot [D]ebug [R]stats)
+ Manual screenshot saving
+ Debug information display
+ Recognition statistics
+ Fullscreen toggle capability
 
-📊 Statistics & Monitoring
+ Statistics & Monitoring
 
-✅ Live FPS counters (detection, recognition)
-✅ Track counting (detecting, analyzing, authorized, alerts)
-✅ Enterprise metrics (temporal, adaptive, high-confidence decisions)
-✅ Evidence counter
-✅ Final surveillance report
+ Live FPS counters (detection, recognition)
+ Track counting (detecting, analyzing, authorized, alerts)
+ Enterprise metrics (temporal, adaptive, high-confidence decisions)
+ Evidence counter
+ Final surveillance report
 
-🔧 Performance Optimizations
+ Performance Optimizations
 
-✅ M3 Max GPU support (MPS)
-✅ Frame skipping for performance
-✅ Queue management (non-blocking)
-✅ Memory cleanup (old tracks, voting history)
-✅ Recognition caching
+ M3 Max GPU support (MPS)
+ Frame skipping for performance
+ Queue management (non-blocking)
+ Memory cleanup (old tracks, voting history)
+ Recognition caching
 
 
 
-# 🏆 OPTIMAL FACE RECOGNITION VALIDATION TARGETS
+#  OPTIMAL FACE RECOGNITION VALIDATION TARGETS
 
-## 📊 QUALITY SCORES (Most Important)
+##  QUALITY SCORES (Most Important)
 
-### 🎯 **TARGET VALUES:**
+###  **TARGET VALUES:**
 - **Minimum Quality:** 0.75+ (never below 0.7)
 - **Maximum Quality:** 0.90+ (excellent images)
 - **Average Quality:** 0.85+ (consistently high)
 
-### 📸 **HOW TO ACHIEVE:**
+### **HOW TO ACHIEVE:**
 ```
 ✅ Image Requirements:
    • Resolution: 640×640 pixels minimum
